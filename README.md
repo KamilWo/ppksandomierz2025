@@ -1,0 +1,1 @@
+# ppksandomierz2025
