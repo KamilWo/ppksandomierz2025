@@ -10,7 +10,6 @@
     </ol>
     <ol class="list-group">
         <li class="list-group-item"><strong>Wikariusze:</strong></li>
-        <li class="list-group-item">Ks.&nbsp;Krystian Kałuża (od&nbsp;2022&nbsp;roku)</li>
         <li class="list-group-item">Ks.&nbsp;Krystian Musiał (od&nbsp;2023&nbsp;roku)</li>
         <li class="list-group-item">Ks.&nbsp;Wojciech Zając (od&nbsp;2024&nbsp;roku)</li>
     </ol>
