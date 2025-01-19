@@ -19,7 +19,153 @@ include 'head.php';
                     <!-- treść główna -->
                     <div class="col">
                         <h2 class="first-content-header">Archiwum wiadomości 2025 rok</h2>
-                        <h2>Okres 1.&nbsp;stycznia - 12.&nbsp;stycznia 2025&nbsp;r.</h2>
+                        <h2>Okres 1.&nbsp;stycznia - 19.&nbsp;stycznia 2025&nbsp;r.</h2>
+
+                        <div class="card">
+                            <div class="card-header">
+                                <h3>INTENCJE MSZY ŚWIĘTYCH<br>
+                                    13.12. – 19.01.2025&nbsp;r.
+                                </h3>
+                            </div>
+                            <div class="col">
+                        <table class="aktualnosci_table" cellpadding="5" cellspacing="0">
+                            <tbody>
+                                <tr class="actualnosci_day">
+                                    <td><b>PONIEDZIAŁEK, 13&nbsp;stycznia</b></td>
+                                    <td><b></b></td>
+                                </tr>
+                                <tr style="border-bottom: 2px solid black;">
+                                    <td class="center">6.30</td>
+                                    <td>1. W&nbsp;int. Asi z&nbsp;racji urodzin
+                                        o&nbsp;potrzebne łaski<br>
+                                    2. + Jana Pazdro<br>
+                                    3. + Stanisławę Kozioł</td>
+                                </tr>
+                                <tr style="border-bottom: 2px solid black;">
+                                    <td class="center">18.00</td>
+                                    <td>1. + Marię, Władysława, Czesława Barańskich
+                                    i&nbsp;Andrzeja Krawczyka</td>
+                                </tr>
+                                <tr class="actualnosci_day">
+                                    <td><b>WTOREK, 14&nbsp;stycznia</b></td>
+                                    <td><b></b></td>
+                                </tr>
+                                <tr style="border-bottom: 2px solid black;">
+                                    <td class="center">6.30</td>
+                                    <td>1. + Jana Pazdro<br>
+                                    2. + Jerzego Janiszewskiego<br>
+                                    3. + Stanisławę Kozioł</td>
+                                </tr>
+                                <tr style="border-bottom: 2px solid black;">
+                                    <td class="center">18.00</td>
+                                    <td>1. KWC</td>
+                                </tr>
+                                <tr class="actualnosci_day">
+                                    <td><b>ŚRODA, 15&nbsp;stycznia</b></td>
+                                    <td><b></b></td>
+                                </tr>
+                                <tr style="border-bottom: 2px solid black;">
+                                    <td class="center">6.30</td>
+                                    <td>1. + Zdzisława Bernasia 5&nbsp;rocz. śm.<br>
+                                    2. + Jana Pazdro<br>
+                                    3. + Annę Płaza<br>
+                                    4. + Zdzisława Bernasia 5&nbsp;rocz. śm.</td>
+                                </tr>
+                                <tr style="border-bottom: 2px solid black;">
+                                    <td class="center">18.00</td>
+                                    <td>1. + Stanisława Dobrocha</td>
+                                </tr>
+                                <tr class="actualnosci_day">
+                                    <td><b>CZWARTEK, 16&nbsp;stycznia</b></td>
+                                    <td><b></b></td>
+                                </tr>
+                                <tr style="border-bottom: 2px solid black;">
+                                    <td class="center">6.30</td>
+                                    <td>1. + Kazimierza Karę<br>
+                                    2. + Jana Pazdro<br>
+                                    3. + Zuzannę Chrząstowską</td>
+                                </tr>
+                                <tr style="border-bottom: 2px solid black;">
+                                    <td class="center">18.00</td>
+                                    <td>1. 18&nbsp;rocz. powstania Legionu Maryi</td>
+                                </tr>
+                                <tr class="actualnosci_day">
+                                    <td><b>PIĄTEK, 17&nbsp;stycznia</b></td>
+                                    <td><b>Wspomnienie św.&nbsp;Antoniego Pustelnika</b></td>
+                                </tr>
+                                <tr style="border-bottom: 2px solid black;">
+                                    <td class="center">6.30</td>
+                                    <td>1. + Joannę Branię<br>
+                                    2. + Jana Pazdro<br>
+                                    3. + Stanisławę Kozioł</td>
+                                </tr>
+                                <tr style="border-bottom: 2px solid black;">
+                                    <td class="center">18.00</td>
+                                    <td>1. + Zofię Wałcerz</td>
+                                </tr>
+                                <tr class="actualnosci_day">
+                                    <td><b>SOBOTA, 18&nbsp;stycznia</b></td>
+                                    <td><b></b></td>
+                                </tr>
+                                <tr style="border-bottom: 2px solid black;">
+                                    <td class="center">6.30</td>
+                                    <td>1. + Jerzego Janiszewskiego<br>
+                                    2. + Zuzannę Chrząstowską</td>
+                                </tr>
+                                <tr style="border-bottom: 2px solid black;">
+                                    <td class="center">18.00</td>
+                                    <td>1. O&nbsp;Boże błog. dla Mai Szwagierczak
+                                        10&nbsp;rocz. urodzin<br>
+                                    2. + Jana Skorubskiego 31&nbsp;rocz. śm.</td>
+                                </tr>
+                                <tr class="actualnosci_day">
+                                    <td><b>NIEDZIELA, 19&nbsp;stycznia</b></td>
+                                    <td><b>
+                                        <span style="color: red">II&nbsp;Niedziela Zwykła</span>
+                                    </b></td>
+                                </tr>
+                                <tr style="border-bottom: 2px solid black;">
+                                    <td class="center">7.30</td>
+                                    <td>+ Edwarda Nowińskiego, Stefana i&nbsp;Stefanię
+                                    Szpakowskich</td>
+                                </tr>
+                                <tr style="border-bottom: 2px solid black;">
+                                    <td class="center">10.00</td>
+                                    <td>+ Sylwestra Gajka 10&nbsp;rocz. śm.</td>
+                                </tr>
+                                <tr style="border-bottom: 2px solid black;">
+                                    <td class="center">10.00</td>
+                                    <td>DK</td>
+                                </tr>
+                                <tr style="border-bottom: 2px solid black;">
+                                    <td class="center">12.30</td>
+                                    <td>Za&nbsp;parafian</td>
+                                </tr>
+                                <tr style="border-bottom: 2px solid black;">
+                                    <td class="center">18.00</td>
+                                    <td>+ Genowefę i&nbsp;Stanisława Rusaków</td>
+                                </tr>
+                            </tbody>
+                        </table>
+                            </div>
+                        </div>
+                        <br>
+                        <div class="card">
+                            <div class="card-header">
+                                UWAGA
+                            </div>
+                            <div class="col">
+                            <p style="text-decoration: underline; font-weight: bold;">UWAGA!</p>
+                            <p><strong>Przypominamy, że&nbsp;w&nbsp;niedzielę 19&nbsp;stycznia
+                            nie ma&nbsp;Mszy Świętej o&nbsp;godz.&nbsp;9.30 i&nbsp;11.15 –
+                            jest jedna Msza Święta o&nbsp;godz.&nbsp;10.00,
+                            a&nbsp;po&nbsp;niej koncert Orkiestry Reprezentacyjnej Straży
+                            Granicznej</strong></p>
+                            <p><strong>Intencje z&nbsp;godz.&nbsp;9.30 i&nbsp;11.15 będą
+                            polecane Panu Bogu na&nbsp;Mszy&nbsp;Św.
+                            o&nbsp;godz.&nbsp;10.00.</strong></p>
+                            </div>
+                        </div><br>
 
                         <div class="card">
                             <div class="card-header">
@@ -163,6 +309,97 @@ include 'head.php';
                                 </tr>
                             </tbody>
                         </table>
+                            </div>
+                        </div>
+                        <br>
+
+                        <div class="card">
+                            <div class="card-header">
+                                <h3>5.&nbsp;stycznia 2025&nbsp;r.</h3>
+                                <h3>II&nbsp;NIEDZIELA Po&nbsp;Narodzeniu Pańskim, Rok&nbsp;C</h3>
+                            </div>
+                            <div class="col">
+                                <p>1. Ks.&nbsp;Biskup Ordynariusz odwołał z&nbsp;funkcji wikariusza
+                                w&nbsp;naszej parafii ks.&nbsp;Krystiana Kałużę i&nbsp;skierował
+                                do&nbsp;posługi kapłańskiej w&nbsp;parafii w&nbsp;Klimontowie.
+                                Dziękujemy Mu za&nbsp;posługę w&nbsp;naszej parafii i&nbsp;życzymy
+                                zdrowia, i&nbsp;wszelkich łask w&nbsp;kapłańskim życiu.</p>
+                                <p>2. W&nbsp;niedzielę 19&nbsp;stycznia br. będziemy gościć
+                                w&nbsp;naszej parafii Reprezentacyjną Orkiestrę Służby Granicznej.
+                                Wystąpi ona w&nbsp;kościele na&nbsp;Mszy&nbsp;św. na&nbsp;10.00,
+                                a&nbsp;po&nbsp;Niej koncert kolęd w&nbsp;wykonaniu solistów
+                                i&nbsp;towarzyszącej im&nbsp;orkiestry. Jak zauważyliście nastąpi
+                                zmiana w&nbsp;godzinach Mszy Świętych niedzielnych. Tego dnia,
+                                tj.&nbsp;19&nbsp;stycznia br. nie będzie Mszy&nbsp;św.
+                                o&nbsp;godz.&nbsp;9.30 i&nbsp;11.15, a&nbsp;o&nbsp;wspomnianej 10.00,
+                                w&nbsp;tej Mszy&nbsp;św. koncelebrowanej będą polecane Panu Bogu,
+                                intencje mszalne z&nbsp;9.30 i&nbsp;11.15. Prosimy zapamiętać
+                                i&nbsp;poinformować innych. Zapraszamy do&nbsp;udziału
+                                we&nbsp;Mszy&nbsp;św. o&nbsp;10.00 i&nbsp;w&nbsp;koncercie.</p>
+                                <p>3. W&nbsp;najbliższy poniedziałek 6&nbsp;stycznia 2025 r.
+                                – Uroczystość Objawienia Pańskiego – w&nbsp;tradycji: Święto Trzech
+                                Króli – prządek Mszy&nbsp;św. jak w&nbsp;niedzielę. Poświęcenie kredy
+                                i&nbsp;kadzidła na&nbsp;Mszach św. Poświęconą kredą oznaczamy odrzwia
+                                naszych domów i&nbsp;mieszkań C+M+B 2025. O&nbsp;godz.&nbsp;12.00
+                                w&nbsp;tym dniu wyruszy od&nbsp;naszego kościoła orszak z&nbsp;jednym
+                                z&nbsp;„Trzech Króli”.  Wspólnie udamy się ze&nbsp;śpiewem kolęd
+                                do&nbsp;stajenki na&nbsp;rynku Starego Miasta, aby złożyć pokłon
+                                Nowonarodzonemu Królowi Świata. Zakończenie uroczystości
+                                o&nbsp;godz.&nbsp;13.30. Będzie gorąca herbata i&nbsp;pączek.
+                                Zapraszamy wszystkich, dorosłych, młodzież i&nbsp;dzieci! Zbieramy
+                                środki pielęgnacyjne, higieny i&nbsp;czystości dla Domu Pomocy
+                                Społecznej.</p>
+
+                                <p>4. <strong>Prządek Wizyty Duszpasterskiej: od&nbsp;07
+                                do&nbsp;11&nbsp;stycznia br.</strong></p>
+
+                                <p style="font-weight: bold; text-decoration: underline;">Wtorek
+                                od&nbsp;godz.&nbsp;15.00</p>
+                                <p>I&nbsp;Ksiądz – ul.&nbsp;Rolnicza ul.&nbsp;Ożarowska
+                                od&nbsp;nr&nbsp;123 w&nbsp;kierunku Sandomierza</p>
+                                <p>II&nbsp;Ksiądz – ul.&nbsp;Ożarowska od&nbsp;nr.&nbsp;5
+                                do&nbsp;zejścia</p>
+                                <p>III&nbsp;Ksiądz – Batalionów Chłopskich, Wiosenna
+                                i&nbsp;od&nbsp;16.00 Wiśniowa</p>
+
+                                <p style="font-weight: bold; text-decoration: underline;">Środa
+                                od&nbsp;godz.&nbsp;15.00</p>
+                                <p>I&nbsp;Ksiądz –  ul.&nbsp;Kochanowskiego od&nbsp;nr&nbsp;2</p>
+                                <p>II&nbsp;Ksiądz – ul.&nbsp;Kochanowskiego od&nbsp;nr&nbsp;72
+                                do&nbsp;zejścia</p>
+                                <p>III&nbsp;Ksiądz – ul.&nbsp;Sucharzowska i&nbsp;Klonowa</p>
+
+                                <p style="font-weight: bold; text-decoration: underline;">Czwartek
+                                od&nbsp;godz.&nbsp;15.00</p>
+                                <p><storng>Ul.&nbsp;Dąbrowskiego</storng></p>
+                                <p>I&nbsp;Ksiądz – ul.&nbsp;Szczęśliwa i&nbsp;następnie
+                                ul.&nbsp;Dąbrowskiego od&nbsp;nr.&nbsp;3</p>
+                                <p>II&nbsp;Ksiądz – od&nbsp;nr.&nbsp;64 do&nbsp;zejścia
+                                i&nbsp;ul.&nbsp;Młodożeńca</p>
+                                <p>III&nbsp;Ksiądz – Gałczyńskiego, Frankowskiego i&nbsp;Wiejska</p>
+
+
+                                <p style="font-weight: bold; text-decoration: underline;">Piątek
+                                od&nbsp;godz.&nbsp;15.00 Kobierniki</p>
+                                <p>I&nbsp;Ksiądz – od&nbsp;nr&nbsp;119 i&nbsp;kolejne przy drodze
+                                w&nbsp;kierunku Milczan</p>
+                                <p>II&nbsp;Ksiądz – od&nbsp;nr&nbsp;197 następnie 195, 194
+                                do&nbsp;zejścia</p>
+                                <p>III&nbsp;Ksiądz numery domów: 219, 218, 216, 212, 210,
+                                a&nbsp;potem 230 i&nbsp;dalej po&nbsp;drodze do&nbsp;Sandomierza</p>
+
+                                <p style="font-weight: bold; text-decoration: underline;">Sobota
+                                od&nbsp;godz.&nbsp;9.00 Kobierniki</p>
+                                <p>I&nbsp;Ksiądz – od&nbsp;ul.&nbsp;Polnej</p>
+                                <p>II&nbsp;Ksiądz – od&nbsp;ul.&nbsp;Mickiewicza nr&nbsp;115, 116,
+                                107, 106 kolejne do&nbsp;zejścia</p>
+                                <p>III&nbsp;Ksiądz – ul.&nbsp;Obrońców Westerplatte i&nbsp;ul.&nbsp;Przytulna</p>
+
+                                <p>5. Wszystkim uczestniczącym we Mszy św. życzymy błogosławionej niedzieli.</p>
+                                <p>
+                                    <span style="float: left;">Sandomierz, 5.&nbsp;stycznia 2025&nbsp;r.</span>
+                                    <span style="float: right; text-align: right;">ks.&nbsp;proboszcz Stanisław Chmielewski</span>
+                                </p>
                             </div>
                         </div>
                         <br>
