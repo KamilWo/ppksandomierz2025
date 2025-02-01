@@ -1,58 +1,62 @@
 <div class="card">
     <div class="card-header">
-        <h3>19.&nbsp;stycznia 2025&nbsp;r.</h3>
-        <h3>II&nbsp;NIEDZIELA Zwykła, Rok&nbsp;C</h3>
+        <h3>2.&nbsp;lutego 2025&nbsp;r.</h3>
+        <h3>IV&nbsp;NIEDZIELA Zwykła, Rok&nbsp;C</h3>
     </div>
     <div class="col">
-        <p>1. Bardzo serdecznie dziękujemy wszystkim parafianom, którzy
-        w&nbsp;minionym tygodniu przyjęli nas w&nbsp;swoich domach. Dziękujemy
-        za&nbsp;wszelkie wyrazy życzliwości i&nbsp;serdeczności z&nbsp;jakimi
-        spotkaliśmy się z&nbsp;Waszej strony. Niech dobry Bóg Wam wszystkim
-        błogosławi.</p>
-        <p>2. Dziś gościmy w&nbsp;naszej parafii Reprezentacyjną Orkiestrę
-        Straży Granicznej. Wystąpi ona w&nbsp;kościele na&nbsp;Mszy&nbsp;św.
-        o&nbsp;godz.&nbsp;10.00, a&nbsp;po&nbsp;Niej koncert kolęd
-        w&nbsp;wykonaniu solistów i&nbsp;towarzyszącej im&nbsp;orkiestry.
-        Zapraszamy.</p>
-        <p>3. Przypominamy, że&nbsp;w&nbsp;najbliższy wtorek obchodzimy Dzień
-        Babci, a&nbsp;w&nbsp;środę Dzień Dziadka. Pamiętajmy o&nbsp;nich
-        w&nbsp;modlitwach.</p>
-        <p>4. W&nbsp;najbliższy wtorek, jak w&nbsp;każdy trzeci wtorek
-        miesiąca w&nbsp;tym roku, zapraszamy na&nbsp;kolejne spotkanie
-        Akademii Biblijnej w&nbsp;Sandomierzu; poprowadzi je&nbsp;wykładowca
-        Pisma świętego w&nbsp;naszym seminarium, ks.&nbsp;Paweł Lasek. Tematem
-        tego spotkania będzie: <strong>Święty Jan i&nbsp;jego Ewangelia.</strong>
-        Spotkanie będzie we&nbsp;wtorek, 21&nbsp;stycznia o&nbsp;godz.&nbsp;18.45,
-        w&nbsp;auli Wyższego Seminarium Duchownego. Serdecznie zapraszamy!</p>
-        <p>5. Serdecznie zapraszamy na&nbsp;kolejny Wieczór Uwielbienia, który
-        odbędzie się w&nbsp;naszym kościele w&nbsp;najbliższą sobotę
-        25&nbsp;stycznia. Rozpoczęcie Mszą Świętą o&nbsp;godz.&nbsp;18.00.
-        Następnie adoracja Najświętszego Sakramentu.</p>
-        <p>6. <strong>Porządek wizyty duszpasterskiej w&nbsp;tym tygodniu:</strong></p>
-
-        <p style="font-weight: bold; text-decoration: underline;">Poniedziałek,
-        od&nbsp;godz.&nbsp;9.00 do&nbsp;13.00 potem od&nbsp;15.00 do&nbsp;18.00</p>
-        <p><strong>Ulica Maciejowskiego</strong></p>
-        <p>I&nbsp;Ksiądz – bloki nr:&nbsp;2 i&nbsp;4.</p>
-        <p>II&nbsp;Ksiądz – bloki nr:&nbsp;5 i&nbsp;7.</p>
-        <p>III&nbsp;Ksiądz – bloki nr:&nbsp;6, 8 i&nbsp;10.</p>
-
-        <p style="font-weight: bold; text-decoration: underline;">Wtorek,
-        od&nbsp;godz.&nbsp;9.00 do&nbsp;13.00 potem od&nbsp;15.00 do&nbsp;18.00</p>
-        <p><strong>Ulica Maciejowskiego</strong></p>
-        <p>I&nbsp;Ksiądz – bloki nr:&nbsp;9 i&nbsp;11.</p>
-        <p>II&nbsp;Ksiądz – bloki nr:&nbsp;13, 15, 32 i&nbsp;34.</p>
-        <p>III&nbsp;Ksiądz – bloki nr:&nbsp;36, 38 i&nbsp;40.</p>
-
-        <p>7. Wszystkie rodziny, które nie mogły przyjąć kapłana z&nbsp;wizytą
-        duszpasterską w&nbsp;wyznaczonym terminie, prosimy zgłaszać
-        w&nbsp;zakrystii do&nbsp;piątku <strong>24&nbsp;stycznia br.
-        Wszystkie</strong> te&nbsp;rodziny odwiedzimy w&nbsp;sobotę
-        25&nbsp;stycznia od&nbsp;godz.&nbsp;9.00.</p>
-        <p>8. Wszystkim uczestniczącym we&nbsp;Mszy&nbsp;św. życzymy
-        błogosławionej niedzieli.</p>
+        <p>1. Dziękujemy parafianom: paniom Grażynie Statuch, Marcie
+        Andrzejczak, Ewie i&nbsp;Jerzemu Tańskim, za&nbsp;pracę włożoną
+        w&nbsp;demontaż szopki bożonarodzeniowej w&nbsp;kościele parafialnym
+        w&nbsp;zeszłym tygodniu. Serdeczne <em>Bóg zapłać</em>.</p>
+        <p>2. W&nbsp;przyszłą niedzielę zbiórka do&nbsp;puszek na&nbsp;Fundusz
+        Pomocy Chorym Kapłanom Diecezji Sandomierskiej.</p>
+        <p>3. W&nbsp;liturgiczne wspomnienie Najśw. Maryi Panny
+        z&nbsp;Lourdes, 11&nbsp;lutego 2025 roku Diecezjalny Dzień Chorego.
+        Diecezjalne obchody Dnia Chorego pod przewodnictwem Ks.&nbsp;Bpa
+        Ordynariusza Krzysztofa Nitkiewicza odbędą się w&nbsp;Bazylice
+        Katedralnej w&nbsp;Sandomierzu. O&nbsp;godz.&nbsp;10.00 Msza Święta
+        koncelebrowana. Serdecznie zapraszamy osoby chore,
+        z&nbsp;niepełnosprawnością wraz z&nbsp;opiekunami, pracowników Służby
+        Zdrowia, duszpasterzy.</p>
+        <p>4. Wojownicy Maryi zapraszają do&nbsp;włączenia się
+        w&nbsp;inicjatywę Wielkiej Nowenny za&nbsp;Ojczyznę. Rozpocznie się
+        ona 11&nbsp;lutego i&nbsp;trwać będzie do&nbsp;15&nbsp;kwietnia.
+        Zachęcamy do&nbsp;udziału w&nbsp;tej modlitwie. Szczegóły
+        na&nbsp;plakacie i&nbsp;na&nbsp;stronie:
+        <strong><a href="https://www.polskanaskale.pl/">www.polskanaskale.pl</a></strong></p>
+        <p>5. W&nbsp;tym tygodniu Pierwszy czwartek i&nbsp;piątek miesiąca.
+        W&nbsp;Pierwszy Piątek Miesiąca, spowiedź w&nbsp;tym dniu
+        od&nbsp;godz.&nbsp;17.30.</p>
+        <p>6. Jutro, 3&nbsp;lutego będziemy obchodzić liturgiczne wspomnienie
+        Św.&nbsp;Błażeja, biskupa i&nbsp;męczennika. Św.&nbsp;Błażej jest
+        wspominany jako orędownik i&nbsp;opiekun wiernych, zwłaszcza
+        w&nbsp;chorobach gardła, dlatego na&nbsp;mszy świętej
+        o&nbsp;godz.&nbsp;18:00 będziemy modlić się przez wstawiennictwo
+        świętego patrona o&nbsp;zdrowie i&nbsp;poświęcimy w&nbsp;tym dniu
+        przyniesione do&nbsp;kościoła jabłka. Zapraszamy wszystkich parafian
+        do&nbsp;udziału w&nbsp;tej mszy świętej a&nbsp;szczególnie
+        sadowników.</p>
+        <p>7. W&nbsp;przyszłą niedzielę, 9&nbsp;lutego spotkanie dla
+        kandydatów do&nbsp;bierzmowania z&nbsp;klas 6, 7, i&nbsp;8, i&nbsp;ich
+        rodziców. Rozpoczęcie o&nbsp;12:30 Mszą Świętą, a&nbsp;po&nbsp;mszy
+        spotkanie w&nbsp;kościele.</p>
+        <p>8. Spotkania Duszpasterstwa Dzieci i&nbsp;Młodzieży w&nbsp;naszej
+        parafii w&nbsp;tym tygodniu będą odbywać się w&nbsp;następującym
+        porządku. Ministranci i&nbsp;kandydaci w&nbsp;czwartek o&nbsp;16:30
+        w&nbsp;kościele, schola w&nbsp;piątek o&nbsp;16:30 na&nbsp;plebanii
+        i&nbsp;grupa młodzieżowa w&nbsp;sobotę o&nbsp;16:30 na&nbsp;plebani.
+        Serdecznie zapraszamy dzieci i&nbsp;młodzież do&nbsp;udziału
+        w&nbsp;tych spotkaniach.</p>
+        <p>9. Spotkanie Kręgu biblijnego jutro po&nbsp;Mszy Świętej
+        wieczorowej.</p>
+        <p>10. Zachęcamy do&nbsp;czytania prasy katolickiej: „Niedziela”,
+        „Gość Niedzielny”.</p>
+        <p>11. Wszystkim, którzy w&nbsp;tym tygodniu obchodzą swoje imieniny,
+        urodziny, inne rocznice, składamy najlepsze życzenia z&nbsp;kapłańskim
+        błogosławieństwem. Wszystkim uczestniczącym we&nbsp;Mszy&nbsp;św.
+        życzymy błogosławionej niedzieli.</p>
         <p>
-            <span style="float: left;">Sandomierz, 19.&nbsp;stycznia 2025&nbsp;r.</span>
+            <span style="float: left;">Sandomierz, 2.&nbsp;lutego 2025&nbsp;r.</span>
             <span style="float: right; text-align: right;">ks.&nbsp;proboszcz Stanisław Chmielewski</span>
         </p>
     </div>
