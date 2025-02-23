@@ -19,7 +19,140 @@ include 'head.php';
                     <!-- treść główna -->
                     <div class="col">
                         <h2 class="first-content-header">Archiwum wiadomości 2025 rok</h2>
-                        <h2>Okres 1.&nbsp;stycznia - 16.&nbsp;lutego 2025&nbsp;r.</h2>
+                        <h2>Okres 1.&nbsp;stycznia - 23.&nbsp;lutego 2025&nbsp;r.</h2>
+
+                        <div class="card">
+                            <div class="card-header">
+                                <h3>INTENCJE MSZY ŚWIĘTYCH<br>
+                                    17.02. – 23.02.2025&nbsp;r.
+                                </h3>
+                            </div>
+                            <div class="col">
+                        <table class="aktualnosci_table" cellpadding="5" cellspacing="0">
+                            <tbody>
+                                <tr class="actualnosci_day">
+                                    <td><b>PONIEDZIAŁEK, 17&nbsp;lutego</b></td>
+                                    <td><b></b></td>
+                                </tr>
+                                <tr style="border-bottom: 2px solid black;">
+                                    <td class="center">6.30</td>
+                                    <td>1. + Joannę Branię<br>
+                                    2. + Wojciecha Warzochę</td>
+                                </tr>
+                                <tr style="border-bottom: 2px solid black;">
+                                    <td class="center">18.00</td>
+                                    <td>1. Dzięk-błag. o&nbsp;Boże błog. dla Madzi<br>
+                                    2. + Waldemara Pałachę</td>
+                                </tr>
+                                <tr class="actualnosci_day">
+                                    <td><b>WTOREK, 18&nbsp;lutego</b></td>
+                                    <td><b></b></td>
+                                </tr>
+                                <tr style="border-bottom: 2px solid black;">
+                                    <td class="center">6.30</td>
+                                    <td>1. + Stanisławę Kozioł<br>
+                                    2. + Mateusza Osmólskiego</td>
+                                </tr>
+                                <tr style="border-bottom: 2px solid black;">
+                                    <td class="center">18.00</td>
+                                    <td>1. + Martę Łabęcką<br>
+                                    2. + Teodorę i&nbsp;Henryka Dudków</td>
+                                </tr>
+                                <tr class="actualnosci_day">
+                                    <td><b>ŚRODA, 19&nbsp;lutego</b></td>
+                                    <td><b></b></td>
+                                </tr>
+                                <tr style="border-bottom: 2px solid black;">
+                                    <td class="center">6.30</td>
+                                    <td>1. + Tadeusza Rzeszowiaka<br>
+                                    2. + Mariana Strzębskiego</td>
+                                </tr>
+                                <tr style="border-bottom: 2px solid black;">
+                                    <td class="center">18.00</td>
+                                    <td>1. + Helenę i&nbsp;Piotra, zm. z&nbsp;rodz.
+                                        Grządkowskich<br>
+                                    2. + Zuzannę Chrząstowską</td>
+                                </tr>
+                                <tr class="actualnosci_day">
+                                    <td><b>CZWARTEK, 20&nbsp;lutego</b></td>
+                                    <td><b></b></td>
+                                </tr>
+                                <tr style="border-bottom: 2px solid black;">
+                                    <td class="center">6.30</td>
+                                    <td>1. + Tadeusza Rzeszowiaka<br>
+                                    2. + Mariana Strzębskiego</td>
+                                </tr>
+                                <tr style="border-bottom: 2px solid black;">
+                                    <td class="center">18.00</td>
+                                    <td>1. + Martę Łabęcką<br>
+                                    2. + Mateusza Osmólskiego</td>
+                                </tr>
+                                <tr class="actualnosci_day">
+                                    <td><b>PIĄTEK, 21&nbsp;lutego</b></td>
+                                    <td><b></b></td>
+                                </tr>
+                                <tr style="border-bottom: 2px solid black;">
+                                    <td class="center">6.30</td>
+                                    <td>1. + Joannę Branię<br>
+                                    2. + Tadeusza Rzeszowiaka</td>
+                                </tr>
+                                <tr style="border-bottom: 2px solid black;">
+                                    <td class="center">18.00</td>
+                                    <td>1. + Aleksandra i&nbsp;Stanisławę Kowalów<br>
+                                    2. + Józefę Bednarczyk<br>
+                                    3. + Mariana Strzębskiego</td>
+                                </tr>
+                                <tr class="actualnosci_day">
+                                    <td><b>SOBOTA, 22&nbsp;lutego</b></td>
+                                    <td><b>Święto Katedry św.&nbsp;Piotra Apostoła</b></td>
+                                </tr>
+                                <tr style="border-bottom: 2px solid black;">
+                                    <td class="center">6.30</td>
+                                    <td>1. + Waldemara Pałacha<br>
+                                    2. + Mieczysława, Helenę, Jana Wnuków, Katarzynę,
+                                    Stanisława Wyrzykowskich, Tadeusza Judę, Piotra
+                                    Bogdańskiego</td>
+                                </tr>
+                                <tr style="border-bottom: 2px solid black;">
+                                    <td class="center">18.00</td>
+                                    <td>1. + Martę Łabęcką<br>
+                                    2. + Tadeusza Rzeszowiaka</td>
+                                </tr>
+                                <tr class="actualnosci_day">
+                                    <td><b>NIEDZIELA, 23&nbsp;lutego</b></td>
+                                    <td><b>
+                                        <span style="color: red">VII&nbsp;Niedziela Zwykła</span>
+                                    </b></td>
+                                </tr>
+                                <tr style="border-bottom: 2px solid black;">
+                                    <td class="center">7.30</td>
+                                    <td>+ Kazimierza, Sylwestra Wojna, Halinę, Józefa
+                                    Bartłomiejczyków, Piotra, Mariannę i&nbsp;Leszka
+                                    Krawczyków</td>
+                                </tr>
+                                <tr style="border-bottom: 2px solid black;">
+                                    <td class="center">9.30</td>
+                                    <td>+ Zenona Mądrego 15&nbsp;rocz. śm., zm. rodziców;
+                                    Teresę, Eugeniusza Paciochów i&nbsp;zm. rodziców</td>
+                                </tr>
+                                <tr style="border-bottom: 2px solid black;">
+                                    <td class="center">11.15</td>
+                                    <td>Za&nbsp;parafian</td>
+                                </tr>
+                                <tr style="border-bottom: 2px solid black;">
+                                    <td class="center">12.30</td>
+                                    <td>+ Helenę, Jana, Bożenę, Ireneusza Kiliańskich, Sylwię
+                                    Pawłowską, zm. z&nbsp;rodz.</td>
+                                </tr>
+                                <tr style="border-bottom: 2px solid black;">
+                                    <td class="center">18.00</td>
+                                    <td>+ Zofię Wałcerz</td>
+                                </tr>
+                            </tbody>
+                        </table>
+                            </div>
+                        </div>
+                        <br>
 
                         <div class="card">
                             <div class="card-header">
@@ -289,6 +422,71 @@ include 'head.php';
                                 </tr>
                             </tbody>
                         </table>
+                            </div>
+                        </div>
+                        <br>
+
+                        <div class="card">
+                            <div class="card-header">
+                                <h3>2.&nbsp;lutego 2025&nbsp;r.</h3>
+                                <h3>IV&nbsp;NIEDZIELA Zwykła, Rok&nbsp;C</h3>
+                            </div>
+                            <div class="col">
+                                <p>1. Dziękujemy parafianom: paniom Grażynie Statuch, Marcie
+                                Andrzejczak, Ewie i&nbsp;Jerzemu Tańskim, za&nbsp;pracę włożoną
+                                w&nbsp;demontaż szopki bożonarodzeniowej w&nbsp;kościele parafialnym
+                                w&nbsp;zeszłym tygodniu. Serdeczne <em>Bóg zapłać</em>.</p>
+                                <p>2. W&nbsp;przyszłą niedzielę zbiórka do&nbsp;puszek na&nbsp;Fundusz
+                                Pomocy Chorym Kapłanom Diecezji Sandomierskiej.</p>
+                                <p>3. W&nbsp;liturgiczne wspomnienie Najśw. Maryi Panny
+                                z&nbsp;Lourdes, 11&nbsp;lutego 2025 roku Diecezjalny Dzień Chorego.
+                                Diecezjalne obchody Dnia Chorego pod przewodnictwem Ks.&nbsp;Bpa
+                                Ordynariusza Krzysztofa Nitkiewicza odbędą się w&nbsp;Bazylice
+                                Katedralnej w&nbsp;Sandomierzu. O&nbsp;godz.&nbsp;10.00 Msza Święta
+                                koncelebrowana. Serdecznie zapraszamy osoby chore,
+                                z&nbsp;niepełnosprawnością wraz z&nbsp;opiekunami, pracowników Służby
+                                Zdrowia, duszpasterzy.</p>
+                                <p>4. Wojownicy Maryi zapraszają do&nbsp;włączenia się
+                                w&nbsp;inicjatywę Wielkiej Nowenny za&nbsp;Ojczyznę. Rozpocznie się
+                                ona 11&nbsp;lutego i&nbsp;trwać będzie do&nbsp;15&nbsp;kwietnia.
+                                Zachęcamy do&nbsp;udziału w&nbsp;tej modlitwie. Szczegóły
+                                na&nbsp;plakacie i&nbsp;na&nbsp;stronie:
+                                <strong><a href="https://www.polskanaskale.pl/">www.polskanaskale.pl</a></strong></p>
+                                <p>5. W&nbsp;tym tygodniu Pierwszy czwartek i&nbsp;piątek miesiąca.
+                                W&nbsp;Pierwszy Piątek Miesiąca, spowiedź w&nbsp;tym dniu
+                                od&nbsp;godz.&nbsp;17.30.</p>
+                                <p>6. Jutro, 3&nbsp;lutego będziemy obchodzić liturgiczne wspomnienie
+                                Św.&nbsp;Błażeja, biskupa i&nbsp;męczennika. Św.&nbsp;Błażej jest
+                                wspominany jako orędownik i&nbsp;opiekun wiernych, zwłaszcza
+                                w&nbsp;chorobach gardła, dlatego na&nbsp;mszy świętej
+                                o&nbsp;godz.&nbsp;18:00 będziemy modlić się przez wstawiennictwo
+                                świętego patrona o&nbsp;zdrowie i&nbsp;poświęcimy w&nbsp;tym dniu
+                                przyniesione do&nbsp;kościoła jabłka. Zapraszamy wszystkich parafian
+                                do&nbsp;udziału w&nbsp;tej mszy świętej a&nbsp;szczególnie
+                                sadowników.</p>
+                                <p>7. W&nbsp;przyszłą niedzielę, 9&nbsp;lutego spotkanie dla
+                                kandydatów do&nbsp;bierzmowania z&nbsp;klas 6, 7, i&nbsp;8, i&nbsp;ich
+                                rodziców. Rozpoczęcie o&nbsp;12:30 Mszą Świętą, a&nbsp;po&nbsp;mszy
+                                spotkanie w&nbsp;kościele.</p>
+                                <p>8. Spotkania Duszpasterstwa Dzieci i&nbsp;Młodzieży w&nbsp;naszej
+                                parafii w&nbsp;tym tygodniu będą odbywać się w&nbsp;następującym
+                                porządku. Ministranci i&nbsp;kandydaci w&nbsp;czwartek o&nbsp;16:30
+                                w&nbsp;kościele, schola w&nbsp;piątek o&nbsp;16:30 na&nbsp;plebanii
+                                i&nbsp;grupa młodzieżowa w&nbsp;sobotę o&nbsp;16:30 na&nbsp;plebani.
+                                Serdecznie zapraszamy dzieci i&nbsp;młodzież do&nbsp;udziału
+                                w&nbsp;tych spotkaniach.</p>
+                                <p>9. Spotkanie Kręgu biblijnego jutro po&nbsp;Mszy Świętej
+                                wieczorowej.</p>
+                                <p>10. Zachęcamy do&nbsp;czytania prasy katolickiej: „Niedziela”,
+                                „Gość Niedzielny”.</p>
+                                <p>11. Wszystkim, którzy w&nbsp;tym tygodniu obchodzą swoje imieniny,
+                                urodziny, inne rocznice, składamy najlepsze życzenia z&nbsp;kapłańskim
+                                błogosławieństwem. Wszystkim uczestniczącym we&nbsp;Mszy&nbsp;św.
+                                życzymy błogosławionej niedzieli.</p>
+                                <p>
+                                    <span style="float: left;">Sandomierz, 2.&nbsp;lutego 2025&nbsp;r.</span>
+                                    <span style="float: right; text-align: right;">ks.&nbsp;proboszcz Stanisław Chmielewski</span>
+                                </p>
                             </div>
                         </div>
                         <br>
