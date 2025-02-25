@@ -76,9 +76,7 @@
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">18.00</td>
-            <td>1. O&nbsp;Boże błog., opiekę MB dla Aleksandry
-                w&nbsp;18 rocz. ur.<br>
-            2. + Mateusza Osmólskiego</td>
+            <td>1. + Mateusza Osmólskiego</td>
         </tr>
         <tr class="actualnosci_day">
             <td><b>SOBOTA, 1&nbsp;marca</b></td>
