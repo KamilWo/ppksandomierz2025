@@ -1,140 +1,156 @@
 <div class="card">
     <div class="card-header">
         <h3>INTENCJE MSZY ŚWIĘTYCH<br>
-            31.03. – 6.04.2025&nbsp;r.
+            7.04. – 13.04.2025&nbsp;r.
         </h3>
     </div>
     <div class="col">
 <table class="aktualnosci_table" cellpadding="5" cellspacing="0">
     <tbody>
         <tr class="actualnosci_day">
-            <td><b>PONIEDZIAŁEK, 31&nbsp;marca</b></td>
-            <td><b></b></td>
+            <td><b>PONIEDZIAŁEK, 7&nbsp;kwietnia</b></td>
+            <td><b>Rekolekcje wielkopostne</b></td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">6.30</td>
-            <td>1. + Waldemara Pałachę<br>
-            2. + Wacława Czerwca</td>
+            <td>1. O&nbsp;łaskę dobrej śmierci<br>
+            2. + Waldemara Pałachę</td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">18.00</td>
-            <td>1. + Bogusława Żyłę w&nbsp;9&nbsp;r.&nbsp;śm.<br>
-            2. + Józefa Kicińskiego</td>
-        </tr>
-
-
-        <tr class="actualnosci_day">
-            <td><b>WTOREK, 1&nbsp;kwietnia</b></td>
-            <td><b></b></td>
-        </tr>
-        <tr style="border-bottom: 2px solid black;">
-            <td class="center">6.30</td>
-            <td>1. + Joannę Brania<br>
-            2. + Wacława Czerwca</td>
-        </tr>
-        <tr style="border-bottom: 2px solid black;">
-            <td class="center">18.00</td>
-            <td>1. + Jana, Stanisławę, Witolda, Mariana, Stanisława,
-                Krystynę, Mariana, Janinę<br>
-            2. + Józefa Kicińskiego</td>
-        </tr>
-
-
-        <tr class="actualnosci_day">
-            <td><b>ŚRODA, 2&nbsp;kwietnia</b></td>
-            <td><b></b></td>
-        </tr>
-        <tr style="border-bottom: 2px solid black;">
-            <td class="center">6.30</td>
-            <td>1. + Tadeusza Krupę<br>
-            2. + Krystynę Gach</td>
-        </tr>
-        <tr style="border-bottom: 2px solid black;">
-            <td class="center">18.00</td>
-            <td>1. + Jana Mikulskiego<br>
-            2. + zm. z&nbsp;rodziny Erkolani</td>
-        </tr>
-
-
-        <tr class="actualnosci_day">
-            <td><b>CZWARTEK, 3&nbsp;kwietnia</b></td>
-            <td><b></b></td>
-        </tr>
-        <tr style="border-bottom: 2px solid black;">
-            <td class="center">6.30</td>
-            <td>1. O&nbsp;świętość kapłanów i&nbsp;nowe powołania<br>
-            2. + Stanisławę Kozioł</td>
-        </tr>
-        <tr style="border-bottom: 2px solid black;">
-            <td class="center">18.00</td>
-            <td>1. + Ryszarda Chrząstowskiego<br>
-            2. + Tadeusza Rzeszowiaka</td>
-        </tr>
-
-
-        <tr class="actualnosci_day">
-            <td><b>PIĄTEK, 4&nbsp;kwietnia</b></td>
-            <td><b></b></td>
-        </tr>
-        <tr style="border-bottom: 2px solid black;">
-            <td class="center">6.30</td>
-            <td>1. + Szczepana w&nbsp;r. śm. Emilię Dudek, Zdzisława,
-                Teodozję zm. z&nbsp;rodz., dusze w&nbsp;czyśćcu
-                cierpiące<br>
-            2. + Krystynę Gach</td>
-        </tr>
-        <tr style="border-bottom: 2px solid black;">
-            <td class="center">18.00</td>
-            <td>1. + Zdzisława Kulę, Tadeusza Trześniewskiego<br>
+            <td>1. + Józefa i&nbsp;Helenę Wąsików, Andrzeja Wąsika<br>
             2. + Jana Mikulskiego</td>
         </tr>
 
 
         <tr class="actualnosci_day">
-            <td><b>SOBOTA, 5&nbsp;kwietnia</b></td>
-            <td><b></b></td>
+            <td><b>WTOREK, 8&nbsp;kwietnia</b></td>
+            <td><b>Rekolekcje wielkopostne</b></td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">6.30</td>
-            <td>1. O&nbsp;potrzebne łaski dla dzieci
-                i&nbsp;chrześniaków<br>
+            <td>1. + Joannę Branię<br>
             2. + Krystynę Gach</td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">18.00</td>
-            <td>1. W&nbsp;int. Legionu Maryi<br>
-            2. Mieczysława Adamczyka w&nbsp;3&nbsp;r. śm., Agnieszkę,
-                Józefa Adamczyk</td>
+            <td>1. KWC<br>
+            2. + Rozalię i Stanisława Oszczudłowskich</td>
         </tr>
 
 
         <tr class="actualnosci_day">
-            <td><b>NIEDZIELA, 6&nbsp;kwietnia</b></td>
+            <td><b>ŚRODA, 9&nbsp;kwietnia</b></td>
+            <td><b></b></td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">6.30</td>
+            <td>1. + Krystynę Gach<br>
+            2. + Krzysztofa Zawidzkiego</td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">18.00</td>
+            <td>1. O&nbsp;łaskę doświadczenia Bożej miłości dla męża
+                Piotra i&nbsp;ojca Tadeusza<br>
+            2. + Jana Mikulskiego</td>
+        </tr>
+
+
+        <tr class="actualnosci_day">
+            <td><b>CZWARTEK, 10&nbsp;kwietnia</b></td>
+            <td><b></b></td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">6.30</td>
+            <td>1. + Krystynę Gach<br>
+            2. + Krzysztofa Zawidzkiego<br>
+            3. + Leszka Kondrata</td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">18.00</td>
+            <td>Sakrament Bierzmowania młodzieży naszej parafii</td>
+        </tr>
+
+
+        <tr class="actualnosci_day">
+            <td><b>PIĄTEK, 11&nbsp;kwietnia</b></td>
+            <td><b></b></td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">6.30</td>
+            <td>1. + Krystynę Gach<br>
+            2. + Krzysztofa Zawidzkiego</td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">16.30</td>
+            <td><strong>Droga Krzyżowa dla dzieci</strong></td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">17.15</td>
+            <td><strong>Droga Krzyżowa</strong></td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">18.00</td>
+            <td>1. + Jarosława rocz. śm., Genowefę, Stefana Burków,
+                Paulinę, Mieczysława i&nbsp;Tadeusza Ramusów<br>
+            2. + Waldemara Pałachę</td>
+        </tr>
+
+
+        <tr class="actualnosci_day">
+            <td><b>SOBOTA, 12&nbsp;kwietnia</b></td>
+            <td><b></b></td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">6.30</td>
+            <td>1. + Krystynę Gach<br>
+            2. + Leszka Kondrata</td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">18.00</td>
+            <td>1. + Ryszarda 21&nbsp;rocz. śm.<br>
+            2. + Stanisławę Zwolską 1&nbsp;rocz. śm.</td>
+        </tr>
+
+
+        <tr class="actualnosci_day">
+            <td><b>NIEDZIELA, 13&nbsp;kwietnia</b></td>
             <td><b>
-                <span style="color: red">V&nbsp;Niedziela Wielkiego
-                Postu</span>
+                <span style="color: red">Niedziela Palmowa czyli
+                Męki Pańskiej</span>
             </b></td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">7.30</td>
-            <td>+ Mieczysława Adamczyka (3R)</td>
+            <td>+ Krystynę Wziątek 4&nbsp;rocz. śm.</td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">9.30</td>
-            <td>+ Ireneusza Cichosza, Wojciecha Kaczmarka</td>
+            <td>+ Reginę, Józefa Buczków, Wandę, Stanisława,
+            Antoniego Słowików, Zofię, Mariana Wróblewskich</td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">11.15</td>
-            <td>W&nbsp;intencji Koła Żywego Różańca od&nbsp;Róży
-                Różańcowej z&nbsp;Milczan</td>
+            <td>+ Stefana Orłowskiego 4&nbsp;rocz. śm., zm.
+            z&nbsp;rodz. Orłowskich i&nbsp;Domoradzkich</td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">12.30</td>
-            <td>Za&nbsp;parafian</td>
+            <td>+ Marię, Władysława, Czesława Barańskich, Andrzeja
+            Krawczyka</td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">15.00</td>
+            <td><strong>Droga Krzyżowa ulicami miasta. Początek
+            w&nbsp;kościele seminaryjnym.</strong></td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">17.15</td>
+            <td><strong>Gorzkie Żale</strong></td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">18.00</td>
-            <td>+ Reginę, Edwarda Stępniów</td>
+            <td>Za&nbsp;parafian</td>
         </tr>
     </tbody>
 </table>
