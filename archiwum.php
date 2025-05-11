@@ -25,7 +25,7 @@ include 'head.php';
                             <div class="col-md-6 col-lg-4">
                                 <div class="card">
                                     <div class="card-header">
-                                        1.&nbsp;stycznia - 4.&nbsp;maja 2025&nbsp;r.
+                                        1.&nbsp;stycznia - 11.&nbsp;maja 2025&nbsp;r.
                                     </div>
                                     <div class="col">
                                         <p><a href="archiwum14.php" title="Archiwum 2025 roku"><i class="fa fa-archive"></i> Archiwum 2025 roku</a>.</p>
