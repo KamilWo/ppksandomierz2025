@@ -61,9 +61,9 @@ include 'head.php';
                                 </h3>
                             </div>
                             <div class="col">
-                                <table class="aktualnosci_table" cellpadding="5" cellspacing="0">
+                                <table class="aktualnosci_table">
                                     <tbody>
-                                        <tr class="actualnosci_day">
+                                        <tr class="aktualnosci_day">
                                             <td colspan="2" class="center"><b>26&nbsp;grudnia, Poniedziałek</b></td>
                                         </tr>
                                         <tr>
@@ -91,7 +91,7 @@ include 'head.php';
                                             <td class="center">12.30</td>
                                             <td>+ Romana, Mariannę, Józefa, Marcina, Antoninę Ozdobów</td>
                                         </tr>
-                                        <tr class="actualnosci_day">
+                                        <tr class="aktualnosci_day">
                                             <td colspan="2" class="center"><b>27&nbsp;grudnia, Wtorek</b></td>
                                         </tr>
                                         <tr>
@@ -114,7 +114,7 @@ include 'head.php';
                                             <td class="center">18.00</td>
                                             <td>+ Marię Chmielewską</td>
                                         </tr>
-                                        <tr class="actualnosci_day">
+                                        <tr class="aktualnosci_day">
                                             <td colspan="2" class="center"><b>28&nbsp;grudnia, Środa</b></td>
                                         </tr>
                                         <tr>
@@ -143,7 +143,7 @@ include 'head.php';
                                             <td class="center">18.00</td>
                                             <td>+ Marię Bieniek</td>
                                         </tr>
-                                        <tr class="actualnosci_day">
+                                        <tr class="aktualnosci_day">
                                             <td colspan="2" class="center"><b>29&nbsp;grudnia, Czwartek</b></td>
                                         </tr>
                                         <tr>
@@ -172,7 +172,7 @@ include 'head.php';
                                             <td>+ Władysława w&nbsp;r.&nbsp;śm., Mariannę, Jana
                                             Lipców, Jana Wnuka, Annę Tomaszewską</td>
                                         </tr>
-                                        <tr class="actualnosci_day">
+                                        <tr class="aktualnosci_day">
                                             <td colspan="2" class="center"><b>30&nbsp;grudnia, Piątek</b></td>
                                         </tr>
                                         <tr>
@@ -201,7 +201,7 @@ include 'head.php';
                                             <td class="center">18.00</td>
                                             <td>+ Teresę Piorun</td>
                                         </tr>
-                                        <tr class="actualnosci_day">
+                                        <tr class="aktualnosci_day">
                                             <td colspan="2" class="center"><b>31&nbsp;grudnia, Sobota</b></td>
                                         </tr>
                                         <tr>
@@ -224,7 +224,7 @@ include 'head.php';
                                             <td class="center">18.00</td>
                                             <td>+ Stanisława Branię</td>
                                         </tr>
-                                        <tr class="actualnosci_day">
+                                        <tr class="aktualnosci_day">
                                             <td colspan="2" class="center"><b>1&nbsp;stycznia, Niedziela –
                                             UROCZYSTOŚĆ BOŻEJ RODZICIELKI</b></td>
                                         </tr>
@@ -305,9 +305,9 @@ include 'head.php';
                                 </h3>
                             </div>
                             <div class="col">
-                        <table class="aktualnosci_table" cellpadding="5" cellspacing="0">
+                        <table class="aktualnosci_table">
                             <tbody>
-                                <tr class="actualnosci_day">
+                                <tr class="aktualnosci_day">
                                     <td colspan="2" class="center"><b>19&nbsp;grudnia, Poniedziałek</b></td>
                                 </tr>
                                 <tr>
@@ -335,7 +335,7 @@ include 'head.php';
                                     <td class="center">18.00</td>
                                     <td>+ Ewę Marciniak</td>
                                 </tr>
-                                <tr class="actualnosci_day">
+                                <tr class="aktualnosci_day">
                                     <td colspan="2" class="center"><b>20&nbsp;grudnia, Wtorek</b></td>
                                 </tr>
                                 <tr>
@@ -363,7 +363,7 @@ include 'head.php';
                                     <td class="center">18.00</td>
                                     <td>+ Jana Radzimowskiego, Alinę Wilczek</td>
                                 </tr>
-                                <tr class="actualnosci_day">
+                                <tr class="aktualnosci_day">
                                     <td colspan="2" class="center"><b>21&nbsp;grudnia, Środa</b></td>
                                 </tr>
                                 <tr>
@@ -391,7 +391,7 @@ include 'head.php';
                                     <td class="center">18.00</td>
                                     <td>+ Filipa Walickiego</td>
                                 </tr>
-                                <tr class="actualnosci_day">
+                                <tr class="aktualnosci_day">
                                     <td colspan="2" class="center"><b>22&nbsp;grudnia, Czwartek</b></td>
                                 </tr>
                                 <tr>
@@ -419,7 +419,7 @@ include 'head.php';
                                     <td class="center">18.00</td>
                                     <td>+ Roberta Drozda</td>
                                 </tr>
-                                <tr class="actualnosci_day">
+                                <tr class="aktualnosci_day">
                                     <td colspan="2" class="center"><b>23&nbsp;grudnia, Piątek</b></td>
                                 </tr>
                                 <tr>
@@ -447,7 +447,7 @@ include 'head.php';
                                     <td class="center">18.00</td>
                                     <td>+ Mariana Wojtasa</td>
                                 </tr>
-                                <tr class="actualnosci_day">
+                                <tr class="aktualnosci_day">
                                     <td colspan="2" class="center"><b>24&nbsp;grudnia, Sobota</b></td>
                                 </tr>
                                 <tr>
@@ -465,7 +465,7 @@ include 'head.php';
                                     <td class="center">6.30</td>
                                     <td>+ Helenę, Kazimierza Dominików</td>
                                 </tr>
-                                <tr class="actualnosci_day">
+                                <tr class="aktualnosci_day">
                                     <td colspan="2" class="center"><b>25&nbsp;grudnia, Niedziela –
                                     UROCZYSTOŚĆ BOŻEGO NARODZENIA</b></td>
                                 </tr>
@@ -554,9 +554,9 @@ include 'head.php';
                                 </h3>
                             </div>
                             <div class="col">
-                        <table class="aktualnosci_table" cellpadding="5" cellspacing="0">
+                        <table class="aktualnosci_table">
                             <tbody>
-                                <tr class="actualnosci_day">
+                                <tr class="aktualnosci_day">
                                     <td colspan="2" class="center"><b>12&nbsp;grudnia, Poniedziałek</b></td>
                                 </tr>
                                 <tr>
@@ -583,7 +583,7 @@ include 'head.php';
                                     <td class="center">18.00</td>
                                     <td>+ Filipa Walickiego</td>
                                 </tr>
-                                <tr class="actualnosci_day">
+                                <tr class="aktualnosci_day">
                                     <td colspan="2" class="center"><b>13&nbsp;grudnia, Wtorek</b></td>
                                 </tr>
                                 <tr>
@@ -611,7 +611,7 @@ include 'head.php';
                                     <td class="center">18.00</td>
                                     <td>+ Bronisława Socha</td>
                                 </tr>
-                                <tr class="actualnosci_day">
+                                <tr class="aktualnosci_day">
                                     <td colspan="2" class="center"><b>14&nbsp;grudnia, Środa</b></td>
                                 </tr>
                                 <tr>
@@ -638,7 +638,7 @@ include 'head.php';
                                     <td class="center">18.00</td>
                                     <td>+ Andrzeja Skoczkowskiego</td>
                                 </tr>
-                                <tr class="actualnosci_day">
+                                <tr class="aktualnosci_day">
                                     <td colspan="2" class="center"><b>15&nbsp;grudnia, Czwartek</b></td>
                                 </tr>
                                 <tr>
@@ -665,7 +665,7 @@ include 'head.php';
                                     <td class="center">18.00</td>
                                     <td>+ Anielę Sobczyk</td>
                                 </tr>
-                                <tr class="actualnosci_day">
+                                <tr class="aktualnosci_day">
                                     <td colspan="2" class="center"><b>16&nbsp;grudnia, Piątek</b></td>
                                 </tr>
                                 <tr>
@@ -693,7 +693,7 @@ include 'head.php';
                                     <td class="center">18.00</td>
                                     <td>+ Jana Mazura</td>
                                 </tr>
-                                <tr class="actualnosci_day">
+                                <tr class="aktualnosci_day">
                                     <td colspan="2" class="center"><b>17&nbsp;grudnia, Sobota</b></td>
                                 </tr>
                                 <tr>
@@ -722,7 +722,7 @@ include 'head.php';
                                     <td>+ Stanisława Ćmiela w&nbsp;r.&nbsp;śm.
                                     i&nbsp;zm.&nbsp;z&nbsp;rodz.</td>
                                 </tr>
-                                <tr class="actualnosci_day">
+                                <tr class="aktualnosci_day">
                                     <td colspan="2" class="center"><b>18&nbsp;grudnia, Niedziela –
                                     IV&nbsp;Niedziela Adwentu</b></td>
                                 </tr>
@@ -823,9 +823,9 @@ include 'head.php';
                                 </h3>
                             </div>
                             <div class="col">
-                        <table class="aktualnosci_table" cellpadding="5" cellspacing="0">
+                        <table class="aktualnosci_table">
                             <tbody>
-                                <tr class="actualnosci_day">
+                                <tr class="aktualnosci_day">
                                     <td colspan="2" class="center"><b>5&nbsp;grudnia, Poniedziałek</b></td>
                                 </tr>
                                 <tr>
@@ -857,7 +857,7 @@ include 'head.php';
                                     <td class="center">18.00</td>
                                     <td>+ Dariusza Pietrasik w&nbsp;m-c po&nbsp;śmierci</td>
                                 </tr>
-                                <tr class="actualnosci_day">
+                                <tr class="aktualnosci_day">
                                     <td colspan="2" class="center"><b>6&nbsp;grudnia, Wtorek</b></td>
                                 </tr>
                                 <tr>
@@ -884,7 +884,7 @@ include 'head.php';
                                     <td class="center">18.00</td>
                                     <td>+ Huberta Dąbrowskiego</td>
                                 </tr>
-                                <tr class="actualnosci_day">
+                                <tr class="aktualnosci_day">
                                     <td colspan="2" class="center"><b>7&nbsp;grudnia, Środa –
                                     św.&nbsp;Ambrożego</b></td>
                                 </tr>
@@ -916,7 +916,7 @@ include 'head.php';
                                     <td class="center">18.00</td>
                                     <td>+ Huberta Dąbrowskieo</td>
                                 </tr>
-                                <tr class="actualnosci_day">
+                                <tr class="aktualnosci_day">
                                     <td colspan="2" class="center"><b>8&nbsp;grudnia, Czwartek –
                                     Niepokalanie Poczęcie NMP</b></td>
                                 </tr>
@@ -953,7 +953,7 @@ include 'head.php';
                                     <td class="center">18.00</td>
                                     <td>+ Janusza Tworowskiego</td>
                                 </tr>
-                                <tr class="actualnosci_day">
+                                <tr class="aktualnosci_day">
                                     <td colspan="2" class="center"><b>9&nbsp;grudnia, Piątek</b></td>
                                 </tr>
                                 <tr>
@@ -985,7 +985,7 @@ include 'head.php';
                                     <td class="center">18.00</td>
                                     <td>+ Stanisławę Skoczylas</td>
                                 </tr>
-                                <tr class="actualnosci_day">
+                                <tr class="aktualnosci_day">
                                     <td colspan="2" class="center"><b>10&nbsp;grudnia, Sobota</b></td>
                                 </tr>
                                 <tr>
@@ -1013,7 +1013,7 @@ include 'head.php';
                                     <td>+ Józefa (+15), Reginę Buczków, Łucję, Wojciecha,
                                     Dionizego Książków, Zofię Wróblewską</td>
                                 </tr>
-                                <tr class="actualnosci_day">
+                                <tr class="aktualnosci_day">
                                     <td colspan="2" class="center"><b>11&nbsp;grudnia, Niedziela –
                                     III&nbsp;Niedziela Adwentu</b></td>
                                 </tr>
@@ -1118,9 +1118,9 @@ include 'head.php';
                                 </h3>
                             </div>
                             <div class="col">
-                        <table class="aktualnosci_table" cellpadding="5" cellspacing="0">
+                        <table class="aktualnosci_table">
                             <tbody>
-                                <tr class="actualnosci_day">
+                                <tr class="aktualnosci_day">
                                     <td colspan="2" class="center"><b>28&nbsp;listopada, Poniedziałek</b></td>
                                 </tr>
                                 <tr>
@@ -1147,7 +1147,7 @@ include 'head.php';
                                     <td class="center">18.00</td>
                                     <td>+ Huberta Dąbrowskiego</td>
                                 </tr>
-                                <tr class="actualnosci_day">
+                                <tr class="aktualnosci_day">
                                     <td colspan="2" class="center"><b>29&nbsp;listopada, Wtorek</b></td>
                                 </tr>
                                 <tr>
@@ -1174,7 +1174,7 @@ include 'head.php';
                                     <td class="center">18.00</td>
                                     <td>+ Krzysztofa Bajdę</td>
                                 </tr>
-                                <tr class="actualnosci_day">
+                                <tr class="aktualnosci_day">
                                     <td colspan="2" class="center"><b>30&nbsp;listopada, Środa –
                                     św.&nbsp;Andrzeja Apostoła</b></td>
                                 </tr>
@@ -1202,7 +1202,7 @@ include 'head.php';
                                     <td class="center">18.00</td>
                                     <td>+ Filipa Walickiego</td>
                                 </tr>
-                                <tr class="actualnosci_day">
+                                <tr class="aktualnosci_day">
                                     <td colspan="2" class="center"><b>1&nbsp;grudnia, Czwartek</b></td>
                                 </tr>
                                 <tr>
@@ -1229,7 +1229,7 @@ include 'head.php';
                                     <td class="center">18.00</td>
                                     <td>+ Bronisławę (+5), Józefa Zbylutów</td>
                                 </tr>
-                                <tr class="actualnosci_day">
+                                <tr class="aktualnosci_day">
                                     <td colspan="2" class="center"><b>2&nbsp;grudnia, Piątek</b></td>
                                 </tr>
                                 <tr>
@@ -1258,7 +1258,7 @@ include 'head.php';
                                     <td>W&nbsp;int. Ireny w&nbsp;dniu urodzin, o&nbsp;BB,
                                     potrzebne łaski, opiekę MB</td>
                                 </tr>
-                                <tr class="actualnosci_day">
+                                <tr class="aktualnosci_day">
                                     <td colspan="2" class="center"><b>3&nbsp;grudnia, Sobota –
                                     św.&nbsp;Franciszka Ksawerego</b></td>
                                 </tr>
@@ -1287,7 +1287,7 @@ include 'head.php';
                                     <td class="center">18.00</td>
                                     <td>+ Filipa Walickiego</td>
                                 </tr>
-                                <tr class="actualnosci_day">
+                                <tr class="aktualnosci_day">
                                     <td colspan="2" class="center"><b>4&nbsp;grudnia, Niedziela –
                                     II&nbsp;Niedziela Adwentu</b></td>
                                 </tr>
@@ -1399,9 +1399,9 @@ include 'head.php';
                                 </h3>
                             </div>
                             <div class="col">
-                        <table class="aktualnosci_table" cellpadding="5" cellspacing="0">
+                        <table class="aktualnosci_table">
                             <tbody>
-                                <tr class="actualnosci_day">
+                                <tr class="aktualnosci_day">
                                     <td colspan="2" class="center"><b>21&nbsp;listopada, Poniedziałek</b></td>
                                 </tr>
                                 <tr>
@@ -1428,7 +1428,7 @@ include 'head.php';
                                     <td class="center">18.00</td>
                                     <td>+ Helenę, Edwarda Rewerów</td>
                                 </tr>
-                                <tr class="actualnosci_day">
+                                <tr class="aktualnosci_day">
                                     <td colspan="2" class="center"><b>22&nbsp;listopada, Wtorek –
                                     Wsp. św.&nbsp;Cecylii</b></td>
                                 </tr>
@@ -1456,7 +1456,7 @@ include 'head.php';
                                     <td class="center">18.00</td>
                                     <td>+ Reginę, Józefa Buczków, Wandę, Stanisława Słowików, Zofię Wróblewską</td>
                                 </tr>
-                                <tr class="actualnosci_day">
+                                <tr class="aktualnosci_day">
                                     <td colspan="2" class="center"><b>23&nbsp;listopada, Środa</b></td>
                                 </tr>
                                 <tr>
@@ -1487,7 +1487,7 @@ include 'head.php';
                                     <td class="center">18.00</td>
                                     <td>+ Witolda (+4), Teresę w r. śm. Rybów, i zm. z rodz.</td>
                                 </tr>
-                                <tr class="actualnosci_day">
+                                <tr class="aktualnosci_day">
                                     <td colspan="2" class="center"><b>24&nbsp;listopada, Czwartek –
                                     Wsp. św.&nbsp;Andrzeja Dung-Lac i&nbsp;Towarzyszy</b></td>
                                 </tr>
@@ -1515,7 +1515,7 @@ include 'head.php';
                                     <td class="center">18.00</td>
                                     <td>+ Genowefę, Mieczysława Chałupczaków</td>
                                 </tr>
-                                <tr class="actualnosci_day">
+                                <tr class="aktualnosci_day">
                                     <td colspan="2" class="center"><b>25&nbsp;listopada, Piątek –
                                     Wsp. św.&nbsp;Katarzyny Aleksandryjskiej</b></td>
                                 </tr>
@@ -1543,7 +1543,7 @@ include 'head.php';
                                     <td class="center">18.00</td>
                                     <td>+ Dorotę Budzińską</td>
                                 </tr>
-                                <tr class="actualnosci_day">
+                                <tr class="aktualnosci_day">
                                     <td colspan="2" class="center"><b>26&nbsp;listopada, Sobota</b></td>
                                 </tr>
                                 <tr>
@@ -1570,7 +1570,7 @@ include 'head.php';
                                     <td class="center">18.00</td>
                                     <td>+ Huberta Dąbrowskiego</td>
                                 </tr>
-                                <tr class="actualnosci_day">
+                                <tr class="aktualnosci_day">
                                     <td colspan="2" class="center"><b>27&nbsp;listopada, Niedziela –
                                     I&nbsp;Niedziela Adwentu</b></td>
                                 </tr>
@@ -1677,9 +1677,9 @@ include 'head.php';
                                 </h3>
                             </div>
                             <div class="col">
-                        <table class="aktualnosci_table" cellpadding="5" cellspacing="0">
+                        <table class="aktualnosci_table">
                             <tbody>
-                                <tr class="actualnosci_day">
+                                <tr class="aktualnosci_day">
                                     <td colspan="2" class="center"><b>14&nbsp;listopada, Poniedziałek</b></td>
                                 </tr>
                                 <tr>
@@ -1706,7 +1706,7 @@ include 'head.php';
                                     <td class="center">18.00</td>
                                     <td>+ Ryszarda Kaczora</td>
                                 </tr>
-                                <tr class="actualnosci_day">
+                                <tr class="aktualnosci_day">
                                     <td colspan="2" class="center"><b>15&nbsp;listopada, Wtorek</b></td>
                                 </tr>
                                 <tr>
@@ -1733,7 +1733,7 @@ include 'head.php';
                                     <td class="center">18.00</td>
                                     <td>+ Mariannę, Józefa Kondeuszów, i&nbsp;ich rodziców, Kazimierza</td>
                                 </tr>
-                                <tr class="actualnosci_day">
+                                <tr class="aktualnosci_day">
                                     <td colspan="2" class="center"><b>16&nbsp;listopada, Środa</b></td>
                                 </tr>
                                 <tr>
@@ -1760,7 +1760,7 @@ include 'head.php';
                                     <td class="center">18.00</td>
                                     <td>+ Krystynę Przewlekłą</td>
                                 </tr>
-                                <tr class="actualnosci_day">
+                                <tr class="aktualnosci_day">
                                     <td colspan="2" class="center"><b>17&nbsp;listopada, Czwartek – Wsp.&nbsp;św.&nbsp;Elżbiety Węgierskiej</b></td>
                                 </tr>
                                 <tr>
@@ -1791,7 +1791,7 @@ include 'head.php';
                                     <td class="center">18.00</td>
                                     <td>+ Mariannę Chorąży</td>
                                 </tr>
-                                <tr class="actualnosci_day">
+                                <tr class="aktualnosci_day">
                                     <td colspan="2" class="center"><b>18&nbsp;listopada, Piątek – Wsp. bł.&nbsp;Karoliny Kózkównej</b></td>
                                 </tr>
                                 <tr>
@@ -1818,7 +1818,7 @@ include 'head.php';
                                     <td class="center">18.00</td>
                                     <td>+ Mariannę Chorąży</td>
                                 </tr>
-                                <tr class="actualnosci_day">
+                                <tr class="aktualnosci_day">
                                     <td colspan="2" class="center"><b>19&nbsp;listopada, Sobota</b></td>
                                 </tr>
                                 <tr>
@@ -1845,7 +1845,7 @@ include 'head.php';
                                     <td class="center">18.00</td>
                                     <td>+ Teresę Łabęcką-Kwasek</td>
                                 </tr>
-                                <tr class="actualnosci_day">
+                                <tr class="aktualnosci_day">
                                     <td colspan="2" class="center"><b>20&nbsp;listopada, Niedziela – Uroczystość Chrystusa Króla</b></td>
                                 </tr>
                                 <tr>
