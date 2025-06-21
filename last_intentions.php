@@ -1,152 +1,149 @@
 <div class="card">
     <div class="card-header">
         <h3>INTENCJE MSZY ŚWIĘTYCH<br>
-            16.06. – 22.06.2025&nbsp;r.
+            23.06. – 29.06.2025&nbsp;r.
         </h3>
     </div>
     <div class="col">
 <table class="aktualnosci_table" cellpadding="5" cellspacing="0">
     <tbody>
         <tr class="actualnosci_day">
-            <td><b>PONIEDZIAŁEK, 16&nbsp;czerwca</b></td>
+            <td><b>PONIEDZIAŁEK, 23&nbsp;czerwca</b></td>
             <td><b></b></td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">6.30</td>
-            <td>1. + Henryka Pietruszkę – greg.<br>
-            2. O&nbsp;Boże błog., opiekę MB i&nbsp;łaskę zdrowia dla
-                całej rodziny Sapielaków i&nbsp;Gaców</td>
-        </tr>
-        <tr style="border-bottom: 2px solid black;">
-            <td class="center">18.00</td>
-            <td>1. + Stanisława Bartosza (nazwisko)<br>
-            2. + Kazimierę Jaglewicza 21&nbsp;rocz. śm., Albinę,
-                Feliksa Borkowskich, Broniławę Borkowską</td>
-        </tr>
-
-
-        <tr class="actualnosci_day">
-            <td><b>WTOREK, 17&nbsp;czerwca</b></td>
-            <td><b>Wspomnienie Św.&nbsp;Brata Alberta Chmielowskiego
-            – Odpust parafialny</b></td>
-        </tr>
-        <tr style="border-bottom: 2px solid black;">
-            <td class="center">6.30</td>
-            <td>1. + Henryka Pietruszkę – greg.<br>
+            <td>1. + Zdzisława, zm. z&nbsp;rodz. i&nbsp;dusze
+                w&nbsp;czyśćcu cierpiące<br>
             2. + Pawła Piątka</td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
-            <td class="center">9.00</td>
-            <td>+ Alicję Przyłucką, Annę, Zygmunta Stylskich</td>
-        </tr>
-        <tr style="border-bottom: 2px solid black;">
             <td class="center">18.00</td>
-            <td>1. Za&nbsp;parafian<br>
-            2. + Mariannę, Franciszka, Henryka Banasiewiczów,
-                Stanisławę Asik</td>
+            <td>1. Dzięk.-błag. w&nbsp;50 rocz. ur.&nbsp;Wojciecha<br>
+            2. + Marię, Władysława, Czesława Barańskich, Andrzeja
+                Krawczyka, Władysławę Krawczyk</td>
         </tr>
 
 
         <tr class="actualnosci_day">
-            <td><b>ŚRODA, 18&nbsp;czerwca</b></td>
+            <td><b>WTOREK, 24&nbsp;czerwca</b></td>
+            <td><b>Uroczystość św.&nbsp;Jana Chrzciciela</b></td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">6.30</td>
+            <td>1. + Jana Radzimowskiego<br>
+            2. + Janinę Ziębę</td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">18.00</td>
+            <td>1. + Mariana Lesiaka<br>
+            2. + Jana Chmiela</td>
+        </tr>
+
+
+        <tr class="actualnosci_day">
+            <td><b>ŚRODA, 25&nbsp;czerwca</b></td>
             <td><b></b></td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">6.30</td>
-            <td>1. W&nbsp;int. Asi i&nbsp;Daniela 5&nbsp;rocz. ślubu
-                – o&nbsp;Boże błog.<br>
-            2. + Pawła Piątka</td>
+            <td>1. + Pawła Piątka<br>
+            2. + Marię Szwagierczak</td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">18.00</td>
-            <td>1. O&nbsp;Boże błog., potrzebne łaski, opiekę MB dla
-                Joanny i&nbsp;Jarosława – 32&nbsp;rocz. ślubu<br>
-            2. + Henryka Pietruszkę – greg.</td>
+            <td>1. + Jana i&nbsp;Janinę<br>
+            2. O&nbsp;Boże błog., opiekę MB dla Aleksandry
+                w&nbsp;18 rocz. ur.</td>
         </tr>
 
 
         <tr class="actualnosci_day">
-            <td><b>CZWARTEK, 19&nbsp;czerwca</b></td>
-            <td><b>Uroczystość Najświętszego Ciała i&nbsp;Krwi
-            Chrystusa – Boże Ciało</b></td>
-        </tr>
-        <tr style="border-bottom: 2px solid black;">
-            <td class="center">7.30</td>
-            <td>1. + Teresę, Józefa Janasów<br>
-            2. + Mariana Cichonia</td>
-        </tr>
-        <tr style="border-bottom: 2px solid black;">
-            <td class="center">9.30</td>
-            <td>Za&nbsp;parafian</td>
-        </tr>
-        <tr style="border-bottom: 2px solid black;">
-            <td class="center">18.00</td>
-            <td>+ Henryka Pietruszkę – greg.</td>
-        </tr>
-
-
-        <tr class="actualnosci_day">
-            <td><b>PIĄTEK, 20&nbsp;czerwca</b></td>
+            <td><b>CZWARTEK, 26&nbsp;czerwca</b></td>
             <td><b></b></td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">6.30</td>
-            <td>1. + Henryka Pietruszkę – greg.<br>
-            2. + Pawła Piątka</td>
+            <td>1. + Pawła Piątka<br>
+            2. + Teodozję Zięba</td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">18.00</td>
-            <td>1. + Mieczysława Chmiela 5 rocz. śm.<br>
-            2. + Elżbietę Sapielak</td>
+            <td>1. + Ewę Wrzosek 26&nbsp;rocz. śm., Bartłomieja,
+                Jana, Teresę i&nbsp;Janinę<br>
+            2. + Krystynę Gach</td>
         </tr>
 
 
         <tr class="actualnosci_day">
-            <td><b>SOBOTA, 21&nbsp;czerwca</b></td>
-            <td><b>Wspomnienie św.&nbsp;Alojzego Gonzagi</b></td>
+            <td><b>PIĄTEK, 27&nbsp;czerwca</b></td>
+            <td><b>Uroczystość Najświętszego Serca Pana Jezusa –
+            Dzień modlitw o&nbsp;świętość kapłanów</b></td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">6.30</td>
-            <td>1. + Henryka Pietruszkę – greg.<br>
-            2. + Emilię Rowińską</td>
+            <td>+ Pawła Piątka</td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">8.00</td>
+            <td>+ Marię Szwagierczak</td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">18.00</td>
-            <td>1. + Zygmunta i&nbsp;Urszulę, i&nbsp;zm.
-                z&nbsp;rodz.<br>
-            2. + Katarzynę, Józefa Mączków</td>
+            <td>1. + Henryka Króla, zm. z&nbsp;rodz. Królów,
+                Osmólskich, Szczębarów, Golców i&nbsp;dusze
+                w&nbsp;czyśćcu cierpiące<br>
+            2. + Wacława Czerwca</td>
         </tr>
 
 
         <tr class="actualnosci_day">
-            <td><b>NIEDZIELA, 22&nbsp;czerwca</b></td>
+            <td><b>SOBOTA, 28&nbsp;czerwca</b></td>
+            <td><b>Wspomnienie Niepokalanego Serca NMP</b></td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">6.30</td>
+            <td>+ Pawła Piątka</td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">18.00</td>
+            <td>1. + Jana Makowskiego, Jana, Klarę, Ryszarda
+                Chrząstowskich<br>
+            2. + Piotra, Zofię, Józefa Mroczkowskich, zm.
+                z&nbsp;rodz., dusze w&nbsp;czyśćcu cierpiące</td>
+        </tr>
+
+
+        <tr class="actualnosci_day">
+            <td><b>NIEDZIELA, 29&nbsp;czerwca</b></td>
             <td><b>
-                <span style="color: red">XII&nbsp;Niedziela Zwykła</span>
+                <span style="color: red">Uroczystość Świętych
+                Apostołów Piotra i&nbsp;Pawła</span>
             </b></td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">7.30</td>
-            <td>+ Stanisława Nawarę, Michalinę, Józefa Strawczyńskich,
-            zm. z&nbsp;rodz.</td>
+            <td>+ Władysława, Władysławę Mrówków; zm. z&nbsp;rodz.
+                Mrówków i&nbsp;Wodzów</td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">9.30</td>
-            <td>+ Henryka Stefańskiego rocz. śm.</td>
+            <td>+ Jana Rogowskiego, Stanisława Kozacza</td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">11.15</td>
-            <td>1. + Jana Słyka<br>
-            2. Za&nbsp;parafian</td>
+            <td>+ Zofię Smolińską 9&nbsp;rocz. śm.</td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">12.30</td>
-            <td>+ Henryka Pietruszkę – greg.</td>
+            <td>1. Dziękczynna z&nbsp;racji 50&nbsp;rocz. ślubu Ewy
+                i&nbsp;Andrzeja Strzeszerskich<br>
+            2. O&nbsp;Boże błog., potrzebne łaski, opiekę MB dla
+                Marii i&nbsp;Mariana Buczków – 50&nbsp;rocz. ślubu</td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">18.00</td>
-            <td>O&nbsp;Boże błog., opotrzebne łaski, opiekę MB dla
-                Sabiny i&nbsp;Stanisława Łukaszków - 50&nbsp;rocz.
-                ślubu</td>
+            <td>O&nbsp;Boże błog. dla Kasi</td>
         </tr>
     </tbody>
 </table>
