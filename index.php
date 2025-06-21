@@ -12,7 +12,7 @@ include 'head.php';
 include 'facebook.php';
 ?>
 <div id="outer">
-    <main role="main">
+    <main>
         <?php
         include 'menu.php';
         ?>

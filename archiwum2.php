@@ -8,7 +8,7 @@ include_once(SITE_ROOT.'/include/start.php');
 include 'head.php';
 ?>
 <body id="page-top">
-<main role="main">
+<main>
     <?php
     include 'menu.php';
     ?>
