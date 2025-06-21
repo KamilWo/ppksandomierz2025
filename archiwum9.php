@@ -1915,7 +1915,7 @@ include 'head.php';
 
                                 <img src="static/download/20201004_074921.webp"
                                      alt="Pismo z Kurii Diecezjalnej"
-                                     style="max-width: 100%;"/>
+                                     style="max-width: 100%;">
 
                                 <p>1. <strong>Ponieważ bardzo zwiększyła się liczba zakażeń
                                 koronawirusem, zamówiłem 4&nbsp;przenośne urządzenia
@@ -1996,7 +1996,7 @@ include 'head.php';
                                 następującej treści
                                 <img src="static/download/20200906_072048.webp"
                                      alt="Pismo z Kurii Diecezjalnej"
-                                     style="max-width: 100%;"/>
+                                     style="max-width: 100%;">
                                 (pismo w&nbsp;załączeniu w&nbsp;ogłoszeniach z&nbsp;niedzieli XXIII).
                                 W&nbsp;związku z&nbsp;powyższym oczekujemy na&nbsp;wyznaczenie przez
                                 księdza biskupa proboszcza dla naszej parafii, ja&nbsp;do&nbsp;jego
@@ -2078,7 +2078,7 @@ include 'head.php';
                                 następującej treści
                                 <img src="static/download/20200906_072048.webp"
                                      alt="Pismo z Kurii Diecezjalnej"
-                                     style="max-width: 100%;"/>
+                                     style="max-width: 100%;">
                                 (pismo w&nbsp;załączeniu w&nbsp;ogłoszeniach z&nbsp;niedzieli XXIII).
                                 W&nbsp;związku z&nbsp;powyższym oczekujemy na&nbsp;wyznaczenie przez
                                 księdza biskupa proboszcza dla naszej parafii, ja&nbsp;do&nbsp;jego
@@ -2158,7 +2158,7 @@ include 'head.php';
                                 następującej treści
                                 <img src="static/download/20200906_072048.webp"
                                      alt="Pismo z Kurii Diecezjalnej"
-                                     style="max-width: 100%;"/>
+                                     style="max-width: 100%;">
                                 (pismo w&nbsp;załączeniu w&nbsp;ogłoszeniach z&nbsp;niedzieli XXIII).
                                 W&nbsp;związku z&nbsp;powyższym oczekujemy na&nbsp;wyznaczenie przez
                                 księdza biskupa proboszcza dla naszej parafii, ja&nbsp;do&nbsp;jego
@@ -2254,7 +2254,7 @@ include 'head.php';
                                 2&nbsp;września otrzymałem pismo następującej treści …<br>
                                 <img src="static/download/20200906_072048.webp"
                                      alt="Pismo z Kurii Diecezjalnej"
-                                     style="max-width: 100%;"/>
+                                     style="max-width: 100%;">
                                 w&nbsp;związku z&nbsp;powyższym oczekujemy
                                 na&nbsp;wyznaczenie przez księdza biskupa proboszcza dla
                                 naszej parafii, ja&nbsp;do&nbsp;jego przyjścia pełnię
@@ -4087,7 +4087,7 @@ include 'head.php';
                             </div>
                             <div class="col">
                                 <p>Dekret Biskupa Sandomierskiego z dnia 12 marca 2020 r.</p>
-                                <p><img src="/static/download/FB_IMG_1584126347055.jpg"/></p>
+                                <p><img src="/static/download/FB_IMG_1584126347055.jpg"></p>
                                 <p><a href="/static/download/Dekret_003_12_marca_2020.pdf">Dekret - plik do pobrania</a></p>
                                 <p>
                                     <span style="float: left;">Sandomierz, 12.&nbsp;marca 2020&nbsp;r.</span>

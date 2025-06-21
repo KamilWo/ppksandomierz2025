@@ -2237,7 +2237,7 @@ include 'head.php';
                             <div class="col">
                                 <a href="/static/download/2024_PIELGRZYMKA_ŚLADAMI_BOŻEGO_MIŁOSIERDZIA.pdf">
                                     <img style="width: 100%;"
-                                         src="/static/src/images/2024_Wilno_Kowno_Troki.jpg" />
+                                         src="/static/src/images/2024_Wilno_Kowno_Troki.jpg">
                                 </a>
                                 <br><br>
 

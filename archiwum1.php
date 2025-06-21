@@ -1496,7 +1496,7 @@ include 'head.php';
                                 <a href="static/download/program_obchodow_jubileuszu_25-lecia.pdf">
                                     <img id="program_obchodow_jubileuszu"
                                          src="static/src/images/program_obchodow_jubileuszu_25-lecia_intro.jpg"
-                                         alt="Pierwsza strona Programu obchodów Jubileuszu 25-lecia"/></a>
+                                         alt="Pierwsza strona Programu obchodów Jubileuszu 25-lecia"></a>
                                 </div>
                                 <br>
                             </div>
@@ -1610,7 +1610,7 @@ include 'head.php';
                                 <h3>Katolickie Centrum Pomocy Rodzinie im. Sługi Bożego ks. Wincentego Granata serdecznie
                                     zaprasza do udziału w I Sandomierskim Marszu dla Życia i Rodziny:<br></h3>
                                 <a href="static/src/images/marsz_dla_zycia_sredni.jpg">
-                                    <img src="static/src/images/marsz_dla_zycia_maly.jpg" alt="Marsz dla Życia i Rodziny"/></a>
+                                    <img src="static/src/images/marsz_dla_zycia_maly.jpg" alt="Marsz dla Życia i Rodziny"></a>
                                 <br><br>
                                 <p style="text-align: center;"><a href="static/src/images/marsz_dla_zycia_sredni.jpg">Kliknij</a>,
                                     aby zobaczyć

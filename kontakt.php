@@ -11,7 +11,7 @@
             Tel.: (+48) 15 832 72 52</p>
     </div>
 </div>
-<hr/>
+<hr>
 
 <div class="card">
     <div class="card-header">
@@ -21,7 +21,7 @@
         <p style="font-weight: bold;">Bank Pekao SA&nbsp;&nbsp;&nbsp;56 1240 2786 1111 0000 3683 8828</p>
     </div>
 </div>
-<hr/>
+<hr>
 
 <div class="card">
     <div class="card-header">

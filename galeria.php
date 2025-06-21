@@ -31,7 +31,7 @@ include 'head.php';
                                 </li>
                             </ol>
                         </div>
-                        <hr/>
+                        <hr>
 
                         <div class="card">
                             <div class="card-header">
@@ -46,7 +46,7 @@ include 'head.php';
                                 </li>
                             </ol>
                         </div>
-                        <hr/>
+                        <hr>
 
                         <div class="card">
                             <div class="card-header">
@@ -79,7 +79,7 @@ include 'head.php';
                                 </li>
                             </ol>
                         </div>
-                        <hr/>
+                        <hr>
 
                         <div class="card">
                             <div class="card-header">

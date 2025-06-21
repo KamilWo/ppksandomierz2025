@@ -1089,7 +1089,7 @@ include 'head.php';
                                 <h3>Diecezjalne Dni Młodych 2014</h3>
                                 <a href="static/src/images/dni_mlodych_2014_small.png">
                                 <img id="logo_dni_mlodych" src="static/src/images/logo_dni_mlodych_2014.png"
-                                     alt="logo_dni_mlodych_2014.jpg" title="Diecezjalne Dni Młodych"/></a><br>
+                                     alt="logo_dni_mlodych_2014.jpg" title="Diecezjalne Dni Młodych"></a><br>
                                 <a href="static/src/images/dni_mlodych_2014_small.png">Zobacz program</a><br>
                             </div>
                         </div>

@@ -8,7 +8,7 @@
         <p>07:30&nbsp;&nbsp;&nbsp;09:30&nbsp;&nbsp;&nbsp;11:15&nbsp;&nbsp;&nbsp;12:30&nbsp;&nbsp;&nbsp;18:00</p>
     </div>
 </div>
-<hr/>
+<hr>
 <div class="card">
     <div class="card-header">
         Msze święte w dni powszednie:
@@ -17,7 +17,7 @@
         <p>06:30&nbsp;&nbsp;&nbsp;18:00</p>
     </div>
 </div>
-<hr/>
+<hr>
 <div class="card">
     <div class="card-header">
         Nabożeństwa w&nbsp;niedziele:
@@ -28,7 +28,7 @@
         </p>
     </div>
 </div>
-<hr/>
+<hr>
 <div class="card">
     <div class="card-header">
         Nabożeństwa w&nbsp;dni powszednie:
@@ -50,7 +50,7 @@
         wieczorowej)</p>
     </div>
 </div>
-<hr/>
+<hr>
 <div class="card">
     <div class="card-header">
         Sakrament Pokuty i&nbsp;Pojednania:

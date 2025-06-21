@@ -4541,7 +4541,7 @@ include 'head.php';
                                 zajęcia fonetyczne, biblijne i&nbsp;liturgiczne poszerzone
                                 o&nbsp;formację duchową w&nbsp;formie warsztatowych rekolekcji.
                                 Na&nbsp;zakończenie kursu nowi lektorzy otrzymają błogosławieństwo
-                                do&nbsp;posługi.<br />
+                                do&nbsp;posługi.<br>
                                 W&nbsp;miarę możliwości zapraszamy także lektorów, którzy już pełnią
                                 posługę w&nbsp;parafiach chcieliby pogłębić swoją formację.</p>
                                 <p>5. Dziękujemy parafianom za&nbsp;modlitwę, wszelką pomoc, składane
@@ -5373,7 +5373,7 @@ include 'head.php';
                             </div>
                             <div class="col">
                                 <img src="static/download/2023-06-24_Wieczor_Uwielbienia_Oddaje_Ci_serce_me_image0000001.jpg"
-                                     style="width: 100%;" />
+                                     style="width: 100%;">
                             </div>
                         </div>
                         <br>
@@ -5615,7 +5615,7 @@ include 'head.php';
                             </div>
                             <div class="col">
                                 <img src="static/download/2023-06-17_Diecezjalne_Spotkanie_Apostolatu_Margaretka_image0000001.jpg"
-                                     style="width: 100%;" />
+                                     style="width: 100%;">
                             </div>
                         </div>
                         <br>
@@ -6378,7 +6378,7 @@ include 'head.php';
                             </div>
                             <div class="col">
                                 <img src="static/download/2023-05-27_wieczor_uwielbienia_Duchu_Święty_przyjdź.jpg"
-                                     style="width: 100%;" />
+                                     style="width: 100%;">
                             </div>
                         </div>
                         <br>
@@ -6640,7 +6640,7 @@ include 'head.php';
                             </div>
                             <div class="col">
                                 <img src="static/download/2023-05-20_Majowka_w_intencji_kaplanow_image0000001.jpg"
-                                     style="width: 100%;" />
+                                     style="width: 100%;">
                             </div>
                         </div>
                         <br>
@@ -7862,7 +7862,7 @@ include 'head.php';
                             </div>
                             <div class="col">
                                 <img src="static/download/2023-04-16_Godziny_milosierdzia_w_intencji_kaplanow_image0000001.jpg"
-                                     style="width: 100%;" />
+                                     style="width: 100%;">
                             </div>
                         </div>
                         <br>
@@ -8618,7 +8618,7 @@ include 'head.php';
                             </div>
                             <div class="col">
                                 <img src="static/download/2023-03-25_wieczor_ubielbienia_siedem_slow_image0000001005.jpg"
-                                     style="width: 100%;" />
+                                     style="width: 100%;">
                             </div>
                         </div>
                         <br>
@@ -9124,7 +9124,7 @@ include 'head.php';
                             </div>
                             <div class="col">
                                 <img src="static/download/2023-03-17_Droga_krzyzowa_za_kaplanow_image0000001004.jpg"
-                                     style="width: 100%;" />
+                                     style="width: 100%;">
                             </div>
                         </div>
                         <br>
@@ -9641,7 +9641,7 @@ include 'head.php';
                             </div>
                             <div class="col">
                                 <img src="static/download/wieczor_uwielbienia_przebaczam_2023-02-25.jpg"
-                                     style="width: 100%;" />
+                                     style="width: 100%;">
                             </div>
                         </div>
                         <br>
@@ -10304,7 +10304,7 @@ include 'head.php';
                                 <h3>Wieczór Uwielbienia 28&nbsp;stycznia 2023&nbsp;r.</h3>
                             </div>
                             <div class="col">
-                                <img src="static/download/Emmanuel_Bóg_z_nami.jpg" style="width: 100%;" />
+                                <img src="static/download/Emmanuel_Bóg_z_nami.jpg" style="width: 100%;">
                             </div>
                         </div>
                         <br>

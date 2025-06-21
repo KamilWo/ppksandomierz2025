@@ -9,7 +9,7 @@
         <span class="d-none d-lg-block">
             <img id="swiatynia" class="img-fluid img-profile rounded-circle mx-auto mb-2"
                  src="static/src/images/swiatynia.jpg"
-                 alt="Świątynia Parafii Podwyższenia Krzyża Świętego" />
+                 alt="Świątynia Parafii Podwyższenia Krzyża Świętego">
         </span>
     </a>
     <button class="navbar-toggler" type="button" data-bs-toggle="collapse"

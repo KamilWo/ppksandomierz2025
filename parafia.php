@@ -14,7 +14,7 @@
         <li class="list-group-item">Ks.&nbsp;Wojciech Zając (od&nbsp;2024&nbsp;roku)</li>
     </ol>
 </div>
-<hr/>
+<hr>
 <div class="card">
     <div class="card-header">
         Odpusty
@@ -24,7 +24,7 @@
         <li class="list-group-item">Św. Brata Alberta Chmielowskiego (17&nbsp;czerwca)</li>
     </ol>
 </div>
-<hr/>
+<hr>
 <div class="card">
     <div class="card-header">
         Obszar Parafii stanowią:
@@ -42,7 +42,7 @@
             Milczany (2,5&nbsp;km), Sucharzów (3&nbsp;km).</p><br>
     </div>
 </div>
-<hr/>
+<hr>
 <div class="card">
     <div class="card-header">
         Historia Parafii...
