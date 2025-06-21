@@ -1,1 +1,6 @@
+.idea/
+.nvmrc
+.stylelintrc.json
 include/
+node_modules/
+package*.json
