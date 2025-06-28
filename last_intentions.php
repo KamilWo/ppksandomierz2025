@@ -5,9 +5,9 @@
         </h3>
     </div>
     <div class="col">
-<table class="aktualnosci_table">
+<table class="aktualnosci_table" cellpadding="5" cellspacing="0">
     <tbody>
-        <tr class="aktualnosci_day">
+        <tr class="actualnosci_day">
             <td><b>PONIEDZIAŁEK, 23&nbsp;czerwca</b></td>
             <td><b></b></td>
         </tr>
@@ -25,7 +25,7 @@
         </tr>
 
 
-        <tr class="aktualnosci_day">
+        <tr class="actualnosci_day">
             <td><b>WTOREK, 24&nbsp;czerwca</b></td>
             <td><b>Uroczystość św.&nbsp;Jana Chrzciciela</b></td>
         </tr>
@@ -41,7 +41,7 @@
         </tr>
 
 
-        <tr class="aktualnosci_day">
+        <tr class="actualnosci_day">
             <td><b>ŚRODA, 25&nbsp;czerwca</b></td>
             <td><b></b></td>
         </tr>
@@ -58,7 +58,7 @@
         </tr>
 
 
-        <tr class="aktualnosci_day">
+        <tr class="actualnosci_day">
             <td><b>CZWARTEK, 26&nbsp;czerwca</b></td>
             <td><b></b></td>
         </tr>
@@ -75,7 +75,7 @@
         </tr>
 
 
-        <tr class="aktualnosci_day">
+        <tr class="actualnosci_day">
             <td><b>PIĄTEK, 27&nbsp;czerwca</b></td>
             <td><b>Uroczystość Najświętszego Serca Pana Jezusa –
             Dzień modlitw o&nbsp;świętość kapłanów</b></td>
@@ -97,7 +97,7 @@
         </tr>
 
 
-        <tr class="aktualnosci_day">
+        <tr class="actualnosci_day">
             <td><b>SOBOTA, 28&nbsp;czerwca</b></td>
             <td><b>Wspomnienie Niepokalanego Serca NMP</b></td>
         </tr>
@@ -114,7 +114,7 @@
         </tr>
 
 
-        <tr class="aktualnosci_day">
+        <tr class="actualnosci_day">
             <td><b>NIEDZIELA, 29&nbsp;czerwca</b></td>
             <td><b>
                 <span style="color: red">Uroczystość Świętych

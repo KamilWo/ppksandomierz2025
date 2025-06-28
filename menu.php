@@ -1,15 +1,18 @@
 <!-- Navigation-->
-<nav class="navbar navbar-expand-lg navbar-dark bg-primary fixed-top" id="sideNav">
+<!-- Navigation-->
+<nav class="navbar navbar-expand-lg navbar-dark bg-primary fixed-top" id="side-nav">
     <a class="navbar-brand js-scroll-trigger" href="#page-top">
         <span class="d-block d-lg-none">
-            <span style="font-weight: bold; text-decoration: none;">
+            <a href="index.php#about" style="font-weight: bold; text-decoration: none;">
                 Podwyższenie Krzyża Świętego
-            </span>
+            </a>
         </span>
         <span class="d-none d-lg-block">
-            <img id="swiatynia" class="img-fluid img-profile rounded-circle mx-auto mb-2"
-                 src="static/src/images/swiatynia.jpg"
-                 alt="Świątynia Parafii Podwyższenia Krzyża Świętego">
+            <a href="index.php#about">
+                <img id="swiatynia" class="img-fluid img-profile rounded-circle mx-auto mb-2"
+                     src="static/src/images/swiatynia.jpg"
+                     alt="Świątynia Parafii Podwyższenia Krzyża Świętego" >
+            </a>
         </span>
     </a>
     <button class="navbar-toggler" type="button" data-bs-toggle="collapse"

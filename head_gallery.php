@@ -11,8 +11,8 @@
 
     <title>Parafia Podwyższenia Krzyża świętego w Sandomierzu - oficjalna strona internetowa</title>
 
-    <link rel='shortcut icon' href='static/src/images/favicon.png'>
-    <!-- <link rel="icon" type="image/x-icon" href="static/src/images/favicon.ico"> -->
+    <link rel='shortcut icon' href='static/src/images/favicon.png' >
+    <!-- <link rel="icon" type="image/x-icon" href="static/src/images/favicon.ico" > -->
 
     <link rel="stylesheet"
           href="//stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
@@ -21,17 +21,17 @@
     <!-- Font Awesome icons (free version)-->
     <script src="https://use.fontawesome.com/releases/v6.1.0/js/all.js" crossorigin="anonymous"></script>
     <!-- Google fonts-->
-    <link href="https://fonts.googleapis.com/css?family=Saira+Extra+Condensed:500,700" rel="stylesheet" type="text/css">
-    <link href="https://fonts.googleapis.com/css?family=Muli:400,400i,800,800i" rel="stylesheet" type="text/css">
+    <link href="https://fonts.googleapis.com/css?family=Saira+Extra+Condensed:500,700" rel="stylesheet" type="text/css" >
+    <link href="https://fonts.googleapis.com/css?family=Muli:400,400i,800,800i" rel="stylesheet" type="text/css" >
     <link rel='stylesheet'
           type='text/css'
-          href='static/src/css/styles.min.css?v=20230101'>
+          href='static/src/css/styles.min.css?v=20230101' >
     <link rel='stylesheet'
           type='text/css'
-          href='static/src/css/photobox.min.css?v=20230101'>
+          href='static/src/css/photobox.min.css?v=20230101' >
     <link rel='stylesheet'
           type='text/css'
-          href='static/src/css/gallery.min.css?v=20230101'>
+          href='static/src/css/gallery.min.css?v=20230101' >
 
     <script src='static/src/js/jquery.photobox.js'></script>
     <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js"

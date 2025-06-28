@@ -17,7 +17,7 @@
                     </div>
                 </div>
             </section>
-            <hr class="m-0">
+            <hr class="m-0" >
             <!-- Experience-->
             <section class="resume-section" id="experience">
                 <div class="resume-section-content">
@@ -56,7 +56,7 @@
                     </div>
                 </div>
             </section>
-            <hr class="m-0">
+            <hr class="m-0" >
             <!-- Education-->
             <section class="resume-section" id="education">
                 <div class="resume-section-content">
@@ -80,7 +80,7 @@
                     </div>
                 </div>
             </section>
-            <hr class="m-0">
+            <hr class="m-0" >
             <!-- Skills-->
             <section class="resume-section" id="skills">
                 <div class="resume-section-content">
@@ -121,7 +121,7 @@
                     </ul>
                 </div>
             </section>
-            <hr class="m-0">
+            <hr class="m-0" >
             <!-- Interests-->
             <section class="resume-section" id="interests">
                 <div class="resume-section-content">
@@ -130,7 +130,7 @@
                     <p class="mb-0">When forced indoors, I follow a number of sci-fi and fantasy genre movies and television shows, I am an aspiring chef, and I spend a large amount of my free time exploring the latest technology advancements in the front-end web development world.</p>
                 </div>
             </section>
-            <hr class="m-0">
+            <hr class="m-0" >
             <!-- Awards-->
             <section class="resume-section" id="awards">
                 <div class="resume-section-content">

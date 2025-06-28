@@ -61,7 +61,7 @@ include 'facebook.php';
                     </div>
                 </div>
             </section>
-            <hr class="m-0">
+            <hr class="m-0" >
             <!-- Aktualnosci -->
             <section class="website-section" id="news">
                 <div class="website-section-content">
@@ -70,7 +70,7 @@ include 'facebook.php';
                     ?>
                 </div>
             </section>
-            <hr class="m-0">
+            <hr class="m-0" >
             <!-- Intencje -->
             <section class="website-section" id="masses">
                 <div class="website-section-content">
@@ -79,7 +79,7 @@ include 'facebook.php';
                     ?>
                 </div>
             </section>
-            <hr class="m-0">
+            <hr class="m-0" >
             <!-- Prewencja i ochrona małoletnich -->
             <section class="website-section" id="prevention">
                 <div class="website-section-content">
@@ -88,7 +88,7 @@ include 'facebook.php';
                     ?>
                 </div>
             </section>
-            <hr class="m-0">
+            <hr class="m-0" >
             <!-- Komunikaty -->
             <section class="website-section" id="announcements">
                 <div class="website-section-content">
@@ -97,7 +97,7 @@ include 'facebook.php';
                     ?>
                 </div>
             </section>
-            <hr class="m-0">
+            <hr class="m-0" >
             <!-- Wizyta Duszpasterska -->
             <section class="website-section" id="pastoral_visit">
                 <div class="website-section-content">
@@ -106,7 +106,7 @@ include 'facebook.php';
                     ?>
                 </div>
             </section>
-            <hr class="m-0">
+            <hr class="m-0" >
             <!-- O Parafii -->
             <section class="website-section" id="parish">
                 <div class="website-section-content">
@@ -115,7 +115,7 @@ include 'facebook.php';
                     ?>
                 </div>
             </section>
-            <hr class="m-0">
+            <hr class="m-0" >
             <!-- Liturgia -->
             <section class="website-section" id="mass_times">
                 <div class="website-section-content">
@@ -124,7 +124,7 @@ include 'facebook.php';
                     ?>
                 </div>
             </section>
-            <hr class="m-0">
+            <hr class="m-0" >
             <!-- Grupy parafialne -->
             <section class="website-section" id="groups">
                 <div class="website-section-content">
@@ -133,7 +133,7 @@ include 'facebook.php';
                     ?>
                 </div>
             </section>
-            <hr class="m-0">
+            <hr class="m-0" >
             <!-- Duszpasterstwo dzieci i młodzieży -->
             <section class="website-section" id="ministry">
                 <div class="website-section-content">
@@ -142,7 +142,7 @@ include 'facebook.php';
                     ?>
                 </div>
             </section>
-            <hr class="m-0">
+            <hr class="m-0" >
             <!-- Kontakt -->
             <section class="website-section" id="contact">
                 <div class="website-section-content">
@@ -151,7 +151,7 @@ include 'facebook.php';
                     ?>
                 </div>
             </section>
-            <hr class="m-0">
+            <hr class="m-0" >
         </div>
     </main>
     <?php
