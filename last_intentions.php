@@ -1,15 +1,30 @@
 <div class="card">
     <div class="card-header">
         <h3>INTENCJE MSZY ŚWIĘTYCH<br>
-            14.06. – 20.07.2025&nbsp;r.
+            14.06. – 27.07.2025&nbsp;r.
         </h3>
     </div>
     <div class="col">
 <table class="aktualnosci_table" cellpadding="5" cellspacing="0">
     <tbody>
         <tr class="aktualnosci_day">
-            <td><b>PONIEDZIAŁEK, 14&nbsp;lipca</b></td>
+            <td><b>PONIEDZIAŁEK, 21&nbsp;lipca</b></td>
             <td><b></b></td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">6.30</td>
+            <td>+ Zofię i&nbsp;Czesława Chlebnych w&nbsp;rocz.
+            śm.</td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">18.00</td>
+            <td>+ Marianę, Jakuba, Mieczysława Pijewskich</td>
+        </tr>
+
+
+        <tr class="aktualnosci_day">
+            <td><b>WTOREK, 22&nbsp;lipca</b></td>
+            <td><b>Święto Św.&nbsp;Marii Magdaleny</b></td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">6.30</td>
@@ -17,112 +32,101 @@
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">18.00</td>
-            <td>+ Janusza Tworowskiego 3&nbsp;rocz. śm.</td>
+            <td>1. + Annę Błażuk – rocz. śm.<br>
+            2. O&nbsp;Boże błog., potrzebne łaski, dary Ducha Św.,
+                opiekę MB dla Haliny i&nbsp;Kazimierza, i&nbsp;ich
+                rodziny z&nbsp;okazji 44&nbsp;rocz. Sakramentu
+                małżeństwa</td>
         </tr>
 
 
         <tr class="aktualnosci_day">
-            <td><b>WTOREK, 15&nbsp;lipca</b></td>
-            <td><b>Wspomnienie Św.&nbsp;Bonawentury</b></td>
+            <td><b>ŚRODA, 23&nbsp;lipca</b></td>
+            <td><b>Wspomnienie Św.&nbsp;Brygidy</b></td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">6.30</td>
-            <td>+ Janinę Zięba</td>
+            <td>+ Andrzeja Karelusa</td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">18.00</td>
-            <td>+ Stanisława, Reginę, Marka Zakrzewskich, zm.
-            z&nbsp;rodz. Świątańskich</td>
+            <td>+ Mariannę i Tadeusza Stefaniaków</td>
         </tr>
 
 
         <tr class="aktualnosci_day">
-            <td><b>ŚRODA, 16&nbsp;lipca</b></td>
-            <td><b>Wspomnienie NMP z&nbsp;Góry Karmel</b></td>
+            <td><b>CZWARTEK, 24&nbsp;lipca</b></td>
+            <td><b>Wspomnienie Św.&nbsp;Kingi</b></td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">6.30</td>
-            <td>+ Zofię, Wincentego Kołodziejów, Juliannę, Walentego
-                Bulirów, Irenę i&nbsp;Tadeusza Kołaczów, Marię, Kazimierza
-                Włochów, Stanisława, Stanisławę Wosiów</td>
+            <td>+ Otolię, Władysława, Tomasza, Eugeniusza</td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">18.00</td>
-            <td>+ Roberta Drozda rocz. śm.</td>
+            <td>+ Włodzimierza, Karolinę, Stanisława Bartosików,
+                Mariannę i&nbsp;Romana Patynów</td>
         </tr>
 
 
         <tr class="aktualnosci_day">
-            <td><b>CZWARTEK, 17&nbsp;lipca</b></td>
-            <td><b></b></td>
+            <td><b>PIĄTEK, 25&nbsp;lipca</b></td>
+            <td><b>Święto Św.&nbsp;Jakuba</b></td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">6.30</td>
-            <td>+ Teodozję Zięba</td>
+            <td>+ Janinę Ziębę</td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">18.00</td>
-            <td>+ Kazimierza, Mariannę, Henryka Lipców, Mariannę
-                i&nbsp;Walentego Grzesików</td>
+            <td>+ Krzysztofa, Stefanię, Józefa Łukawskich, Stanisława
+                i&nbsp;Leokadię Majcherów</td>
         </tr>
 
 
         <tr class="aktualnosci_day">
-            <td><b>PIĄTEK, 18&nbsp;lipca</b></td>
-            <td><b></b></td>
+            <td><b>SOBOTA, 26&nbsp;lipca</b></td>
+            <td><b>Wspomnienie Św.&nbsp;Joachima i&nbsp;Anny,
+            Rodziców NMP</b></td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">6.30</td>
-            <td>+ Emilię i&nbsp;Edwarda Paluchów</td>
+            <td>W&nbsp;int. Anny – imieninowa o&nbsp;Boże błog.,
+                potrzebne łaski</td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">18.00</td>
-            <td>+ Wincentego i&nbsp;Zofię Wiatrowskich</td>
+            <td>Dzięk.-błag. o&nbsp;Boże błog. dla Dawida</td>
         </tr>
 
 
         <tr class="aktualnosci_day">
-            <td><b>SOBOTA, 19&nbsp;lipca</b></td>
-            <td><b></b></td>
-        </tr>
-        <tr style="border-bottom: 2px solid black;">
-            <td class="center">6.30</td>
-            <td>+ Mieczysława i&nbsp;Barbarę Bryłów</td>
-        </tr>
-        <tr style="border-bottom: 2px solid black;">
-            <td class="center">18.00</td>
-            <td>+ Edmunda, Helenę, Jana Szafrańskich, Teofilę,
-                Walentego Adamców</td>
-        </tr>
-
-
-        <tr class="aktualnosci_day">
-            <td><b>NIEDZIELA, 20&nbsp;lipca</b></td>
+            <td><b>NIEDZIELA, 27&nbsp;lipca</b></td>
             <td><b>
-                <span style="color: red">XVI&nbsp;Niedziela Zwykła</span>
+                <span style="color: red">XVII&nbsp;Niedziela Zwykła</span>
             </b></td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">7.30</td>
-            <td>Dziękczynna z&nbsp;racji 50&nbsp;rocz. ślubu Anny
-                i&nbsp;Zbigniewa</td>
+            <td>+ Janinę, Stanisława, Zdzisława Kulów</td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">9.30</td>
-            <td>+ Teresę Piorun – 3&nbsp;rocz. śm.</td>
+            <td>+ Jana, Bronisławę, Franciszka Zająców, Mariannę Zając</td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">11.15</td>
-            <td>DK</td>
+            <td>+ Bogusława Sarzyńskiego, Annę, Janusza, Stanisława
+                Roźmiejów, Zofię, Mikołaja, Eugeniusza Kapustów</td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">12.30</td>
-            <td>+ Otylię, Juliusza Nagórnych, zm. z&nbsp;rodz.
-                Grzesiaków i&nbsp;Nagórnych</td>
+            <td>Za parafian</td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">18.00</td>
-            <td>Za&nbsp;parafian</td>
+            <td>+ Józefę, Stanisława Wolaków, Mariannę i&nbsp;Adama
+                Bąków, zm. z&nbsp;rodz.</td>
         </tr>
     </tbody>
 </table>
