@@ -1,5 +1,39 @@
 <div class="card">
     <div class="card-header">
+        <h3>15.&nbsp;września 2025&nbsp;r.</h3>
+        <h3>Program Uroczystości Pogrzebowych Śp.&nbsp;Proboszcza
+        Ks.&nbsp;kanonika Stanisława Chmielewskiego</h3>
+    </div>
+    <div class="col">
+        <h5 class="text-center font-weight-bold mt-4 mb-4">Uroczystości żałobne i&nbsp;pogrzebowe</h5>
+
+        <p class="font-weight-bold mb-1"><strong>Piątek, 19&nbsp;września</strong></p>
+        <ul class="list-unstyled mb-4">
+          <li><i class="fa fa-clock mr-2"></i> <strong>Godz.&nbsp;17:15</strong> – Eksporta do&nbsp;kościoła parafialnego pw. Podwyższenia Krzyża Świętego w&nbsp;Sandomierzu, Modlitwa różańcowa</li>
+          <li><i class="fa fa-clock mr-2"></i> <strong>Godz.&nbsp;18:00</strong> – Msza Święta żałobna</li>
+          <li><i class="fa fa-clock mr-2"></i> <strong>Godz.&nbsp;19.00 – 21.00</strong> – Czuwanie modlitewne</li>
+        </ul>
+
+        <p class="font-weight-bold mb-1"><strong>Sobota, 20&nbsp;września</strong></p>
+        <ul class="list-unstyled mb-4">
+          <li><i class="fa fa-clock mr-2"></i> <strong>Godz.&nbsp;10.30</strong> – Modlitwa różańcowa</li>
+          <li><i class="fa fa-clock mr-2"></i> <strong>Godz.&nbsp;11:00</strong> – Msza Święta pogrzebowa w&nbsp;kościele parafialnym pw.&nbsp;św.&nbsp;Floriana w&nbsp;Koprzywnicy i&nbsp;złożenie ciała Zmarłego na&nbsp;miejscowym cmentarzu.</li>
+        </ul>
+
+        <p class="text-center mt-4 mb-2 font-italic"><span style="font-style: italic; font-weight: bold;">Wieczny odpoczynek, racz mu dać, Panie...</span></p>
+
+        <img src="static/download/sp_ks_kanonik_stanislaw_chmielewski.jpeg" width="100%" alt="Śp. Ks. kanonik Stanisław Chmielewski"/>
+        <p>
+            <span style="float: left;">Sandomierz, 15.&nbsp;września 2025&nbsp;r.</span>
+        </p>
+    </div>
+</div>
+<br>
+
+
+
+<div class="card">
+    <div class="card-header">
         <h3>23.&nbsp;marca 2025&nbsp;r.</h3>
         <h3>III&nbsp;Niedziela Wielkiego Postu, Rok&nbsp;C</h3>
     </div>
