@@ -19,7 +19,148 @@ include 'head.php';
                     <!-- treść główna -->
                     <div class="col">
                         <h2 class="first-content-header">Archiwum wiadomości 2025 rok</h2>
-                        <h2>Okres 1.&nbsp;stycznia - 24.&nbsp;sierpnia 2025&nbsp;r.</h2>
+                        <h2>Okres 1.&nbsp;stycznia - 14.&nbsp;września 2025&nbsp;r.</h2>
+
+                        <div class="card">
+                            <div class="card-header">
+                                <h3>INTENCJE MSZY ŚWIĘTYCH<br>
+                                    08.09. – 14.09.2025&nbsp;r.
+                                </h3>
+                            </div>
+                            <div class="col">
+                        <table class="aktualnosci_table" cellpadding="5" cellspacing="0">
+                            <tbody>
+                                <tr class="aktualnosci_day">
+                                    <td><b>PONIEDZIAŁEK, 8&nbsp;września</b></td>
+                                    <td><b>Święto Narodzenia NMP</b></td>
+                                </tr>
+                                <tr style="border-bottom: 2px solid black;">
+                                    <td class="center">6.30</td>
+                                    <td>1. + Teodozję Ziębę<br>
+                                    2. + Małgorzatę Krawczyk</td>
+                                </tr>
+                                <tr style="border-bottom: 2px solid black;">
+                                    <td class="center">18.00</td>
+                                    <td>1. + Alicję, Zdzislawa Gilewskich, Teresę Nowakowską,
+                                        Stefanię i&nbsp;Józefa Janusów<br>
+                                    2. + Marię Szwagierczak</td>
+                                </tr>
+
+
+                                <tr class="aktualnosci_day">
+                                    <td><b>WTOREK, 9&nbsp;września</b></td>
+                                    <td><b></b></td>
+                                </tr>
+                                <tr style="border-bottom: 2px solid black;">
+                                    <td class="center">6.30</td>
+                                    <td>1. + Jana Radzimowskiego 9&nbsp;rocz. śm.<br>
+                                    2. + Małgorzatę Krawczyk</td>
+                                </tr>
+                                <tr style="border-bottom: 2px solid black;">
+                                    <td class="center">18.00</td>
+                                    <td>1. KWC<br>
+                                    2. + Barbarę Pomykałę</td>
+                                </tr>
+
+
+                                <tr class="aktualnosci_day">
+                                    <td><b>ŚRODA, 10&nbsp;września</b></td>
+                                    <td><b></b></td>
+                                </tr>
+                                <tr style="border-bottom: 2px solid black;">
+                                    <td class="center">6.30</td>
+                                    <td>1. + Roberta Rubisia<br>
+                                    2. + Małgorzatę Krawczyk</td>
+                                </tr>
+                                <tr style="border-bottom: 2px solid black;">
+                                    <td class="center">18.00</td>
+                                    <td>1. + Zofię Strzębską rocz. śm.<br>
+                                    2. + O&nbsp;łaskę doświadczenia Bożej miłości dla męża
+                                        Piotra i&nbsp;ojca Tadeusza</td>
+                                </tr>
+
+
+                                <tr class="aktualnosci_day">
+                                    <td><b>CZWARTEK, 11&nbsp;września</b></td>
+                                    <td><b>Wspomnienie św.&nbsp;Piusa&nbsp;X</b></td>
+                                </tr>
+                                <tr style="border-bottom: 2px solid black;">
+                                    <td class="center">6.30</td>
+                                    <td>1. O&nbsp;Boże błog. dla Moniki i&nbsp;Łukasza<br>
+                                    2. + Małgorzatę Krawczyk</td>
+                                </tr>
+                                <tr style="border-bottom: 2px solid black;">
+                                    <td class="center">18.00</td>
+                                    <td>1. + Wandę, Michała, Urszulę, Marka Niezgodów<br>
+                                    2. + Mariannę i&nbsp;Ryszarda Gajewskich</td>
+                                </tr>
+
+
+                                <tr class="aktualnosci_day">
+                                    <td><b>PIĄTEK, 12&nbsp;września</b></td>
+                                    <td><b></b></td>
+                                </tr>
+                                <tr style="border-bottom: 2px solid black;">
+                                    <td class="center">6.30</td>
+                                    <td>1. + Zygmunta Tosia<br>
+                                    2. + Małgorzatę Krawczyk</td>
+                                </tr>
+                                <tr style="border-bottom: 2px solid black;">
+                                    <td class="center">18.00</td>
+                                    <td>1. + Weronikę Błaszczyk<br>
+                                    2. + Anetę Ryzińską</td>
+                                </tr>
+
+
+                                <tr class="aktualnosci_day">
+                                    <td><b>SOBOTA, 13&nbsp;września</b></td>
+                                    <td><b>Wspomnienie św.&nbsp;Jana Chryzostoma</b></td>
+                                </tr>
+                                <tr style="border-bottom: 2px solid black;">
+                                    <td class="center">6.30</td>
+                                    <td>1. + Zygmunta Tosia<br>
+                                    2. + Sylwestra Jurkowskiego</td>
+                                </tr>
+                                <tr style="border-bottom: 2px solid black;">
+                                    <td class="center">18.00</td>
+                                    <td>1. + Jana Wnuka rocz. śm., Mariannę, Jana, Władysława
+                                        Lipców, Annę Tomaszewską<br>
+                                    2. + Waldemara Pałachę 1&nbsp;rocz. śm.</td>
+                                </tr>
+
+
+                                <tr class="aktualnosci_day">
+                                    <td><b>NIEDZIELA, 14&nbsp;września</b></td>
+                                    <td><b>
+                                        <span style="color: red">XXIV&nbsp;Niedziela Zwykła<br>
+                                        Święto Podwyższenia Krzyża Świętego – ODPUST PARAFIALNY</span>
+                                    </b></td>
+                                </tr>
+                                <tr style="border-bottom: 2px solid black;">
+                                    <td class="center">7.30</td>
+                                    <td>+ Mariannę, Stanisława, Barbarę Pyszczyńskich</td>
+                                </tr>
+                                <tr style="border-bottom: 2px solid black;">
+                                    <td class="center">9.30</td>
+                                    <td>+ Stanisławę Kozioł</td>
+                                </tr>
+                                <tr style="border-bottom: 2px solid black;">
+                                    <td class="center">11.15</td>
+                                    <td>+ Barbarę i&nbsp;Mieczysława Bryłów, Piotra Pazdro</td>
+                                </tr>
+                                <tr style="border-bottom: 2px solid black;">
+                                    <td class="center">12.30</td>
+                                    <td>Za&nbsp;parafian</td>
+                                </tr>
+                                <tr style="border-bottom: 2px solid black;">
+                                    <td class="center">18.00</td>
+                                    <td>+ Pawła Piątka</td>
+                                </tr>
+                            </tbody>
+                        </table>
+                            </div>
+                        </div>
+                        <br>
 
                         <div class="card">
                             <div class="card-header">
@@ -2677,6 +2818,75 @@ include 'head.php';
                                 </tr>
                             </tbody>
                         </table>
+                            </div>
+                        </div>
+                        <br>
+
+                        <div class="card">
+                            <div class="card-header">
+                                <h3>23.&nbsp;marca 2025&nbsp;r.</h3>
+                                <h3>III&nbsp;Niedziela Wielkiego Postu, Rok&nbsp;C</h3>
+                            </div>
+                            <div class="col">
+                                <p>1. W&nbsp;dniach od&nbsp;19 do&nbsp;25&nbsp;marca przeżywamy
+                                w&nbsp;kościele V&nbsp;Tydzień Modlitw o&nbsp;Ochronę Życia.
+                                Z&nbsp;tej racji Legion Maryi z&nbsp;naszej parafii przygotował ulotki
+                                o&nbsp;wspomnianej wcześniej tematyce, te&nbsp;materiały znajdują się
+                                na&nbsp;stoliku pod chórem. Prosimy się z&nbsp;nimi zapoznać
+                                i&nbsp;zabrać ze&nbsp;sobą.</p>
+                                <p>2. W&nbsp;tym tygodniu we&nbsp;wtorek, przypada Uroczystość
+                                Zwiastowania Pańskiego, zachęcajmy wiernych do&nbsp;Duchowej Adopcji
+                                Dziecka Poczętego. W&nbsp;Uroczystość Zwiastowania Pańskiego,
+                                25&nbsp;marca, kościół w&nbsp;Polsce obchodzi dzień Świętości Życia.
+                                Jego celem jest budzenie wrażliwości na&nbsp;sens i&nbsp;wartość
+                                ludzkiego życia, a&nbsp;każdym jego etapie oraz zwrócenie uwagi
+                                na&nbsp;potrzebę szczególnej troski o&nbsp;nie. Wyrazem takiej troski
+                                jest m.in. podjęcie Duchowej Adopcji dziecka Poczętego,
+                                <em>to&nbsp;zobowiązanie do&nbsp;codziennego odmawiania jednej
+                                dziesiątki różańca św.&nbsp;oraz specjalnej krótkiej modlitwy przez
+                                dziewięć miesięcy w&nbsp;intencji poczętego dziecka, by przyjęte
+                                z&nbsp;miłością mogło urodzić się w&nbsp;kochającej rodzinie</em>.
+                                Zachęcamy do&nbsp;włączenia się w&nbsp;tę&nbsp;inicjatywę. Deklaracje
+                                Duchowej Adopcji na&nbsp;stoliku obok prasy katolickiej. Uroczyste
+                                złożenie przyrzeczenia, które zapoczątkuje duchową Adopcję odbędzie
+                                się na&nbsp;Mszy&nbsp;św. o&nbsp;godz.&nbsp;18.00 w&nbsp;naszym
+                                kościele parafialnym 25&nbsp;marca, tj.&nbsp;w&nbsp;najbliższy wtorek.
+                                Msze&nbsp;św. w&nbsp;tym dniu o&nbsp;godz.&nbsp;6.30, 9.00
+                                i&nbsp;o&nbsp;18.00.</p>
+                                <p>3. Sandomierski sztab EDK zaprasza na&nbsp;kolejną edycję
+                                Ekstremalnej Drogi Krzyżowej. W&nbsp;tym roku wyruszy w&nbsp;piątek
+                                11&nbsp;kwietnia. Rozpoczęcie Mszą&nbsp;św. o&nbsp;godz.&nbsp;20.00
+                                w&nbsp;kościele Ducha Św. Więcej informacji na&nbsp;plakacie
+                                w&nbsp;parafialnej gablocie. Zapisy na&nbsp;trasy organizowane przez
+                                sandomierski sztab EDK na&nbsp;stronie internetowej
+                                <a href="https://edk.org.pl">https://edk.org.pl</a>. Zapisy także
+                                bezpośrednio przed EDK, tj.&nbsp;11&nbsp;kwietnia
+                                od&nbsp;godz.&nbsp;19.00.</p>
+                                <p>4. Do&nbsp;nabycia w&nbsp;zakrystii Baranki wielkanocne
+                                w&nbsp;cenie 10&nbsp;zł.</p>
+                                <p>5. W&nbsp;najbliższą sobotę – 29&nbsp;marca – odbędzie się kolejny
+                                Wieczór Uwielbienia, początek o&nbsp;godz.&nbsp;18.00. Zapraszamy
+                                do&nbsp;wspólnej modlitwy.</p>
+                                <p>6. Spotkanie Kręgu biblijnego jutro po&nbsp;Mszy wieczorowej.</p>
+                                <p>7. Są&nbsp;jeszcze wolne miejsca na&nbsp;pielgrzymkę
+                                do&nbsp;Rumunii i&nbsp;Bułgarii.</p>
+                                <p>8. Zachęcamy do&nbsp;nabycia i&nbsp;lektury katolickiej prasy.
+                                Gazety na&nbsp;stoliku pod chórem.</p>
+                                <p>9. Dnia 28&nbsp;marca wypada ostatni piątek miesiąca, pragniemy
+                                poinformować wiernych o&nbsp;nabożeństwach pokutnych Kościołach
+                                Jubileuszowych. W&nbsp;Sandomierzu kościołem stacyjnym jest
+                                katedra.</p>
+                                <p>10. W&nbsp;zeszłą niedzielę po&nbsp;Mszach św. do&nbsp;puszek
+                                na&nbsp;rzecz dzieła pomocy misjonarzom <em>„Ad&nbsp;Gentes”</em>,
+                                zostało zebrane 1908&nbsp;zł. <em>Bóg zapłać</em> ofiarodawcom.
+                                Pieniądze zostały przekazane na&nbsp;wcześniej wspomniany cel.</p>
+                                <p>11. Dziękujemy za&nbsp;modlitwę, wszelką pomoc, składane ofiary
+                                na&nbsp;potrzeby parafii i&nbsp;nie tylko. Wszystkim uczestniczącym
+                                we&nbsp;Mszy&nbsp;św. życzymy błogosławionej niedzieli.</p>
+                                <p>
+                                    <span style="float: left;">Sandomierz, 23.&nbsp;marca 2025&nbsp;r.</span>
+                                    <span style="float: right; text-align: right;">ks.&nbsp;proboszcz Stanisław Chmielewski</span>
+                                </p>
                             </div>
                         </div>
                         <br>

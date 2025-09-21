@@ -1,137 +1,141 @@
 <div class="card">
     <div class="card-header">
         <h3>INTENCJE MSZY ŚWIĘTYCH<br>
-            08.09. – 14.09.2025&nbsp;r.
+            22.09. – 28.09.2025&nbsp;r.
         </h3>
     </div>
     <div class="col">
 <table class="aktualnosci_table" cellpadding="5" cellspacing="0">
     <tbody>
         <tr class="aktualnosci_day">
-            <td><b>PONIEDZIAŁEK, 8&nbsp;września</b></td>
-            <td><b>Święto Narodzenia NMP</b></td>
-        </tr>
-        <tr style="border-bottom: 2px solid black;">
-            <td class="center">6.30</td>
-            <td>1. + Teodozję Ziębę<br>
-            2. + Małgorzatę Krawczyk</td>
-        </tr>
-        <tr style="border-bottom: 2px solid black;">
-            <td class="center">18.00</td>
-            <td>1. + Alicję, Zdzislawa Gilewskich, Teresę Nowakowską,
-                Stefanię i&nbsp;Józefa Janusów<br>
-            2. + Marię Szwagierczak</td>
-        </tr>
-
-
-        <tr class="aktualnosci_day">
-            <td><b>WTOREK, 9&nbsp;września</b></td>
+            <td><b>PONIEDZIAŁEK, 22&nbsp;września</b></td>
             <td><b></b></td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">6.30</td>
-            <td>1. + Jana Radzimowskiego 9&nbsp;rocz. śm.<br>
+            <td>1. + Aleksandra, Zofię, Mariana Adamczyków, Waldemara
+                Kurtka, Łucję, Zofię, Jana Gozdyckich<br>
             2. + Małgorzatę Krawczyk</td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">18.00</td>
-            <td>1. KWC<br>
-            2. + Barbarę Pomykałę</td>
+            <td>1. + Agnieszkę Chmiel<br>
+            2. + zmarłych z&nbsp;rodziny Danuty i&nbsp;Ryszarda</td>
         </tr>
 
 
         <tr class="aktualnosci_day">
-            <td><b>ŚRODA, 10&nbsp;września</b></td>
+            <td><b>WTOREK, 23&nbsp;września</b></td>
+            <td><b>Św.&nbsp;Pio z&nbsp;Pietrelciny</b></td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">6.30</td>
+            <td>1. + Andrzeja Skoczylasa<br>
+            2. + Małgorzatę Krawczyk</td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">18.00</td>
+            <td>1. + Agnieszkę Chmiel<br>
+            2. + Stanisławę Bednarską</td>
+        </tr>
+
+
+        <tr class="aktualnosci_day">
+            <td><b>ŚRODA, 24&nbsp;września</b></td>
             <td><b></b></td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">6.30</td>
-            <td>1. + Roberta Rubisia<br>
-            2. + Małgorzatę Krawczyk</td>
+            <td>1. O&nbsp;Boże bł., opiekę Matki Bożej, potrzebne
+                łaski dla Anny i&nbsp;Witolda w&nbsp;14&nbsp;r. ślubu<br>
+            2. + zmarłych z&nbsp;rodziny Wydrów i&nbsp;Matejów</td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">18.00</td>
-            <td>1. + Zofię Strzębską rocz. śm.<br>
-            2. + O&nbsp;łaskę doświadczenia Bożej miłości dla męża
-                Piotra i&nbsp;ojca Tadeusza</td>
+            <td>1. + Sylwestra Łukaszka<br>
+            2. + Mieczysława Rożka</td>
         </tr>
 
 
         <tr class="aktualnosci_day">
-            <td><b>CZWARTEK, 11&nbsp;września</b></td>
-            <td><b>Wspomnienie św.&nbsp;Piusa&nbsp;X</b></td>
-        </tr>
-        <tr style="border-bottom: 2px solid black;">
-            <td class="center">6.30</td>
-            <td>1. O&nbsp;Boże błog. dla Moniki i&nbsp;Łukasza<br>
-            2. + Małgorzatę Krawczyk</td>
-        </tr>
-        <tr style="border-bottom: 2px solid black;">
-            <td class="center">18.00</td>
-            <td>1. + Wandę, Michała, Urszulę, Marka Niezgodów<br>
-            2. + Mariannę i&nbsp;Ryszarda Gajewskich</td>
-        </tr>
-
-
-        <tr class="aktualnosci_day">
-            <td><b>PIĄTEK, 12&nbsp;września</b></td>
+            <td><b>CZWARTEK, 25&nbsp;września</b></td>
             <td><b></b></td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">6.30</td>
-            <td>1. + Zygmunta Tosia<br>
-            2. + Małgorzatę Krawczyk</td>
+            <td>1. + Mieczysława Rożka<br>
+            2. + Aleksandrę Zięba</td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">18.00</td>
-            <td>1. + Weronikę Błaszczyk<br>
-            2. + Anetę Ryzińską</td>
+            <td>1. + Agnieszkę Chmiel<br>
+            2. + Sylwestra Łukaszka</td>
         </tr>
 
 
         <tr class="aktualnosci_day">
-            <td><b>SOBOTA, 13&nbsp;września</b></td>
-            <td><b>Wspomnienie św.&nbsp;Jana Chryzostoma</b></td>
+            <td><b>PIĄTEK, 26&nbsp;września</b></td>
+            <td><b></b></td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">6.30</td>
-            <td>1. + Zygmunta Tosia<br>
+            <td>1. + Marię Szwagierczak<br>
+            2. + Aleksandrę Zięba</td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">18.00</td>
+            <td>1. + Mieczysława Rożka<br>
+            2. + Henryka Zaborowskiego</td>
+        </tr>
+
+
+        <tr class="aktualnosci_day">
+            <td><b>SOBOTA, 27&nbsp;września</b></td>
+            <td><b>Św.&nbsp;Wincentego a&nbsp;Paulo</b></td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">6.30</td>
+            <td>1. + Marię Szwagierczak<br>
             2. + Sylwestra Jurkowskiego</td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">18.00</td>
-            <td>1. + Jana Wnuka rocz. śm., Mariannę, Jana, Władysława
-                Lipców, Annę Tomaszewską<br>
-            2. + Waldemara Pałachę 1&nbsp;rocz. śm.</td>
+            <td>1. + Agnieszkę Chmiel<br>
+            2. + Zygmunta Tosia</td>
         </tr>
 
 
         <tr class="aktualnosci_day">
-            <td><b>NIEDZIELA, 14&nbsp;września</b></td>
+            <td><b>NIEDZIELA, 28&nbsp;września</b></td>
             <td><b>
-                <span style="color: red">XXIV&nbsp;Niedziela Zwykła<br>
-                Święto Podwyższenia Krzyża Świętego – ODPUST PARAFIALNY</span>
+                <span style="color: red">XXVI&nbsp;Niedziela Zwykła</span>
             </b></td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">7.30</td>
-            <td>+ Mariannę, Stanisława, Barbarę Pyszczyńskich</td>
+            <td>O&nbsp;zdrowie, Boże błogosławieństwo, opiekę Matki
+            Bożej dla rodziny Sapielak i&nbsp;Garów</td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">9.30</td>
-            <td>+ Stanisławę Kozioł</td>
+            <td>+ Zdzisława Stolarskiego, Mariannę Stolarską
+                i&nbsp;zmarłych z&nbsp;rodz. Stolarskich,
+                i&nbsp;Teterów</td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">11.15</td>
-            <td>+ Barbarę i&nbsp;Mieczysława Bryłów, Piotra Pazdro</td>
+            <td>+ Józefa Kicińskiego w&nbsp;1 r.&nbsp;śm.</td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">12.30</td>
-            <td>Za&nbsp;parafian</td>
+            <td>O&nbsp;Boże bł., potrzebne łaski, dary Ducha Św.,
+                opiekę Matki Bożej dla Agnieszki i&nbsp;Jacka Kowalów,
+                i&nbsp;ich rodziny z&nbsp;okazji
+                14&nbsp;r.&nbsp;sakramentu małżeństwa</td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">18.00</td>
-            <td>+ Pawła Piątka</td>
+            <td>+ Wiesława Napieracza, Halinę i&nbsp;Wacława Bryłów</td>
         </tr>
     </tbody>
 </table>
