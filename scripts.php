@@ -11,7 +11,7 @@
 <!-- <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"
         integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM"
         crossorigin="anonymous"></script> -->
-<script type="text/javascript">
+<!-- <script type="text/javascript">
     $(document).ready(function() {
       $('#mainModal').modal('show');
     });
@@ -24,4 +24,4 @@
     $('#close-button').on('click', function() {
       $('#mainModal').modal('hide');
     });
-</script>
+</script> -->

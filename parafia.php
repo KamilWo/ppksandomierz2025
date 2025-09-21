@@ -6,7 +6,7 @@
     </div>
     <ol class="list-group">
         <li class="list-group-item"><strong>Proboszcz:</strong></li>
-        <li class="list-group-item">Ks.&nbsp;kanonik Stanisław Chmielewski (od&nbsp;2020 roku)</li>
+        <li class="list-group-item">&nbsp;</li>
     </ol>
     <ol class="list-group">
         <li class="list-group-item"><strong>Wikariusze:</strong></li>

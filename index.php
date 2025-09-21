@@ -155,9 +155,6 @@ include 'facebook.php';
         </div>
     </main>
     <?php
-    include 'modal.php';
-    ?>
-    <?php
     include 'footer.php';
     ?>
 </div>
