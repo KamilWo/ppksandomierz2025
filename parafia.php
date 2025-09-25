@@ -6,7 +6,7 @@
     </div>
     <ol class="list-group">
         <li class="list-group-item"><strong>Proboszcz:</strong></li>
-        <li class="list-group-item">&nbsp;</li>
+        <li class="list-group-item">Ks.&nbsp;Kanonik Rafał Kobiałka (od&nbsp;2025&nbsp;roku)</li>
     </ol>
     <ol class="list-group">
         <li class="list-group-item"><strong>Wikariusze:</strong></li>
