@@ -19,7 +19,248 @@ include 'head.php';
                     <!-- treść główna -->
                     <div class="col">
                         <h2 class="first-content-header">Archiwum wiadomości 2025 rok</h2>
-                        <h2>Okres 1.&nbsp;stycznia - 28.&nbsp;września 2025&nbsp;r.</h2>
+                        <h2>Okres 1.&nbsp;stycznia - 5.&nbsp;października 2025&nbsp;r.</h2>
+
+                        <div class="card">
+                            <div class="card-header">
+                                <h3>INTENCJE MSZY ŚWIĘTYCH<br>
+                                    29.09. – 5.10.2025&nbsp;r.
+                                </h3>
+                            </div>
+                            <div class="col">
+                        <table class="aktualnosci_table" cellpadding="5" cellspacing="0">
+                            <tbody>
+                                <tr class="aktualnosci_day">
+                                    <td><b>PONIEDZIAŁEK, 29&nbsp;września</b></td>
+                                    <td><b>Święto Świętych Archaniołów Michała, Gabriela
+                                    i&nbsp;Rafała</b></td>
+                                </tr>
+                                <tr style="border-bottom: 2px solid black;">
+                                    <td class="center">6.30</td>
+                                    <td>1. + Jana i&nbsp;Józefę Mirosławów<br>
+                                    2. + Aleksandrę Ziębę</td>
+                                </tr>
+                                <tr style="border-bottom: 2px solid black;">
+                                    <td class="center">18.00</td>
+                                    <td>1. + Agnieszkę Chmiel<br>
+                                    2. + Zygmunta Tosia</td>
+                                </tr>
+
+
+                                <tr class="aktualnosci_day">
+                                    <td><b>WTOREK, 30&nbsp;września</b></td>
+                                    <td><b>Wspomnienie Św.&nbsp;Hieronima</b></td>
+                                </tr>
+                                <tr style="border-bottom: 2px solid black;">
+                                    <td class="center">6.30</td>
+                                    <td>1. + Henryka Zaborowskiego<br>
+                                    2. + Aleksandrę Ziębę</td>
+                                </tr>
+                                <tr style="border-bottom: 2px solid black;">
+                                    <td class="center">18.00</td>
+                                    <td>1. + z&nbsp;rodz. Wolaków<br>
+                                    2. + Mieczysława Rożka<br>
+                                    3. + Sylwestra Łukaszka</td>
+                                </tr>
+
+
+                                <tr class="aktualnosci_day">
+                                    <td><b>ŚRODA, 1&nbsp;października</b></td>
+                                    <td><b>Wspomnienie Św.&nbsp;Teresy od&nbsp;Dzieciątka
+                                    Jezus</b></td>
+                                </tr>
+                                <tr style="border-bottom: 2px solid black;">
+                                    <td class="center">6.30</td>
+                                    <td>1. O&nbsp;świętość kapłanów i&nbsp;nowe powołania
+                                        kapłańskie<br>
+                                    2. + Aleksandrę Ziębę</td>
+                                </tr>
+                                <tr style="border-bottom: 2px solid black;">
+                                    <td class="center">18.00</td>
+                                    <td>1. + Jana, Stanisławę, Witolda, Maariana, Stanisława,
+                                        Krystynę, Mariana i&nbsp;Janinę<br>
+                                    2. + Mieczysława Rożka</td>
+                                </tr>
+
+
+                                <tr class="aktualnosci_day">
+                                    <td><b>CZWARTEK, 2&nbsp;października</b></td>
+                                    <td><b>Wspomnienie Świętych Aniołów Stróżów –
+                                    I&nbsp;Czwartek miesiąca</b></td>
+                                </tr>
+                                <tr style="border-bottom: 2px solid black;">
+                                    <td class="center">6.30</td>
+                                    <td>1. O&nbsp;potrzebne łaski dla dzieci
+                                        i&nbsp;chrześniaków<br>
+                                    2. + Mieczysława Adamczyka, Mariannę i&nbsp;Szymona
+                                        Woźniaków</td>
+                                </tr>
+                                <tr style="border-bottom: 2px solid black;">
+                                    <td class="center">18.00</td>
+                                    <td>1. + Agnieszkę Chmiel<br>
+                                    2. + Mieczysława Rożka</td>
+                                </tr>
+
+
+                                <tr class="aktualnosci_day">
+                                    <td><b>PIĄTEK, 3&nbsp;października</b></td>
+                                    <td><b>I&nbsp;Piątek miesiąca</b></td>
+                                </tr>
+                                <tr style="border-bottom: 2px solid black;">
+                                    <td class="center">6.30</td>
+                                    <td>1. O&nbsp;Boże błog. dla Teresy Pietruszki
+                                        z&nbsp;racji imienin<br>
+                                    2. + Joannę Piskorc</td>
+                                </tr>
+                                <tr style="border-bottom: 2px solid black;">
+                                    <td class="center">18.00</td>
+                                    <td>1. O&nbsp;Boże błog. dla Teresy Pietruszki
+                                        z&nbsp;racji imienin<br>
+                                    2. + Andrzeja Wojnę 1&nbsp;rocz. śm.</td>
+                                </tr>
+
+
+                                <tr class="aktualnosci_day">
+                                    <td><b>SOBOTA, 4&nbsp;października</b></td>
+                                    <td><b>Wspomnienie Św.&nbsp;Franciszka z&nbsp;Asyżu –
+                                    I&nbsp;Sobota miesiąca</b></td>
+                                </tr>
+                                <tr style="border-bottom: 2px solid black;">
+                                    <td class="center">6.30</td>
+                                    <td>1. O&nbsp;łaskę dobrej śmierci<br>
+                                    2. + Sylwestra Jurkowskiego</td>
+                                </tr>
+                                <tr style="border-bottom: 2px solid black;">
+                                    <td class="center">18.00</td>
+                                    <td>1. LM<br>
+                                    2. Dzięk.-błag. o&nbsp;Boże błog., potrzebne łaski,
+                                        opiekę MB dla Mileny w&nbsp;8&nbsp;rocz. ur.
+                                        i&nbsp;Adana w&nbsp;12&nbsp;rocz. ur.</td>
+                                </tr>
+
+
+                                <tr class="aktualnosci_day">
+                                    <td><b>NIEDZIELA, 5&nbsp;października</b></td>
+                                    <td><b>
+                                        <span style="color: red">XXVII&nbsp;Niedziela Zwykła</span>
+                                    </b></td>
+                                </tr>
+                                <tr style="border-bottom: 2px solid black;">
+                                    <td class="center">7.30</td>
+                                    <td>+ Marię i&nbsp;Jana Politów</td>
+                                </tr>
+                                <tr style="border-bottom: 2px solid black;">
+                                    <td class="center">9.30</td>
+                                    <td>+ Cezarego 14&nbsp;rocz. śm., Teresę, Eugeniusza,
+                                        Julię i&nbsp;Wacława, zm. z&nbsp;rodz. Paciochów</td>
+                                </tr>
+                                <tr style="border-bottom: 2px solid black;">
+                                    <td class="center">11.15</td>
+                                    <td>KZR – zel. J.&nbsp;Mojduszka</td>
+                                </tr>
+                                <tr style="border-bottom: 2px solid black;">
+                                    <td class="center">12.30</td>
+                                    <td>Za&nbsp;parafian</td>
+                                </tr>
+                                <tr style="border-bottom: 2px solid black;">
+                                    <td class="center">18.00</td>
+                                    <td>+ Wiesławę Śledź 30&nbsp;rocz. śm.</td>
+                                </tr>
+                            </tbody>
+                        </table>
+                            <p>&nbsp;</p>
+                            <h4><span style="text-decoration: underline;">17.30 - Nabożeństwo
+                            różańcowe</h4>
+                            </div>
+                        </div>
+                        <br>
+
+                        <div class="card">
+                            <div class="card-header">
+                                <h3>28.&nbsp;września 2025&nbsp;r.</h3>
+                                <h3>XXVI&nbsp;Niedziela Zwykła, Rok&nbsp;C</h3>
+                            </div>
+                            <div class="col">
+                                <p>1. Informujemy, że&nbsp;decyzją Ks.&nbsp;Biskupa Krzysztofa
+                                Nitkiewicza proboszczem naszej parafii został mianowany ks.&nbsp;Rafał
+                                Kobiałka, dotychczasowy ojciec duchowny w&nbsp;Wyższym Seminarium
+                                Duchownym w&nbsp;Sandomierzu. Objęcie urzędu proboszcza odbędzie się
+                                w&nbsp;niedzielę <strong>5&nbsp;października
+                                o&nbsp;godz.&nbsp;12.30</strong>. Zapraszamy do&nbsp;wspólnej
+                                modlitwy.</p>
+                                <p>2. W&nbsp;gablocie zostały wywieszone terminy Mszy świętych, które
+                                zostały zamówione za&nbsp;Ś.P.&nbsp;Ks.&nbsp;Stanisława
+                                Chmielewskiego.</p>
+                                <p>3. Spotkanie rodziców i&nbsp;dzieci z&nbsp;klas
+                                4&nbsp;przeżywających w&nbsp;nowym roku szkolnym rocznicę Pierwszej
+                                Komunii odbędzie się dzisiaj. Początek o&nbsp;godz.&nbsp;12.30.</p>
+                                <p>4. Dzisiaj o&nbsp;godz.&nbsp;15.00 organizowana jest inicjatywa
+                                „Koronka na&nbsp;ulicach miast świata”. Modlitwa odbędzie się przy
+                                kaplicy przy rondzie obok kościoła. Zapraszamy.</p>
+                                <p>5. W&nbsp;środę – <strong>1 października</strong> – rozpoczynają
+                                się Nabożeństwa różańcowe, które będą odprawiane codziennie
+                                o&nbsp;godz.&nbsp;17.30. Zapraszamy do&nbsp;udziału dzieci, młodzież
+                                i&nbsp;dorosłych. Dzieci będą każdego dnia otrzymywać pamiątkowy
+                                obrazek: <em>Z&nbsp;Maryją modlimy się za&nbsp;świat</em>.</p>
+                                <p>6. Po&nbsp;każdej Mszy Świętej oraz w&nbsp;godzinach urzędowania
+                                kancelarii, przyjmujemy wypominki jednorazowe oraz roczne. Składając
+                                prośbę o&nbsp;wypominki pamiętajmy o&nbsp;tym,
+                                że&nbsp;to&nbsp;szczególny wyraz miłości i&nbsp;wyjątkowy sposób
+                                modlitwy za&nbsp;tych, którzy już odeszli. Na&nbsp;stoliku pod chórem
+                                są&nbsp;do&nbsp;zabrania specjalne formularze wypominkowe.</p>
+                                <p>7. W&nbsp;tym tygodniu przypadają I&nbsp;czwartek, I&nbsp;piątek
+                                i&nbsp;I&nbsp;sobota miesiąca. W&nbsp;piątek spowiedź
+                                od&nbsp;godz.&nbsp;17.30. Chorych z&nbsp;posługą sakramentalną
+                                odwiedzimy od&nbsp;godz.&nbsp;8.00.</p>
+                                <p>8. W&nbsp;sobotę – <strong>4&nbsp;października o&nbsp;godz.&nbsp;18.00</strong>
+                                w&nbsp;Katolickim Domu Kultury w&nbsp;Sandomierzu
+                                (ul.&nbsp;Mariacka&nbsp;12) odbędzie się bezpłatny spektakl muzyczny
+                                „Moje serce zostało we&nbsp;Lwowie, czyli Marian Hemar w&nbsp;Radiu Wolna
+                                Europa”. Rezerwacja bezpłatnych wejściówek:
+                                <a href="mailto:wydarzeniakulturalne@ipn.gov.pl">wydarzeniakulturalne@ipn.gov.pl</a></p>
+                                <p>9. W&nbsp;sobotę – <strong>4&nbsp;października</strong> -
+                                w&nbsp;Sanktuarium MB&nbsp;Dzikowskiej w&nbsp;Tarnobrzegu odbędzie się
+                                Diecezjalne Spotkanie Kół Żywego Różańca, początek
+                                o&nbsp;godz.&nbsp;9.00. Szczegółowy plan umieszczony jest
+                                na&nbsp;tablicy ogłoszeń. Zapisy w&nbsp;zakrystii.</p>
+                                <p>10. Spotkanie grupy młodzieżowej w&nbsp;najbliższą sobotę
+                                <strong>4&nbsp;października o&nbsp;godz.&nbsp;17:00</strong>
+                                na&nbsp;plebanii. Do&nbsp;grupy mogą należeć najstarsi uczniowie
+                                szkoły podstawowej i&nbsp;uczniowie szkoły średniej. Zapraszamy.</p>
+                                <p>11. W&nbsp;przyszłą niedzielę – <strong>5&nbsp;października
+                                o&nbsp;godz.&nbsp;10.45</strong> – Różaniec i&nbsp;wymiana tajemnic
+                                różańcowych. Zapraszamy do&nbsp;wspólnej modlitwy.</p>
+                                <p>12. Spotkanie dzieci pierwszokomunijnych z&nbsp;rodzicami
+                                i&nbsp;poświęcenie różańców będzie <strong>12&nbsp;października</strong> (niedziela),
+                                a&nbsp;spotkanie kandydatów do&nbsp;bierzmowania <strong>19&nbsp;października</strong>
+                                (niedziela).</p>
+                                <p>13. W&nbsp;każdej chwili można dołączyć do&nbsp;Liturgicznej Służby
+                                Ołtarza. Zainteresowanych prosimy o&nbsp;kontakt z&nbsp;księdzem
+                                Wojciechem.</p>
+                                <p>14. W&nbsp;przyszłym roku, w&nbsp;dn.&nbsp;<strong>27&nbsp;czerwca –
+                                3&nbsp;lipca</strong>, odbędzie się pielgrzymka do&nbsp;Portugalii,
+                                w&nbsp;planie jest m.in. nawiedzenie Fatimy, Bragi, Porto, Coimbry,
+                                Lizbony. Plan pielgrzymki został wywieszony w&nbsp;gablocie.
+                                Szczegółowe informacje i&nbsp;zapisy u&nbsp;ks.&nbsp;Krystiana.</p>
+                                <p>15. Zapraszamy mężczyzn na&nbsp;spotkania Wojowników Maryi.
+                                Spotkania odbywają się w&nbsp;każdą I&nbsp;sobotę miesiąca
+                                o&nbsp;godz.&nbsp;17.00 w&nbsp;kościele św.&nbsp;Józefa.</p>
+                                <p>16. W&nbsp;każdy czwartek zapraszamy do&nbsp;kościoła
+                                św.&nbsp;Józefa na&nbsp;„Godzinę Świętą” od&nbsp;23.00 do&nbsp;24.00.</p>
+                                <p>17. Wszystkie Panie zachęcamy do&nbsp;udziału w&nbsp;nowo
+                                powstającej grupie „Serce Kecharitomene”. Pierwsze spotkanie
+                                informacyjne odbędzie się <strong>19&nbsp;października
+                                o&nbsp;godz.&nbsp;16.00</strong> w&nbsp;parafii pw.&nbsp;św.&nbsp;Józefa.
+                                Celem ruchu jest formacja kobiet w&nbsp;duchu nauczania Kościoła
+                                Katolickiego.</p>
+                                <p>18. Wszystkim życzymy błogosławionej niedzieli.</p>
+                                <p>
+                                    <span style="float: left;">Sandomierz, 28.&nbsp;września 2025&nbsp;r.</span>
+                                    <span style="float: right; text-align: right;"></span>
+                                </p>
+                            </div>
+                        </div>
+                        <br>
 
                         <div class="card">
                             <div class="card-header">
