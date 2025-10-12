@@ -1,144 +1,141 @@
 <div class="card">
     <div class="card-header">
         <h3>INTENCJE MSZY ŚWIĘTYCH<br>
-            6.10. – 12.10.2025&nbsp;r.
+            13.10. – 19.10.2025&nbsp;r.
         </h3>
     </div>
     <div class="col">
 <table class="aktualnosci_table" cellpadding="5" cellspacing="0">
     <tbody>
         <tr class="aktualnosci_day">
-            <td><b>PONIEDZIAŁEK, 6&nbsp;października</b></td>
-            <td><b></b></td>
+            <td><b>PONIEDZIAŁEK, 13&nbsp;października</b></td>
+            <td><b>Wspomnienie błogosławionego Honorata Koźmińskiego</b></td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">6.30</td>
             <td>1. + Sylwestra Łukaszka<br>
-            2. + Mariannę Makowską</td>
+            2. + Zofię Lesiak</td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">18.00</td>
-            <td>1. + Mariana Strzębskiego (1&nbsp;r.&nbsp;śm.)<br>
-            2. + Alicję, Zdzisława Gilewskich, Teresę Nowakowską,
-                Stefanię, Józefa Janusów</td>
+            <td>1. + Agnieszkę Chmiel<br>
+            2. + Mieczysława Rożka</td>
         </tr>
 
 
         <tr class="aktualnosci_day">
-            <td><b>WTOREK, 7&nbsp;października</b></td>
+            <td><b>WTOREK, 14&nbsp;października</b></td>
             <td><b></b></td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">6.30</td>
             <td>1. + Mieczysława Rożka<br>
+            2. + Zofię Lesiak</td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">18.00</td>
+            <td>1. W&nbsp;intencji osób uzależnionych i&nbsp;ich
+                rodzin, o&nbsp;wyzwolenie z&nbsp;nałogów, lęku
+                i&nbsp;nienawiści<br>
+            2. + Macieja Wodza, Bożenę Kubala (3r.&nbsp;śm.) Jana,
+                Florentynę, Mieczysława Sado, Stefana, Krystynę Wódz</td>
+        </tr>
+
+
+        <tr class="aktualnosci_day">
+            <td><b>ŚRODA, 15&nbsp;października</b></td>
+            <td><b>Wspomnienie świętej Teresy z&nbsp;Avila</b></td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">6.30</td>
+            <td>1. + Henryka Zaborowskiego<br>
             2. + Joannę Piskor</td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">18.00</td>
-            <td>1. + Kazimierza Gacha i&nbsp;zm. z&nbsp;rodz. Gachów
-                i&nbsp;Czajków<br>
-            2. + Jana (r.), Józefę Marców, Ryszarda Pietruszkę, zm.
-                z&nbsp;rodz. Marców</td>
+            <td>1. + Wiesława Wilka<br>
+            2. + Mieczysława Rożka</td>
         </tr>
 
 
         <tr class="aktualnosci_day">
-            <td><b>ŚRODA, 8&nbsp;października</b></td>
-            <td><b></b></td>
+            <td><b>CZWARTEK, 16&nbsp;października</b></td>
+            <td><b>Wspomnienie świętej Jadwigi Śląskiej</b></td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">6.30</td>
-            <td>1. + Sylwestra Łukaszka<br>
+            <td>1. + Jadwigę, Szczepana Kasprzyckich, zm.
+                z&nbsp;rodziny i&nbsp;dusze w&nbsp;czyśćcu cierpiące<br>
             2. + Zofię Lesiak</td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">18.00</td>
-            <td>1. + Aleksandra Krakowiaka, Michała i&nbsp;Tomasza
-                Krakowiaków<br>
-            2. + Joannę (r.), Stanisława Dondów, Jana Trojanowskiego,
-                Józefa, Zofię Bartosów</td>
+            <td>1. + Agnieszkę Chmiel<br>
+            2. + Mieczysława Rożka</td>
         </tr>
 
 
         <tr class="aktualnosci_day">
-            <td><b>CZWARTEK, 9&nbsp;października</b></td>
-            <td><b></b></td>
+            <td><b>PIĄTEK, 17&nbsp;października</b></td>
+            <td><b>Wspomnienie świętego Ignacego z&nbsp;Antiochii</b></td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">6.30</td>
-            <td>1. + Andrzeja Skoczylasa<br>
+            <td>1. + Henryka Zaborowskiego<br>
             2. + Zofię Lesiak</td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">18.00</td>
-            <td>1. + Jana Batorskiego (r.&nbsp;śm.) Aleksandrę, Jana,
-                Eugeniusza, Piotra Barbachów<br>
-            2. + Tadeusza (r. śm.) Irenę, Krzysztofa, Mirosława Kołacz</td>
+            <td>1. + Paulinę (r.śm.) Mieczysława, Tadeusza Ramus,
+                Jarosława, Genowefę, Stefana Burek<br>
+            2. + Sylwestra Łukaszka</td>
         </tr>
 
 
         <tr class="aktualnosci_day">
-            <td><b>PIĄTEK, 10&nbsp;października</b></td>
-            <td><b></b></td>
+            <td><b>SOBOTA, 18&nbsp;października</b></td>
+            <td><b>Wspomnienie świętego Łukasza Ewangelisty</b></td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">6.30</td>
-            <td>1. + Stefanię Kowalską (r.&nbsp;śm.) Franciszka
-                Kowalskiego, Marię Woś, Wiesławę Wałcerz<br>
-            2. + Zofię Lesiak</td>
-        </tr>
-        <tr style="border-bottom: 2px solid black;">
-            <td class="center">18.00</td>
-            <td>1. + Marię Szwagierczak<br>
-            2. O&nbsp;łaskę doświadczenia Bożej Miłości dla męża
-                Piotra i&nbsp;ojca Tadeusza</td>
-        </tr>
-
-
-        <tr class="aktualnosci_day">
-            <td><b>SOBOTA, 11&nbsp;października</b></td>
-            <td><b></b></td>
-        </tr>
-        <tr style="border-bottom: 2px solid black;">
-            <td class="center">6.30</td>
-            <td>1. + Sylwestra Łukaszka<br>
+            <td>1. + Annę Podsiadły (23&nbsp;r.&nbsp;śm.)<br>
             2. + Sylwestra Jurkowskiego</td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">18.00</td>
-            <td>1. + Ryszarda Grzegolca (3&nbsp;r.&nbsp;śm.)<br>
-            2. + Helenę Król, zm. z&nbsp;rodz. Królów, Szczębarów,
-                Golców, Ostrowskich, dusze w&nbsp;czyśćcu cierpiące</td>
+            <td>1. + Zygmunta Tosia<br>
+            2. + Henryka Zaborowskiego</td>
         </tr>
 
 
         <tr class="aktualnosci_day">
-            <td><b>NIEDZIELA, 12&nbsp;października</b></td>
+            <td><b>NIEDZIELA, 19&nbsp;października</b></td>
             <td><b>
-                <span style="color: red">XXVIII&nbsp;Niedziela Zwykła</span>
+                <span style="color: red">XXIX&nbsp;Niedziela Zwykła</span>
             </b></td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">7.30</td>
-            <td>+ Marię, Wincentego, Andrzeja Winiarczyków, Mariannę,
-                Włodzimierza Augustyńskich</td>
+            <td>Za&nbsp;parafian</td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">9.30</td>
-            <td>+ Wiesława i&nbsp;Tomasza Szyprowskich</td>
+            <td>+ Adama, Katarzynę Maziarzów, Józefa Zalewskiego</td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">11.15</td>
-            <td>+ Otolię (r.&nbsp;śm.), Czesława Ciachów, Małgorzatę
-                Krawczyk</td>
+            <td>W&nbsp;intencji rodzin Domowego Kościoła, o&nbsp;Boże
+                bł., potrzebne łaski, opiekę Matki Bożej</td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">12.30</td>
-            <td>+ Stanisława Kabzę, Bronisława Wójcika</td>
+            <td>+ Edwarda Stefańskiego (6&nbsp;r.&nbsp;śm.) Dorotę
+                Kwitek (22&nbsp;r.&nbsp;śm.) zmarłych z&nbsp;rodziny</td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">18.00</td>
-            <td>Za&nbsp;parafian</td>
+            <td>+ Mieczysławę, Wilhelma Hopków, Stefana, Genowefę,
+                Stanisława Maszczyków</td>
         </tr>
     </tbody>
 </table>
