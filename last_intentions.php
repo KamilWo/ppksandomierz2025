@@ -1,144 +1,147 @@
 <div class="card">
     <div class="card-header">
         <h3>INTENCJE MSZY ŚWIĘTYCH<br>
-            13.10. – 19.10.2025&nbsp;r.
+            20.10. – 26.10.2025&nbsp;r.
         </h3>
     </div>
     <div class="col">
 <table class="aktualnosci_table" cellpadding="5" cellspacing="0">
     <tbody>
         <tr class="aktualnosci_day">
-            <td><b>PONIEDZIAŁEK, 13&nbsp;października</b></td>
-            <td><b>Wspomnienie błogosławionego Honorata Koźmińskiego</b></td>
+            <td><b>PONIEDZIAŁEK, 20&nbsp;października</b></td>
+            <td><b>Wspomnienie św.&nbsp;Jana Kantego</b></td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">6.30</td>
-            <td>1. + Sylwestra Łukaszka<br>
+            <td>1. + Henryka Zaborowskiego<br>
             2. + Zofię Lesiak</td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">18.00</td>
-            <td>1. + Agnieszkę Chmiel<br>
-            2. + Mieczysława Rożka</td>
+            <td>1. + Marzenę Małysę (16&nbsp;rocz. śm.)<br>
+            2. + Władysławę Bulirę</td>
         </tr>
 
 
         <tr class="aktualnosci_day">
-            <td><b>WTOREK, 14&nbsp;października</b></td>
-            <td><b></b></td>
+            <td><b>WTOREK, 21&nbsp;października</b></td>
+            <td><b>Dzień powszedni</b></td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">6.30</td>
+            <td>1. + Henryka Zaborowskiego<br>
+            2. + Zofię Lesiak</td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">18.00</td>
             <td>1. + Mieczysława Rożka<br>
-            2. + Zofię Lesiak</td>
-        </tr>
-        <tr style="border-bottom: 2px solid black;">
-            <td class="center">18.00</td>
-            <td>1. W&nbsp;intencji osób uzależnionych i&nbsp;ich
-                rodzin, o&nbsp;wyzwolenie z&nbsp;nałogów, lęku
-                i&nbsp;nienawiści<br>
-            2. + Macieja Wodza, Bożenę Kubala (3r.&nbsp;śm.) Jana,
-                Florentynę, Mieczysława Sado, Stefana, Krystynę Wódz</td>
+            2. + Mieczysława Rożka<br>
+            3. + Roberta Mikołajczyka</td>
         </tr>
 
 
         <tr class="aktualnosci_day">
-            <td><b>ŚRODA, 15&nbsp;października</b></td>
-            <td><b>Wspomnienie świętej Teresy z&nbsp;Avila</b></td>
+            <td><b>ŚRODA, 22&nbsp;października</b></td>
+            <td><b>Rocznica poświęcenia Bazyliki Katedralnej
+            w&nbsp;Sandomierzu</b></td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">6.30</td>
+            <td>1. + Mariannę Stolarską<br>
+            2. + Tadeusza Gajewskiego</td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">18.00</td>
+            <td>1. + Franciszka Zająca<br>
+            2. + Władysławę Bulirę</td>
+        </tr>
+
+
+        <tr class="aktualnosci_day">
+            <td><b>CZWARTEK, 23&nbsp;października</b></td>
+            <td><b>Dzień powszedni</b></td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">6.30</td>
             <td>1. + Henryka Zaborowskiego<br>
-            2. + Joannę Piskor</td>
+            2. + Tadeusza Gajewskiego</td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">18.00</td>
-            <td>1. + Wiesława Wilka<br>
+            <td>1. + Władysławę Bulirę<br>
+            2. + Mariannę Stolarską<br>
+            3. + Antoniego, Marię Kusiak, Mariolę Kusiak, Elżbietę
+                Jezuit z&nbsp;Lipinek</td>
+        </tr>
+
+
+        <tr class="aktualnosci_day">
+            <td><b>PIĄTEK, 24&nbsp;października</b></td>
+            <td><b>Dzień powszedni</b></td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">6.30</td>
+            <td>1. + Henryka Zaborowskiego<br>
+            2. + Mirosławę Czerwiec</td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">18.00</td>
+            <td>1. + Władysławę Bulirę</td>
+        </tr>
+
+
+        <tr class="aktualnosci_day">
+            <td><b>SOBOTA, 25&nbsp;października</b></td>
+            <td><b>Wspomnienie Św. Jana Pawła II</b></td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">6.30</td>
+            <td>1. + Henryka Zaborowskiego<br>
+            2. + Mirosławę Czerwiec</td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">18.00</td>
+            <td>1. + Helenę, Stanisława Woźniaków<br>
             2. + Mieczysława Rożka</td>
         </tr>
 
 
         <tr class="aktualnosci_day">
-            <td><b>CZWARTEK, 16&nbsp;października</b></td>
-            <td><b>Wspomnienie świętej Jadwigi Śląskiej</b></td>
-        </tr>
-        <tr style="border-bottom: 2px solid black;">
-            <td class="center">6.30</td>
-            <td>1. + Jadwigę, Szczepana Kasprzyckich, zm.
-                z&nbsp;rodziny i&nbsp;dusze w&nbsp;czyśćcu cierpiące<br>
-            2. + Zofię Lesiak</td>
-        </tr>
-        <tr style="border-bottom: 2px solid black;">
-            <td class="center">18.00</td>
-            <td>1. + Agnieszkę Chmiel<br>
-            2. + Mieczysława Rożka</td>
-        </tr>
-
-
-        <tr class="aktualnosci_day">
-            <td><b>PIĄTEK, 17&nbsp;października</b></td>
-            <td><b>Wspomnienie świętego Ignacego z&nbsp;Antiochii</b></td>
-        </tr>
-        <tr style="border-bottom: 2px solid black;">
-            <td class="center">6.30</td>
-            <td>1. + Henryka Zaborowskiego<br>
-            2. + Zofię Lesiak</td>
-        </tr>
-        <tr style="border-bottom: 2px solid black;">
-            <td class="center">18.00</td>
-            <td>1. + Paulinę (r.śm.) Mieczysława, Tadeusza Ramus,
-                Jarosława, Genowefę, Stefana Burek<br>
-            2. + Sylwestra Łukaszka</td>
-        </tr>
-
-
-        <tr class="aktualnosci_day">
-            <td><b>SOBOTA, 18&nbsp;października</b></td>
-            <td><b>Wspomnienie świętego Łukasza Ewangelisty</b></td>
-        </tr>
-        <tr style="border-bottom: 2px solid black;">
-            <td class="center">6.30</td>
-            <td>1. + Annę Podsiadły (23&nbsp;r.&nbsp;śm.)<br>
-            2. + Sylwestra Jurkowskiego</td>
-        </tr>
-        <tr style="border-bottom: 2px solid black;">
-            <td class="center">18.00</td>
-            <td>1. + Zygmunta Tosia<br>
-            2. + Henryka Zaborowskiego</td>
-        </tr>
-
-
-        <tr class="aktualnosci_day">
-            <td><b>NIEDZIELA, 19&nbsp;października</b></td>
+            <td><b>NIEDZIELA, 26&nbsp;października</b></td>
             <td><b>
-                <span style="color: red">XXIX&nbsp;Niedziela Zwykła</span>
+                <span style="color: red">Rocznica Poświęcenia Kościoła</span>
             </b></td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">7.30</td>
-            <td>Za&nbsp;parafian</td>
+            <td>+ Bolesław Grządkowski (6&nbsp;rocz. śm.)</td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">9.30</td>
-            <td>+ Adama, Katarzynę Maziarzów, Józefa Zalewskiego</td>
+            <td>+ Dziękczynna, z&nbsp;prośbą o&nbsp;Boże
+                błogosławieństwo i&nbsp;łaski potrzebne dla Marysi
+                w&nbsp;1&nbsp;rocznicę urodzin</td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">11.15</td>
-            <td>W&nbsp;intencji rodzin Domowego Kościoła, o&nbsp;Boże
-                bł., potrzebne łaski, opiekę Matki Bożej</td>
+            <td>1. Za&nbsp;Parafian<br>
+            2. + Stefanię, Aleksandra Zimnickich, Władysławę,
+                Franciszka Plachów</td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">12.30</td>
-            <td>+ Edwarda Stefańskiego (6&nbsp;r.&nbsp;śm.) Dorotę
-                Kwitek (22&nbsp;r.&nbsp;śm.) zmarłych z&nbsp;rodziny</td>
+            <td>+ Janinę, Józefa, Irenę, Kazimierza Tutaków, Mariannę,
+                Józefa Grzybowskich</td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">18.00</td>
-            <td>+ Mieczysławę, Wilhelma Hopków, Stefana, Genowefę,
-                Stanisława Maszczyków</td>
+            <td>+ Stanisława (9&nbsp;rocz. śm.), Helenę Boduła</td>
         </tr>
     </tbody>
 </table>
+    <p>&nbsp;</p>
+    <h4><span style="text-decoration: underline;">17.30 - Nabożeństwo
+    różańcowe</h4>
     </div>
 </div>
 <br>
