@@ -23,7 +23,7 @@ najlepszym interesie.</p><br>
 <p>W&nbsp;parafii działa Zespół ds.&nbsp;Prewencji,
 w&nbsp;składzie:</p>
 <ol>
-<li>Ks. Stanisław Chmielewski - Przewodniczący</li>
+<li>Ks. Rafał Kobiałka – Przewodniczący</li>
 <li>Sylwia Dudek – Osoba Zaufania</li>
 <li>Renata Kędziora</li>
 </ol>
