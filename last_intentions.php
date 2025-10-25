@@ -18,7 +18,7 @@
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">18.00</td>
-            <td>1. + Marzenę Małysę (16&nbsp;rocz. śm.)<br>
+            <td>1. + Mariana Małysę (16&nbsp;rocz. śm.)<br>
             2. + Władysławę Bulirę</td>
         </tr>
 
