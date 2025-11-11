@@ -19,7 +19,216 @@ include 'head.php';
                     <!-- treść główna -->
                     <div class="col">
                         <h2 class="first-content-header">Archiwum wiadomości 2025 rok</h2>
-                        <h2>Okres 1.&nbsp;stycznia - 2.&nbsp;listopada 2025&nbsp;r.</h2>
+                        <h2>Okres 1.&nbsp;stycznia - 9.&nbsp;listopada 2025&nbsp;r.</h2>
+
+                        <div class="card">
+                            <div class="card-header">
+                                <h3>INTENCJE MSZY ŚWIĘTYCH<br>
+                                    3.11. – 9.11.2025&nbsp;r.
+                                </h3>
+                            </div>
+                            <div class="col">
+                        <table class="aktualnosci_table" cellpadding="5" cellspacing="0">
+                            <tbody>
+                                <tr class="aktualnosci_day">
+                                    <td><b>PONIEDZIAŁEK, 3&nbsp;listopada</b></td>
+                                    <td><b>Dzień powszedni</b></td>
+                                </tr>
+                                <tr style="border-bottom: 2px solid black;">
+                                    <td class="center">6.30</td>
+                                    <td>1. + Mariana Klimont i&nbsp;Aleksandrę Ciamagę oraz
+                                        zmarłych z&nbsp;rodziny<br>
+                                    2. + Zmarłych z&nbsp;rodziny i&nbsp;dusze w&nbsp;czyśćcu
+                                        cierpiące</td>
+                                </tr>
+                                <tr style="border-bottom: 2px solid black;">
+                                    <td class="center">18.00</td>
+                                    <td>1. <strong>+ ks.&nbsp;Stanisława Chmielewskiego (3&nbsp;greg.)</strong><br>
+                                    2. + Wacława, Mariana Niziałek, Józefa Zubę<br>
+                                    3. + Janinę (rocz.), Stefana Plachów, Roberta Burka<br>
+                                    4. + Stanisława Muchę<br>
+                                    5. + Mateusza Frańczaka</td>
+                                </tr>
+
+
+                                <tr class="aktualnosci_day">
+                                    <td><b>WTOREK, 4&nbsp;listopada</b></td>
+                                    <td><b>Św.&nbsp;Karola Boromeusza</b></td>
+                                </tr>
+                                <tr style="border-bottom: 2px solid black;">
+                                    <td class="center">6.30</td>
+                                    <td>1. Zmarłych z&nbsp;rodzin Mądry i&nbsp;Kubik<br>
+                                    2. + Mirosławę Czerwiec, Zuzannę Marzec</td>
+                                </tr>
+                                <tr style="border-bottom: 2px solid black;">
+                                    <td class="center">18.00</td>
+                                    <td>1. <strong>+ ks.&nbsp;Stanisława Chmielewskiego
+                                        (4&nbsp;greg.)</strong><br>
+                                    2. + Janinę, Ludwika, Zofię, Ludwika Wilk, Teresę, Jerzego
+                                        Głowackich<br>
+                                    3. + Henryka Pietruszkę<br>
+                                    4. + Krystynę Kuśmirę<br>
+                                    5. + Zofię Kuminek</td>
+                                </tr>
+
+
+                                <tr class="aktualnosci_day">
+                                    <td><b>ŚRODA, 5&nbsp;listopada</b></td>
+                                    <td><b>Dzień powszedni</b></td>
+                                </tr>
+                                <tr style="border-bottom: 2px solid black;">
+                                    <td class="center">6.30</td>
+                                    <td>1. + Zmarłych z&nbsp;rodzin Dudków
+                                        i&nbsp;Kasprzyckich<br>
+                                    2. + Tadeusza Gajewskiego</td>
+                                </tr>
+                                <tr style="border-bottom: 2px solid black;">
+                                    <td class="center">18.00</td>
+                                    <td>1. <strong>+ ks.&nbsp;Stanisława Chmielewskiego
+                                        (5&nbsp;gerg.)</strong><br>
+                                    2. + Jana Szczębarę, zmarłych z&nbsp;rodzin Szczębarów,
+                                        Golców, Królów, Ostrowskich i&nbsp;dusze
+                                        w&nbsp;czyśćcu cierpiące<br>
+                                    3. + Mieczysława Rożka<br>
+                                    4. + Stanisława Muchę<br>
+                                    5. + Mateusza Frańczaka</td>
+                                </tr>
+
+
+                                <tr class="aktualnosci_day">
+                                    <td><b>CZWARTEK, 6&nbsp;listopada</b></td>
+                                    <td><b>Dzień powszedni</b></td>
+                                </tr>
+                                <tr style="border-bottom: 2px solid black;">
+                                    <td class="center">6.30</td>
+                                    <td>1. O&nbsp;świętość kapłanów i&nbsp;nowe powołania
+                                        kapłańskie<br>
+                                    2. + Teresę Pilecką</td>
+                                </tr>
+                                <tr style="border-bottom: 2px solid black;">
+                                    <td class="center">18.00</td>
+                                    <td>1. <strong>+ ks.&nbsp;Stanisława Chmielewskiego
+                                        (6&nbsp;gerg.)</strong><br>
+                                    2. + Mariannę Stolarską<br>
+                                    3. + Mariannę Stolarską </td>
+                                </tr>
+
+
+                                <tr class="aktualnosci_day">
+                                    <td><b>PIĄTEK, 7&nbsp;listopada</b></td>
+                                    <td><b>Dzień powszedni</b></td>
+                                </tr>
+                                <tr style="border-bottom: 2px solid black;">
+                                    <td class="center">6.30</td>
+                                    <td>1. O&nbsp;potrzebne łaski dla dzieci
+                                        i&nbsp;chrześniaków<br>
+                                    2. + Teresę Pilecką</td>
+                                </tr>
+                                <tr style="border-bottom: 2px solid black;">
+                                    <td class="center">18.00</td>
+                                    <td>1. <strong>+ ks.&nbsp;Stanisława Chmielewskiego
+                                        (7&nbsp;gerg.)</strong><br>
+                                    2. + Krzysztofa Zawidzkiego (1&nbsp;rocz. śm.)<br>
+                                    3. + Mariannę Stolarską</td>
+                                </tr>
+
+
+                                <tr class="aktualnosci_day">
+                                    <td><b>SOBOTA, 8&nbsp;listopada</b></td>
+                                    <td><b>Dzień powszedni</b></td>
+                                </tr>
+                                <tr style="border-bottom: 2px solid black;">
+                                    <td class="center">6.30</td>
+                                    <td>1. O&nbsp;łaskę dobrej śmierci<br>
+                                    2. + Mirosławę Czerwiec</td>
+                                </tr>
+                                <tr style="border-bottom: 2px solid black;">
+                                    <td class="center">18.00</td>
+                                    <td>1. <strong>+ ks.&nbsp;Stanisława Chmielewskiego
+                                        (8&nbsp;gerg.)</strong><br>
+                                    2. + Mariannę i&nbsp;Eugeniusza Jedlińskich<br>
+                                    3. + Stanisława, Pawła, Mariannę, Franciszka Piątków,
+                                        Antoninę, Juliana Lalewicz, zmarłych z&nbsp;rodzin
+                                        Piątków, Lalewiczów i&nbsp;Głowackich</td>
+                                </tr>
+
+
+                                <tr class="aktualnosci_day">
+                                    <td><b>NIEDZIELA, 9&nbsp;listopada</b></td>
+                                    <td><b>
+                                        <span style="color: red">Rocznica poświęcenia Bazyliki
+                                        św.&nbsp;Jana na Lateranie</span>
+                                    </b></td>
+                                </tr>
+                                <tr style="border-bottom: 2px solid black;">
+                                    <td class="center">7.30</td>
+                                    <td>+ Helenę, Jerzego, Waldemara Bażant</td>
+                                </tr>
+                                <tr style="border-bottom: 2px solid black;">
+                                    <td class="center">9.30</td>
+                                    <td>+ Andrzeja i&nbsp;Genowefę Toś</td>
+                                </tr>
+                                <tr style="border-bottom: 2px solid black;">
+                                    <td class="center">11.15</td>
+                                    <td>+ Jana Gajdę</td>
+                                </tr>
+                                <tr style="border-bottom: 2px solid black;">
+                                    <td class="center">12.30</td>
+                                    <td>+ Klarę, Jana, Ryszarda, Chrząstowskich, Jana
+                                        Makowskiego</td>
+                                </tr>
+                                <tr style="border-bottom: 2px solid black;">
+                                    <td class="center">18.00</td>
+                                    <td>1. + Piotra Pruś (3 rocz. śm.)<br>
+                                    <strong>2. + Ks.&nbsp;Stanisława Chmielewskiego
+                                        (9.&nbsp;greg.)</strong></td>
+                                </tr>
+                            </tbody>
+                        </table>
+                            </div>
+                        </div>
+                        <br>
+
+                        <div class="card">
+                            <div class="card-header">
+                                <h3>2.&nbsp;listopada 2025&nbsp;r.</h3>
+                                <h3>Wspomnienie wszystkich wiernych zmarłych</h3>
+                            </div>
+                            <div class="col">
+                                <p>1. W&nbsp;listopadzie w&nbsp;szczególny sposób pamiętajmy
+                                o&nbsp;naszych zmarłych. Nabożeństwo wypominkowe od&nbsp;1
+                                do&nbsp;8&nbsp;listopada o&nbsp;godzinie 17.30.</p>
+                                <p>2. Zachęcamy aby starać się uzyskiwać odpusty dla zmarłych. Przez
+                                cały listopad łaskę odpustu pod zwykłymi warunkami możemy zyskać
+                                za&nbsp;nawiedzenie cmentarza i&nbsp;modlitwę za&nbsp;zmarłych.</p>
+                                <p>3. Przez cały miesiąc na&nbsp;Mszach Świętych o&nbsp;godzinie
+                                18.00 modlić się będziemy za&nbsp;księdza Stanisława Chmielewskiego.</p>
+                                <p>4. W&nbsp;tym tygodniu przypada pierwszy czwartek
+                                i&nbsp;piątek miesiąca. Możliwość spowiedzi w&nbsp;piątek
+                                od&nbsp;godziny 17.00.</p>
+                                <p>5. Tego dnia <strong>(7&nbsp;listopada)</strong> zapraszamy
+                                na&nbsp;spotkanie kandydatów do&nbsp;bierzmowania z&nbsp;klas 6, 7
+                                i&nbsp;8. O&nbsp;godz.&nbsp;18:00 Msza Święta, a&nbsp;następnie
+                                katecheza w&nbsp;kościele.</p>
+                                <p>6. W&nbsp;pierwszy piątek odwiedzimy chorych w&nbsp;domach.
+                                Początek o&nbsp;godzinie 8.00.</p>
+                                <p>7. Próba scholi w&nbsp;piątek o&nbsp;godz.&nbsp;16.30.</p>
+                                <p>8. Na&nbsp;stoliku pod chórem jest do&nbsp;nabycia prasa katolicka
+                                oraz kalendarze z&nbsp;naszej drukarni diecezjalnej.</p>
+                                <p>9. W&nbsp;tym tygodniu ziemską pielgrzymkę zakończyły nasze
+                                parafianki: Krystyna Kuśmira z&nbsp;Sandomierza oraz Zofia Kuminek
+                                z&nbsp;Milczan. Polećmy je&nbsp;Bożemu miłosierdziu…</p>
+                                <p>10. Dziękujemy za&nbsp;wszelkie wsparcie duchowe i&nbsp;materialne
+                                naszej parafii. Wszystkim obchodzącym w&nbsp;tym tygodniu imieniny,
+                                rocznice i&nbsp;jubileusze składamy serdeczne życzenia. Naszym
+                                parafianom i&nbsp;gościom życzymy błogosławionej niedzieli.</p>
+                                <p>
+                                    <span style="float: left;">Sandomierz, 2.&nbsp;listopada 2025&nbsp;r.</span>
+                                    <span style="float: right; text-align: right;">ks. proboszcz Rafał Kobiałka</span>
+                                </p>
+                            </div>
+                        </div>
+                        <br>
 
                         <div class="card">
                             <div class="card-header">
