@@ -19,7 +19,235 @@ include 'head.php';
                     <!-- treść główna -->
                     <div class="col">
                         <h2 class="first-content-header">Archiwum wiadomości 2025 rok</h2>
-                        <h2>Okres 1.&nbsp;stycznia - 9.&nbsp;listopada 2025&nbsp;r.</h2>
+                        <h2>Okres 1.&nbsp;stycznia - 16.&nbsp;listopada 2025&nbsp;r.</h2>
+
+                        <div class="card">
+                            <div class="card-header">
+                                <h3>INTENCJE MSZY ŚWIĘTYCH<br>
+                                    10.11. – 16.11.2025&nbsp;r.
+                                </h3>
+                            </div>
+                            <div class="col">
+                        <table class="aktualnosci_table" cellpadding="5" cellspacing="0">
+                            <tbody>
+                                <tr class="aktualnosci_day">
+                                    <td><b>PONIEDZIAŁEK, 10&nbsp;listopada</b></td>
+                                    <td><b>Św.&nbsp;Leona Wielkiego</b></td>
+                                </tr>
+                                <tr style="border-bottom: 2px solid black;">
+                                    <td class="center">6.30</td>
+                                    <td>
+                        1. + Zmarłych z&nbsp;rodzin Podsiadłych, Witków i&nbsp;Mazurów<br>
+                        2. + Teresę Pilecką<br>
+                        3. + Marka Grębowca
+                                    </td>
+                                </tr>
+                                <tr style="border-bottom: 2px solid black;">
+                                    <td class="center">18.00</td>
+                                    <td>
+                        1. <strong>+ ks.&nbsp;Stanisława Chmielewskiego (10&nbsp;greg.)</strong><br>
+                        2. + Mariannę Stolarską<br>
+                        3. O&nbsp;doświadczenie Bożej miłości dla męża Piotra i&nbsp;ojca Tadeusza
+                                    </td>
+                                </tr>
+
+
+                                <tr class="aktualnosci_day">
+                                    <td><b>WTOREK, 11&nbsp;listopada</b></td>
+                                    <td><b>Św.&nbsp;Marcina z&nbsp;Tours<br>
+                                    107&nbsp;rocznica odzyskania niepodległości</b></td>
+                                </tr>
+                                <tr style="border-bottom: 2px solid black;">
+                                    <td class="center">6.30</td>
+                                    <td>
+                        1. + Katarzynę Zielińską<br>
+                        2. + Teresę Pilecką
+                                    </td>
+                                </tr>
+                                <tr style="border-bottom: 2px solid black;">
+                                    <td class="center">18.00</td>
+                                    <td>
+                        1. <strong>+ ks.&nbsp;Stanisława Chmielewskiego (11&nbsp;greg.)</strong><br>
+                        2. W&nbsp;intencji Ojczyzny<br>
+                        3. W&nbsp;intencji osób uzależnionych i&nbsp;ich rodzin, o&nbsp;wyzwolenie
+                        z&nbsp;nałogów, lęku i&nbsp;nienawiści
+                                    </td>
+                                </tr>
+
+
+                                <tr class="aktualnosci_day">
+                                    <td><b>ŚRODA, 12&nbsp;listopada</b></td>
+                                    <td><b>Św.&nbsp;Jozafata</b></td>
+                                </tr>
+                                <tr style="border-bottom: 2px solid black;">
+                                    <td class="center">6.30</td>
+                                    <td>
+                        1. + Stanisława Maszczyka<br>
+                        2. + Mirosławę Czerwiec<br>
+                        3. + Krystynę Kuśmirę
+                                    </td>
+                                </tr>
+                                <tr style="border-bottom: 2px solid black;">
+                                    <td class="center">18.00</td>
+                                    <td>
+                        1. <strong>+ ks.&nbsp;Stanisława Chmielewskiego (12&nbsp;gerg.)</strong><br>
+                        2. + Danutę Strójwąs<br>
+                        3. + Stanisława Sapielaka<br>
+                        4. + Wacława Boryckiego
+                                    </td>
+                                </tr>
+
+
+                                <tr class="aktualnosci_day">
+                                    <td><b>CZWARTEK, 13&nbsp;listopada</b></td>
+                                    <td><b>Świętych Benedykta, Izaaka, Mateusza, Jana
+                        i&nbsp;Krystyna</b></td>
+                                </tr>
+                                <tr style="border-bottom: 2px solid black;">
+                                    <td class="center">6.30</td>
+                                    <td>
+                        1. + Antoniego i&nbsp;Julię Serafinów<br>
+                        2. + Teresę Pilecką
+                                    </td>
+                                </tr>
+                                <tr style="border-bottom: 2px solid black;">
+                                    <td class="center">18.00</td>
+                                    <td>
+                        1. <strong>+ ks.&nbsp;Stanisława Chmielewskiego (13&nbsp;gerg.)</strong><br>
+                        2. + Helenę Juda, Grażynę Mądry (3&nbsp;rocz. śm.), Krystynę Piskur<br>
+                        3. + Joannę Młynarczyk
+                                    </td>
+                                </tr>
+
+
+                                <tr class="aktualnosci_day">
+                                    <td><b>PIĄTEK, 14&nbsp;listopada</b></td>
+                                    <td><b>Dzień powszedni</b></td>
+                                </tr>
+                                <tr style="border-bottom: 2px solid black;">
+                                    <td class="center">6.30</td>
+                                    <td>
+                        1. + Stanisława Maszczyka<br>
+                        2. + Teresę Pilecką<br>
+                        3. + Alojzego Ciszkiewicza
+                                    </td>
+                                </tr>
+                                <tr style="border-bottom: 2px solid black;">
+                                    <td class="center">18.00</td>
+                                    <td>
+                        1. <strong>+ ks.&nbsp;Stanisława Chmielewskiego (14&nbsp;gerg.)</strong><br>
+                        2. + Emilię, Henryka Chrząstowskich, Janinę Matyka<br>
+                        3. + Mariannę Stolarską<br>
+                        4. + Roberta Mikołajczyka
+                                    </td>
+                                </tr>
+
+
+                                <tr class="aktualnosci_day">
+                                    <td><b>SOBOTA, 15&nbsp;listopada</b></td>
+                                    <td><b>Św.&nbsp;Alberta Wielkiego</b></td>
+                                </tr>
+                                <tr style="border-bottom: 2px solid black;">
+                                    <td class="center">6.30</td>
+                                    <td>
+                        1. + Joannę Młynarczyk<br>
+                        2. + Teresę Pilecką
+                                    </td>
+                                </tr>
+                                <tr style="border-bottom: 2px solid black;">
+                                    <td class="center">18.00</td>
+                                    <td>
+                        1. <strong>+ ks.&nbsp;Stanisława Chmielewskiego (15&nbsp;gerg.)</strong><br>
+                        2. + Barbarę Wasińską (13&nbsp;rocz. śm.)<br>
+                        3. + Mariannę Stolarską<br>
+                        4. + Zofię Kuminek
+                                    </td>
+                                </tr>
+
+
+                                <tr class="aktualnosci_day">
+                                    <td><b>NIEDZIELA, 16&nbsp;listopada</b></td>
+                                    <td><b>
+                                        <span style="color: red">XXXIII Niedziela Zwykła</span>
+                                    </b></td>
+                                </tr>
+                                <tr style="border-bottom: 2px solid black;">
+                                    <td class="center">7.30</td>
+                                    <td>
+                        + Bogusława Stępińskiego (35&nbsp;rocz. śm.)
+                                    </td>
+                                </tr>
+                                <tr style="border-bottom: 2px solid black;">
+                                    <td class="center">9.30</td>
+                                    <td>
+                        + Bolesława Kamińskiego, zmarłych z&nbsp;rodzin Kamińskich i&nbsp;Szwajów
+                                    </td>
+                                </tr>
+                                <tr style="border-bottom: 2px solid black;">
+                                    <td class="center">11.15</td>
+                                    <td>
+                        W&nbsp;intencji rodzin z&nbsp;Domowego Kościoła, o&nbsp;Boże błogosławieństwo,
+                        opiekę Matki Najświętszej i&nbsp;potrzebne łaski
+                                    </td>
+                                </tr>
+                                <tr style="border-bottom: 2px solid black;">
+                                    <td class="center">12.30</td>
+                                    <td>
+                        W&nbsp;intencji Parafian
+                                    </td>
+                                </tr>
+                                <tr style="border-bottom: 2px solid black;">
+                                    <td class="center">18.00</td>
+                                    <td>
+                        1. <strong>+ ks.&nbsp;Stanisława Chmielewskiego (16&nbsp;gerg.)</strong><br>
+                        2. + Ryszarda Chrząstowskiego (4&nbsp;rocz. śm.)
+                                    </td>
+                                </tr>
+                            </tbody>
+                        </table>
+                            </div>
+                        </div>
+                        <br>
+
+                        <div class="card">
+                            <div class="card-header">
+                                <h3>9.&nbsp;listopada 2025&nbsp;r.</h3>
+                                <h3>Wspomnienie wszystkich wiernych zmarłych</h3>
+                            </div>
+                            <div class="col">
+                                <p>1. Dziś przeżywamy „Dzień Solidarności z&nbsp;Kościołem
+                                prześladowanym” – po&nbsp;Mszach św. jest możliwość złożenia ofiary
+                                do&nbsp;puszek na&nbsp;organizację „Kościół w&nbsp;potrzebie”.</p>
+                                <p>2. W&nbsp;najbliższy wtorek, tj.&nbsp;11&nbsp;listopada - Narodowe
+                                Święto Niepodległości. W&nbsp;tym dniu, Msza św. w&nbsp;intencji
+                                Ojczyzny o&nbsp;godz.&nbsp;18.00. Zapraszamy.</p>
+                                <p>3. W&nbsp;czwartek o&nbsp;godz.&nbsp;17.30 Wystawienie
+                                Najświętszego Sakramentu i&nbsp;okazja do&nbsp;osobistej adoracji.</p>
+                                <p>4. Próba scholii w&nbsp;piątek o&nbsp;godz.&nbsp;17.00.</p>
+                                <p>5. Rodziców dzieci pierwszokomunijnych zapraszamy na&nbsp;katechezę
+                                w&nbsp;piątek 14&nbsp;listopada o&nbsp;godz.&nbsp;18.30.</p>
+                                <p>6. Zapraszamy dzieci przygotowujące się do&nbsp;Pierwszej Komunii
+                                świętej na&nbsp;spotkanie w&nbsp;kościele w&nbsp;najbliższą sobotę,
+                                15&nbsp;listopada o&nbsp;godz.&nbsp;9.00.</p>
+                                <p>7. Wspólnota neokatechumenalna z&nbsp;Parafii św.&nbsp;Józefa
+                                w&nbsp;Sandomierzu zaprasza na&nbsp;katechezy ewangelizacyjne.
+                                Szczegóły na&nbsp;plakacie w&nbsp;gablocie.</p>
+                                <p>8. Na&nbsp;stoliku pod chórem jest do&nbsp;nabycia prasa katolicka
+                                oraz kalendarze z&nbsp;naszej drukarni diecezjalnej.</p>
+                                <p>9. W&nbsp;tym tygodniu ziemską pielgrzymkę zakończyli nasi
+                                parafianie: Marek Grębowiec, Andrzej Aleksandrowicz oraz Alojzy
+                                Ciszkiewicz z&nbsp;Sandomierza. Polećmy ich Bożemu miłosierdziu…</p>
+                                <p>10. Dziękujemy za&nbsp;wszelkie wsparcie duchowe i&nbsp;materialne
+                                naszej parafii. Wszystkim obchodzącym w&nbsp;tym tygodniu imieniny,
+                                rocznice i&nbsp;jubileusze składamy serdeczne życzenia. Naszym
+                                parafianom i&nbsp;gościom życzymy błogosławionej niedzieli.</p>
+                                <p>
+                                    <span style="float: left;">Sandomierz, 9.&nbsp;listopada 2025&nbsp;r.</span>
+                                    <span style="float: right; text-align: right;">ks. proboszcz Rafał Kobiałka</span>
+                                </p>
+                            </div>
+                        </div>
+                        <br>
 
                         <div class="card">
                             <div class="card-header">
