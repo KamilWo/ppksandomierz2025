@@ -21,7 +21,7 @@
         <tr style="border-bottom: 2px solid black;">
             <td class="center">18.00</td>
             <td>
-1. + <strong>ks.&nbsp;Stanisława Chmielewskiego (10&nbsp;greg.)</strong><br>
+1. + <strong>ks.&nbsp;Stanisława Chmielewskiego (17&nbsp;greg.)</strong><br>
 2. + Mariannę Stolarską<br>
 3. + Władysława i&nbsp;Irenę Młynarczyków
             </td>
@@ -42,7 +42,7 @@
         <tr style="border-bottom: 2px solid black;">
             <td class="center">18.00</td>
             <td>
-1. + <strong>ks.&nbsp;Stanisława Chmielewskiego (11&nbsp;greg.)</strong><br>
+1. + <strong>ks.&nbsp;Stanisława Chmielewskiego (18&nbsp;greg.)</strong><br>
 2. + Kazimierę i&nbsp;Franciszka Musiałów<br>
 3. + Janinę Dubiel<br>
 4. + Alojzego Ciszkiewicza
@@ -64,7 +64,7 @@
         <tr style="border-bottom: 2px solid black;">
             <td class="center">18.00</td>
             <td>
-1. + <strong>ks.&nbsp;Stanisława Chmielewskiego (12&nbsp;greg.)</strong><br>
+1. + <strong>ks.&nbsp;Stanisława Chmielewskiego (19&nbsp;greg.)</strong><br>
 2. ++ Zmarłych członków Legionu Maryi<br>
 3. + Albinę, (22&nbsp;rocz. śm.), Feliksa Borkowskich, Kazimierę
 Jaglewicz, Bronisławę Borkowską<br>
@@ -88,7 +88,7 @@ Jaglewicz, Bronisławę Borkowską<br>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">18.00</td>
             <td>
-1. + <strong>ks.&nbsp;Stanisława Chmielewskiego (13&nbsp;greg.)</strong><br>
+1. + <strong>ks.&nbsp;Stanisława Chmielewskiego (20&nbsp;greg.)</strong><br>
 2. + Henryka Sempiucha<br>
 3. + Mariannę Stolarską
             </td>
@@ -110,7 +110,7 @@ Jaglewicz, Bronisławę Borkowską<br>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">18.00</td>
             <td>
-1. + <strong>ks.&nbsp;Stanisława Chmielewskiego (14&nbsp;greg.)</strong><br>
+1. + <strong>ks.&nbsp;Stanisława Chmielewskiego (21&nbsp;greg.)</strong><br>
 2. + O&nbsp;Boże błogosławieństwo, dary Ducha Świętego, opiekę Matki
 Bożej i&nbsp;potrzebne łaski dla Katarzyny, i&nbsp;Adama Kowalów,
 i&nbsp;ich rodziny w&nbsp;10&nbsp;rocznicę zawarcia sakramentu
@@ -135,7 +135,7 @@ małżeństwa<br>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">18.00</td>
             <td>
-1. + <strong>ks.&nbsp;Stanisława Chmielewskiego (15&nbsp;greg.)</strong><br>
+1. + <strong>ks.&nbsp;Stanisława Chmielewskiego (22&nbsp;greg.)</strong><br>
 2. + Stefana Żaka (1&nbsp;rocz. śm.)<br>
 3. + Mariannę Stolarską
             </td>
@@ -176,7 +176,7 @@ małżeństwa<br>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">18.00</td>
             <td>
-1. <strong>+ ks.&nbsp;Stanisława Chmielewskiego (16&nbsp;greg.)</strong><br>
+1. <strong>+ ks.&nbsp;Stanisława Chmielewskiego (23&nbsp;greg.)</strong><br>
 2. W&nbsp;intencji Parafian
             </td>
         </tr>
