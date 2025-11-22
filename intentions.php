@@ -1,183 +1,182 @@
 <div class="card">
     <div class="card-header">
         <h3>INTENCJE MSZY ŚWIĘTYCH<br>
-            17.11. – 23.11.2025&nbsp;r.
+            24.11. – 30.11.2025&nbsp;r.
         </h3>
     </div>
     <div class="col">
 <table class="aktualnosci_table" cellpadding="5" cellspacing="0">
     <tbody>
         <tr class="aktualnosci_day">
-            <td><b>PONIEDZIAŁEK, 17&nbsp;listopada</b></td>
-            <td><b>Św.&nbsp;Elżbiety Węgierskiej</b></td>
+            <td><b>PONIEDZIAŁEK, 24&nbsp;listopada</b></td>
+            <td><b>Świętych męczenników Andrzeja Dung-Lac, prezbitera,
+            i&nbsp;Towarzyszy</b></td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">6.30</td>
             <td>
-1. + Stanisława Maszczyka<br>
-2. + Teresę Pilecką
+1. + Mariannę Liśkiewicz<br>
+2. + Cecylię Grębowiec
             </td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">18.00</td>
             <td>
-1. + <strong>ks.&nbsp;Stanisława Chmielewskiego (17&nbsp;greg.)</strong><br>
-2. + Mariannę Stolarską<br>
-3. + Władysława i&nbsp;Irenę Młynarczyków
+1. <strong>+ ks.&nbsp;Stanisława Chmielewskiego (24&nbsp;greg.)</strong><br>
+2. + Marię, Kazimierza Sochów, Marcelinę Bączkowską, zmarłych
+z&nbsp;rodziny Grządkowskich<br>
+3. + Mariannę Stolarską<br>
+4. + Wacława Boryckiego<br>
+5. O&nbsp;Boże błogosławieństwo dla Zofii z&nbsp;okazji urodzin
             </td>
         </tr>
 
 
         <tr class="aktualnosci_day">
-            <td><b>WTOREK, 18&nbsp;listopada</b></td>
-            <td><b>Bł.&nbsp;Karoliny Kózkówny</b></td>
-        </tr>
-        <tr style="border-bottom: 2px solid black;">
-            <td class="center">6.30</td>
-            <td>
-1. + Stanisława Maszczyka<br>
-2. + Teresę Pilecką
-            </td>
-        </tr>
-        <tr style="border-bottom: 2px solid black;">
-            <td class="center">18.00</td>
-            <td>
-1. + <strong>ks.&nbsp;Stanisława Chmielewskiego (18&nbsp;greg.)</strong><br>
-2. + Kazimierę i&nbsp;Franciszka Musiałów<br>
-3. + Janinę Dubiel<br>
-4. + Alojzego Ciszkiewicza
-            </td>
-        </tr>
-
-
-        <tr class="aktualnosci_day">
-            <td><b>ŚRODA, 19&nbsp;listopada</b></td>
+            <td><b>WTOREK, 25&nbsp;listopada</b></td>
             <td><b>Dzień powszedni</b></td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">6.30</td>
             <td>
 1. + Mariannę Liśkiewicz<br>
-2. + Mariana Biało, zm. z&nbsp;rodz. Biało i&nbsp;Kosmalów, Andrzeja Spadło
+2. + Wandę Kondrat
             </td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">18.00</td>
             <td>
-1. + <strong>ks.&nbsp;Stanisława Chmielewskiego (19&nbsp;greg.)</strong><br>
-2. ++ Zmarłych członków Legionu Maryi<br>
-3. + Albinę, (22&nbsp;rocz. śm.), Feliksa Borkowskich, Kazimierę
-Jaglewicz, Bronisławę Borkowską<br>
-4. + Alojzego Ciszkiewicza
+1. <strong>+ ks.&nbsp;Stanisława Chmielewskiego (25&nbsp;greg.)</strong><br>
+2. + Mariannę Stolarską<br>
+3. + Teresę Ogorzałek<br>
+4. + Mateusza Frańczaka
             </td>
         </tr>
 
 
         <tr class="aktualnosci_day">
-            <td><b>CZWARTEK, 20&nbsp;listopada</b></td>
-            <td><b>Św.&nbsp;Rafała Kalinowskiego</b></td>
+            <td><b>ŚRODA, 26&nbsp;listopada</b></td>
+            <td><b>Dzień powszedni</b></td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">6.30</td>
             <td>
-1. + Janinę Dubiel<br>
-2. + Dariusza Jastrząb, zmarłych z&nbsp;rodz. Ziębów<br>
+1. + Mariannę Stolarską<br>
+2. + Cecylię Grębowiec
+            </td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">18.00</td>
+            <td>
+1. <strong>+ ks.&nbsp;Stanisława Chmielewskiego (26&nbsp;greg.)</strong><br>
+2. + Mariannę Liśkiewicz<br>
+3. + Teresę Ogorzałek<br>
+4. + Krystynę Kuśmirę<br>
+5. + Alfonsa Kiliańskiego
+            </td>
+        </tr>
+
+
+        <tr class="aktualnosci_day">
+            <td><b>CZWARTEK, 27&nbsp;listopada</b></td>
+            <td><b>Dzień powszedni</b></td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">6.30</td>
+            <td>
+1. + Teresę Ogorzałek<br>
+2. + Mariana Świątańskiego<br>
 3. + Wacława Boryckiego
             </td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">18.00</td>
             <td>
-1. + <strong>ks.&nbsp;Stanisława Chmielewskiego (20&nbsp;greg.)</strong><br>
-2. + Henryka Sempiucha<br>
+1. <strong>+ ks.&nbsp;Stanisława Chmielewskiego (27&nbsp;greg.)</strong><br>
+2. + Mariannę Liśkiewicz<br>
 3. + Mariannę Stolarską
             </td>
         </tr>
 
 
         <tr class="aktualnosci_day">
-            <td><b>PIĄTEK, 21&nbsp;listopada</b></td>
-            <td><b>Ofiarowanie Najświętszej Maryi Panny</b></td>
+            <td><b>PIĄTEK, 28&nbsp;listopada</b></td>
+            <td><b>Dzień powszedni</b></td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">6.30</td>
             <td>
-1. + Mariannę Stolarską<br>
-2. + Stanisława Pacholczyka<br>
-3. + Zofię Kuminek
+1. + Zdzisława, Teodozję i&nbsp;zmarłych z&nbsp;rodziny oraz dusze
+w&nbsp;czyśćcu cierpiące<br>
+2. + Wiktora Marzec
             </td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">18.00</td>
             <td>
-1. + <strong>ks.&nbsp;Stanisława Chmielewskiego (21&nbsp;greg.)</strong><br>
-2. + O&nbsp;Boże błogosławieństwo, dary Ducha Świętego, opiekę Matki
-Bożej i&nbsp;potrzebne łaski dla Katarzyny, i&nbsp;Adama Kowalów,
-i&nbsp;ich rodziny w&nbsp;10&nbsp;rocznicę zawarcia sakramentu
-małżeństwa<br>
-3. + Janinę Dubiel
+1. <strong>+ ks.&nbsp;Stanisława Chmielewskiego (28&nbsp;greg.)</strong><br>
+2. + Mariannę Liśkiewicz<br>
+3. + Teresę Ogorzałek
             </td>
         </tr>
 
 
         <tr class="aktualnosci_day">
-            <td><b>SOBOTA, 22&nbsp;listopada</b></td>
-            <td><b>Św.&nbsp;Cecylii</b></td>
+            <td><b>SOBOTA, 29&nbsp;listopada</b></td>
+            <td><b>Dzień powszedni</b></td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">6.30</td>
             <td>
-1. + Mariannę Stolarską<br>
-2. + Cecylię Grębowiec<br>
-3. + Stanisława Muchę
+1. + Dorotę Surmę (8&nbsp;rocz. śm.)<br>
+2. + Cecylię Grębowiec
             </td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">18.00</td>
             <td>
-1. + <strong>ks.&nbsp;Stanisława Chmielewskiego (22&nbsp;greg.)</strong><br>
-2. + Stefana Żaka (1&nbsp;rocz. śm.)<br>
-3. + Mariannę Stolarską
+1. <strong>+ ks.&nbsp;Stanisława Chmielewskiego (29&nbsp;greg.)</strong><br>
+2. + Jana Chmiela<br>
+3. + Stefana Żaka (1&nbsp;rocz. śm.)
             </td>
         </tr>
 
 
         <tr class="aktualnosci_day">
-            <td><b>NIEDZIELA, 23&nbsp;listopada</b></td>
+            <td><b>NIEDZIELA, 30&nbsp;listopada</b></td>
             <td><b>
-                <span style="color: red">Uroczystość Jezusa Chrystusa
-                Króla Wszechświata</span>
+                <span style="color: red">I niedziela Adwentu</span>
             </b></td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">7.30</td>
             <td>
-+ Ryszarda Pietruszkę (rocz.) i&nbsp;zm. z&nbsp;rodziny Pietruszków
+W&nbsp;intencji Parafian
             </td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">9.30</td>
             <td>
-+ Genowefę i&nbsp;Mieczysława Chaupczaków
++ Andrzeja, Bogusława, Anielę Spadło
             </td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">11.15</td>
             <td>
-+ Zofię, Bolesława, Lucjana Gajewskich, Teresę i&nbsp;Jana Szczepaniaków
++ Jana (rocz. śm.)
             </td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">12.30</td>
             <td>
-+ Czesława (rocz.) Otolię Ciachów, Małgorzatę Krawczyk
++ Irenę Teter (3&nbsp;rocz. śm.), Marię i&nbsp;Józefa Mierzwa
             </td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">18.00</td>
             <td>
-1. <strong>+ ks.&nbsp;Stanisława Chmielewskiego (23&nbsp;greg.)</strong><br>
-2. W&nbsp;intencji Parafian
+1. <strong>+ ks.&nbsp;Stanisława Chmielewskiego (30&nbsp;greg.)</strong><br>
+2. + Małgorzatę Chmiel
             </td>
         </tr>
     </tbody>

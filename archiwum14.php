@@ -19,7 +19,261 @@ include 'head.php';
                     <!-- treść główna -->
                     <div class="col">
                         <h2 class="first-content-header">Archiwum wiadomości 2025 rok</h2>
-                        <h2>Okres 1.&nbsp;stycznia - 16.&nbsp;listopada 2025&nbsp;r.</h2>
+                        <h2>Okres 1.&nbsp;stycznia - 23.&nbsp;listopada 2025&nbsp;r.</h2>
+
+                        <div class="card">
+                            <div class="card-header">
+                                <h3>INTENCJE MSZY ŚWIĘTYCH<br>
+                                    17.11. – 23.11.2025&nbsp;r.
+                                </h3>
+                            </div>
+                            <div class="col">
+                        <table class="aktualnosci_table" cellpadding="5" cellspacing="0">
+                            <tbody>
+                                <tr class="aktualnosci_day">
+                                    <td><b>PONIEDZIAŁEK, 17&nbsp;listopada</b></td>
+                                    <td><b>Św.&nbsp;Elżbiety Węgierskiej</b></td>
+                                </tr>
+                                <tr style="border-bottom: 2px solid black;">
+                                    <td class="center">6.30</td>
+                                    <td>
+                        1. + Stanisława Maszczyka<br>
+                        2. + Teresę Pilecką
+                                    </td>
+                                </tr>
+                                <tr style="border-bottom: 2px solid black;">
+                                    <td class="center">18.00</td>
+                                    <td>
+                        1. + <strong>ks.&nbsp;Stanisława Chmielewskiego (17&nbsp;greg.)</strong><br>
+                        2. + Mariannę Stolarską<br>
+                        3. + Władysława i&nbsp;Irenę Młynarczyków
+                                    </td>
+                                </tr>
+
+
+                                <tr class="aktualnosci_day">
+                                    <td><b>WTOREK, 18&nbsp;listopada</b></td>
+                                    <td><b>Bł.&nbsp;Karoliny Kózkówny</b></td>
+                                </tr>
+                                <tr style="border-bottom: 2px solid black;">
+                                    <td class="center">6.30</td>
+                                    <td>
+                        1. + Stanisława Maszczyka<br>
+                        2. + Teresę Pilecką
+                                    </td>
+                                </tr>
+                                <tr style="border-bottom: 2px solid black;">
+                                    <td class="center">18.00</td>
+                                    <td>
+                        1. + <strong>ks.&nbsp;Stanisława Chmielewskiego (18&nbsp;greg.)</strong><br>
+                        2. + Kazimierę i&nbsp;Franciszka Musiałów<br>
+                        3. + Janinę Dubiel<br>
+                        4. + Alojzego Ciszkiewicza
+                                    </td>
+                                </tr>
+
+
+                                <tr class="aktualnosci_day">
+                                    <td><b>ŚRODA, 19&nbsp;listopada</b></td>
+                                    <td><b>Dzień powszedni</b></td>
+                                </tr>
+                                <tr style="border-bottom: 2px solid black;">
+                                    <td class="center">6.30</td>
+                                    <td>
+                        1. + Mariannę Liśkiewicz<br>
+                        2. + Mariana Biało, zm. z&nbsp;rodz. Biało i&nbsp;Kosmalów, Andrzeja Spadło
+                                    </td>
+                                </tr>
+                                <tr style="border-bottom: 2px solid black;">
+                                    <td class="center">18.00</td>
+                                    <td>
+                        1. + <strong>ks.&nbsp;Stanisława Chmielewskiego (19&nbsp;greg.)</strong><br>
+                        2. ++ Zmarłych członków Legionu Maryi<br>
+                        3. + Albinę, (22&nbsp;rocz. śm.), Feliksa Borkowskich, Kazimierę
+                        Jaglewicz, Bronisławę Borkowską<br>
+                        4. + Alojzego Ciszkiewicza
+                                    </td>
+                                </tr>
+
+
+                                <tr class="aktualnosci_day">
+                                    <td><b>CZWARTEK, 20&nbsp;listopada</b></td>
+                                    <td><b>Św.&nbsp;Rafała Kalinowskiego</b></td>
+                                </tr>
+                                <tr style="border-bottom: 2px solid black;">
+                                    <td class="center">6.30</td>
+                                    <td>
+                        1. + Janinę Dubiel<br>
+                        2. + Dariusza Jastrząb, zmarłych z&nbsp;rodz. Ziębów<br>
+                        3. + Wacława Boryckiego
+                                    </td>
+                                </tr>
+                                <tr style="border-bottom: 2px solid black;">
+                                    <td class="center">18.00</td>
+                                    <td>
+                        1. + <strong>ks.&nbsp;Stanisława Chmielewskiego (20&nbsp;greg.)</strong><br>
+                        2. + Henryka Sempiucha<br>
+                        3. + Mariannę Stolarską
+                                    </td>
+                                </tr>
+
+
+                                <tr class="aktualnosci_day">
+                                    <td><b>PIĄTEK, 21&nbsp;listopada</b></td>
+                                    <td><b>Ofiarowanie Najświętszej Maryi Panny</b></td>
+                                </tr>
+                                <tr style="border-bottom: 2px solid black;">
+                                    <td class="center">6.30</td>
+                                    <td>
+                        1. + Mariannę Stolarską<br>
+                        2. + Stanisława Pacholczyka<br>
+                        3. + Zofię Kuminek
+                                    </td>
+                                </tr>
+                                <tr style="border-bottom: 2px solid black;">
+                                    <td class="center">18.00</td>
+                                    <td>
+                        1. + <strong>ks.&nbsp;Stanisława Chmielewskiego (21&nbsp;greg.)</strong><br>
+                        2. + O&nbsp;Boże błogosławieństwo, dary Ducha Świętego, opiekę Matki
+                        Bożej i&nbsp;potrzebne łaski dla Katarzyny, i&nbsp;Adama Kowalów,
+                        i&nbsp;ich rodziny w&nbsp;10&nbsp;rocznicę zawarcia sakramentu
+                        małżeństwa<br>
+                        3. + Janinę Dubiel
+                                    </td>
+                                </tr>
+
+
+                                <tr class="aktualnosci_day">
+                                    <td><b>SOBOTA, 22&nbsp;listopada</b></td>
+                                    <td><b>Św.&nbsp;Cecylii</b></td>
+                                </tr>
+                                <tr style="border-bottom: 2px solid black;">
+                                    <td class="center">6.30</td>
+                                    <td>
+                        1. + Mariannę Stolarską<br>
+                        2. + Cecylię Grębowiec<br>
+                        3. + Stanisława Muchę
+                                    </td>
+                                </tr>
+                                <tr style="border-bottom: 2px solid black;">
+                                    <td class="center">18.00</td>
+                                    <td>
+                        1. + <strong>ks.&nbsp;Stanisława Chmielewskiego (22&nbsp;greg.)</strong><br>
+                        2. + Stefana Żaka (1&nbsp;rocz. śm.)<br>
+                        3. + Mariannę Stolarską
+                                    </td>
+                                </tr>
+
+
+                                <tr class="aktualnosci_day">
+                                    <td><b>NIEDZIELA, 23&nbsp;listopada</b></td>
+                                    <td><b>
+                                        <span style="color: red">Uroczystość Jezusa Chrystusa
+                                        Króla Wszechświata</span>
+                                    </b></td>
+                                </tr>
+                                <tr style="border-bottom: 2px solid black;">
+                                    <td class="center">7.30</td>
+                                    <td>
+                        + Ryszarda Pietruszkę (rocz.) i&nbsp;zm. z&nbsp;rodziny Pietruszków
+                                    </td>
+                                </tr>
+                                <tr style="border-bottom: 2px solid black;">
+                                    <td class="center">9.30</td>
+                                    <td>
+                        + Genowefę i&nbsp;Mieczysława Chaupczaków
+                                    </td>
+                                </tr>
+                                <tr style="border-bottom: 2px solid black;">
+                                    <td class="center">11.15</td>
+                                    <td>
+                        + Zofię, Bolesława, Lucjana Gajewskich, Teresę i&nbsp;Jana Szczepaniaków
+                                    </td>
+                                </tr>
+                                <tr style="border-bottom: 2px solid black;">
+                                    <td class="center">12.30</td>
+                                    <td>
+                        + Czesława (rocz.) Otolię Ciachów, Małgorzatę Krawczyk
+                                    </td>
+                                </tr>
+                                <tr style="border-bottom: 2px solid black;">
+                                    <td class="center">18.00</td>
+                                    <td>
+                        1. <strong>+ ks.&nbsp;Stanisława Chmielewskiego (23&nbsp;greg.)</strong><br>
+                        2. W&nbsp;intencji Parafian
+                                    </td>
+                                </tr>
+                            </tbody>
+                        </table>
+                            </div>
+                        </div>
+                        <br>
+
+                        <div class="card">
+                            <div class="card-header">
+                                <h3>16.&nbsp;listopada 2025&nbsp;r.</h3>
+                                <h3>XXXIII&nbsp;Niedziela Zwykła, Rok&nbsp;C</h3>
+                            </div>
+                            <div class="col">
+                                <p>1. Dziś w&nbsp;Kościele powszechnym obchodzimy Dzień Ubogiego.
+                                Za&nbsp;tydzień Uroczystość Jezusa Chrystusa Króla Wszechświata.
+                                Ostatnia niedziela roku liturgicznego.</p>
+                                <p>2. W&nbsp;tym tygodniu oddajemy cześć świętym: w&nbsp;poniedziałek
+                                Elżbiecie Węgierskiej, we&nbsp;wtorek błogosławionej Karolinie
+                                Kózkównie, w&nbsp;czwartek św.&nbsp;Rafałowi Kalinowskiemu,
+                                w&nbsp;piątek Maryi w&nbsp;tajemnicy Jej ofiarowania. W&nbsp;sobotę
+                                natomiast czcimy świętą Cecylię – patronkę muzyków kościelnych.
+                                Pamiętajmy szczególnie tego dnia o&nbsp;naszym Panu Organiście.</p>
+                                <p>3. Wczoraj na&nbsp;hali sportowej pod balonem przy szkole
+                                podstawowej nr&nbsp;1 w&nbsp;Sandomierzu odbył się dekanalny turniej
+                                piłki nożnej. Reprezentanci naszej parafii zajęli pierwsze miejsce
+                                w&nbsp;najstarszej kategorii wygrywając z&nbsp;parafią katedralną 5:0,
+                                a&nbsp;w&nbsp;kategorii najmłodszych nasza drużyna również zdobyła
+                                pierwsze miejsce wygrywając 5:2 z&nbsp;parafią Św.&nbsp;Józefa.
+                                Gratulujemy naszym zawodnikom i&nbsp;czekamy na&nbsp;kolejne sukcesy.</p>
+                                <p>4. W&nbsp;najbliższy piątek po&nbsp;Mszy świętej wieczornej
+                                (około godz.&nbsp;18.30) katecheza dla rodziców bierzmowanych.</p>
+                                <p>5. Serdecznie zapraszamy na&nbsp;próbę scholii w&nbsp;piątek
+                                o&nbsp;godz.&nbsp;17.00.</p>
+                                <p>6. W&nbsp;najbliższy czwartek 20&nbsp;listopada, w&nbsp;kościele
+                                Ojców Dominikanów w&nbsp;Tarnobrzegu odbędzie się kolejna
+                                z&nbsp;Katechez Jubileuszowych pt.&nbsp;„Regularność czy okazja?
+                                O&nbsp;częstotliwości spowiedzi i&nbsp;stałym spowiednictwie”.</p>
+                                <p>7. W&nbsp;sobotę 22&nbsp;listopada br. w&nbsp;Sanktuarium MB
+                                Dzikowskiej w&nbsp;Tarnobrzegu, odbędzie się kolejna konferencja
+                                w&nbsp;ramach Roku Jubileuszowego pt.&nbsp;„Małżeństwo odblaskiem
+                                jedności Trójcy Świętej. O&nbsp;relacjach w&nbsp;małżeństwie”.
+                                Rozpoczęcie Eucharystią o&nbsp;godz.&nbsp;18, następnie konferencja.</p>
+                                <p>8. Dnia 23&nbsp;listopada w&nbsp;Niedzielę Chrystusa Króla
+                                w&nbsp;Sandomierzu odbędzie się coroczne spotkanie członków Akcji
+                                Katolickiej. Początek o&nbsp;godz.&nbsp;10.30 w&nbsp;Bazylice
+                                Katedralnej.</p>
+                                <p>9. Wspólnota Przyjaciele Oblubieńca przy Parafii księży Pallotynów
+                                zaprasza na&nbsp;kurs Maria Magdalena, skierowany do&nbsp;kobiet -
+                                które pragną odnowić i&nbsp;pogłębić żywą relację z&nbsp;Bogiem.
+                                Będzie to&nbsp;czas spotkania z&nbsp;Bogiem, ze&nbsp;sobą samą
+                                i&nbsp;z&nbsp;innymi kobietami. Informacje na&nbsp;plakacie i&nbsp;pod
+                                podanym numerem telefonu.</p>
+                                <p>10. Serdecznie zachęcamy do&nbsp;obejrzenia programu Siewcy Słowa
+                                na&nbsp;TVP Kielce. W&nbsp;najbliższą sobotę o&nbsp;10.45 i&nbsp;19.00,
+                                lub w&nbsp;niedzielę o&nbsp;10.50. Nadchodzący odcinek został nagrany
+                                w&nbsp;naszym kościele.</p>
+                                <p>11. Dziękuję bardzo za&nbsp;waszą ofiarność. Tydzień temu
+                                do&nbsp;puszek na&nbsp;rzecz kościoła w&nbsp;potrzebie złożyliście
+                                2627&nbsp;zł. <em>Bóg zapłać!</em></p>
+                                <p>12. W&nbsp;tym tygodniu ziemską pielgrzymkę zakończył nasz
+                                parafianin Alfons Kiliański. Polećmy go&nbsp;Bożemu miłosierdziu…</p>
+                                <p>13. Dziękujemy za&nbsp;wszelkie wsparcie duchowe i&nbsp;materialne
+                                naszej parafii. Wszystkim obchodzącym w&nbsp;tym tygodniu imieniny,
+                                rocznice i&nbsp;jubileusze składamy serdeczne życzenia. Naszym
+                                Parafianom i&nbsp;Gościom życzymy błogosławionej niedzieli.</p>
+                                <p>
+                                    <span style="float: left;">Sandomierz, 16.&nbsp;listopada 2025&nbsp;r.</span>
+                                    <span style="float: right; text-align: right;">ks. proboszcz Rafał Kobiałka</span>
+                                </p>
+                            </div>
+                        </div>
+                        <br>
 
                         <div class="card">
                             <div class="card-header">
