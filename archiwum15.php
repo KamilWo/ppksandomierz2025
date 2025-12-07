@@ -68,7 +68,7 @@ include 'head.php';
                                 <tr style="border-bottom: 2px solid black;">
                                     <td class="center">18.00</td>
                                     <td>
-                        1. O&nbsp;Boże błogosławieństwo dla Ireny z&nbsp;racji urodzin<br>
+                        1. O Boże błogosławieństwo dla Ireny z&nbsp;racji urodzin<br>
                         2. + Teresę Ogorzałek<br>
                         3. + Wacława Boryckiego<br>
                         4. + Mieczysława Frydla
