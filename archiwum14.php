@@ -19,7 +19,249 @@ include 'head.php';
                     <!-- treść główna -->
                     <div class="col">
                         <h2 class="first-content-header">Archiwum wiadomości 2025 rok</h2>
-                        <h2>Okres 1.&nbsp;stycznia - 7.&nbsp;grudzień 2025&nbsp;r.</h2>
+                        <h2>Okres 1.&nbsp;stycznia - 14.&nbsp;grudzień 2025&nbsp;r.</h2>
+
+                        <div class="card">
+                            <div class="card-header">
+                                <h3>INTENCJE MSZY ŚWIĘTYCH<br>
+                                    8.12. – 14.12.2025&nbsp;r.
+                                </h3>
+                            </div>
+                            <div class="col">
+                        <table class="aktualnosci_table" cellpadding="5" cellspacing="0">
+                            <tbody>
+                                <tr class="aktualnosci_day">
+                                    <td><b>PONIEDZIAŁEK, 8&nbsp;grudnia</b></td>
+                                    <td><b>Uroczystość Niepokalanego Poczęcia NMP</b></td>
+                                </tr>
+                                <tr style="border-bottom: 2px solid black;">
+                                    <td class="center">6.30</td>
+                                    <td>
+                        1. + Mariannę Stolarską<br>
+                        2. + Kazimierza Zimoląga
+                                    </td>
+                                </tr>
+                                <tr style="border-bottom: 2px solid black;">
+                                    <td class="center">18.00</td>
+                                    <td>
+                        1. + Mariannę Czajkę i&nbsp;zmarłych z&nbsp;rodzin Czajków i Gachów<br>
+                        2. + Józefa (18&nbsp;rocz. śm.), Reginę Buczków, Łucję, Wojciecha,
+                            Dionizego Książków, Zofię, Mariana Wróblewskich<br>
+                        3. + Mieczysława Frydla
+                                    </td>
+                                </tr>
+
+
+                                <tr class="aktualnosci_day">
+                                    <td><b>WTOREK, 9&nbsp;grudnia</b></td>
+                                    <td><b>Dzień powszedni</b></td>
+                                </tr>
+                                <tr style="border-bottom: 2px solid black;">
+                                    <td class="center">6.30</td>
+                                    <td>
+                        1. + Zmarłych z&nbsp;rodzin Kijanków i&nbsp;Radzimowskich<br>
+                        2. + Kazimierza Zimoląga
+                                    </td>
+                                </tr>
+                                <tr style="border-bottom: 2px solid black;">
+                                    <td class="center">18.00</td>
+                                    <td>
+                        1. W&nbsp;intencji osób uzależnionych i&nbsp;ich rodzin.
+                            O&nbsp;wyzwolenie z&nbsp;nałogów, lęku i&nbsp;nienawiści.<br>
+                        2. + Mariannę Liśkiewicz<br>
+                        3. + Krystynę Kuśmirę<br>
+                        4. + Stanisława Muchę<br>
+                        5. + Mieczysława Frydla
+                                    </td>
+                                </tr>
+
+
+                                <tr class="aktualnosci_day">
+                                    <td><b>ŚRODA, 10&nbsp;grudnia</b></td>
+                                    <td><b>Dzień powszedni</b></td>
+                                </tr>
+                                <tr style="border-bottom: 2px solid black;">
+                                    <td class="center">6.30</td>
+                                    <td>
+                        1. + Mariannę Stolarską<br>
+                        2. + Kazimierza Zimoląga
+                                    </td>
+                                </tr>
+                                <tr style="border-bottom: 2px solid black;">
+                                    <td class="center">18.00</td>
+                                    <td>
+                        1. O&nbsp;doświadczenie Bożej miłości dla męża Piotra i&nbsp;ojca
+                            Tadeusza.<br>
+                        2. + Zofię i&nbsp;Jana Łukaszków<br>
+                        3. + Mateusza Frańczaka<br>
+                        4. + Zofię Kuminek<br>
+                        5. + Zofię Skorupską
+                                    </td>
+                                </tr>
+
+
+                                <tr class="aktualnosci_day">
+                                    <td><b>CZWARTEK, 11&nbsp;grudnia</b></td>
+                                    <td><b>Dzień powszedni</b></td>
+                                </tr>
+                                <tr style="border-bottom: 2px solid black;">
+                                    <td class="center">6.30</td>
+                                    <td>
+                        1. + Mariannę Stolarską<br>
+                        2. + Mariana Cichonia
+                                    </td>
+                                </tr>
+                                <tr style="border-bottom: 2px solid black;">
+                                    <td class="center">18.00</td>
+                                    <td>
+                        1. + Mariannę Liśkiewicz<br>
+                        2. + Teresę Ogorzałek<br>
+                        3. + Stanisława Muchę<br>
+                        4. + Marka Steca
+                                    </td>
+                                </tr>
+
+
+                                <tr class="aktualnosci_day">
+                                    <td><b>PIĄTEK, 12&nbsp;grudnia</b></td>
+                                    <td><b>Dzień powszedni</b></td>
+                                </tr>
+                                <tr style="border-bottom: 2px solid black;">
+                                    <td class="center">6.30</td>
+                                    <td>
+                        1. + Marię Misztal (rocz. śm.)<br>
+                        2. + Mariana Cichonia
+                                    </td>
+                                </tr>
+                                <tr style="border-bottom: 2px solid black;">
+                                    <td class="center">18.00</td>
+                                    <td>
+                        1. + Teresę Ogorzałek<br>
+                        2. + Sylwestra Jurkowskiego<br>
+                        3. + Mieczysława Frydla
+                                    </td>
+                                </tr>
+
+
+                                <tr class="aktualnosci_day">
+                                    <td><b>SOBOTA, 13&nbsp;grudnia</b></td>
+                                    <td><b>Wspomnienie św.&nbsp;Łucji</b></td>
+                                </tr>
+                                <tr style="border-bottom: 2px solid black;">
+                                    <td class="center">6.30</td>
+                                    <td>
+                        1. + Klaudię-Krzysztofę Trojanowską<br>
+                        2. + Cecylię Grębowiec
+                                    </td>
+                                </tr>
+                                <tr style="border-bottom: 2px solid black;">
+                                    <td class="center">18.00</td>
+                                    <td>
+                        1. + Piotra i&nbsp;Bronisławę Pęków, i&nbsp;zmarłych z&nbsp;rodzin
+                            Pęków i&nbsp;Dobków<br>
+                        2. + Teresę Ogorzałek<br>
+                        3. + Krystynę Kuśmirę<br>
+                        4. + Zofię Kuminek
+                                    </td>
+                                </tr>
+
+
+                                <tr class="aktualnosci_day">
+                                    <td><b>NIEDZIELA, 14&nbsp;grudnia</b></td>
+                                    <td><b>
+                                        <span style="color: red">III niedziela Adwentu</span>
+                                    </b></td>
+                                </tr>
+                                <tr style="border-bottom: 2px solid black;">
+                                    <td class="center">7.30</td>
+                                    <td>
+                        + Mariannę Pliżgę
+                                    </td>
+                                </tr>
+                                <tr style="border-bottom: 2px solid black;">
+                                    <td class="center">9.30</td>
+                                    <td>
+                        + Andrzeja Kowalczyka i&nbsp;zmarłych z&nbsp;rodzin Szymanków
+                            i&nbsp;Kowalczyków
+                                    </td>
+                                </tr>
+                                <tr style="border-bottom: 2px solid black;">
+                                    <td class="center">11.15</td>
+                                    <td>
+                        W&nbsp;intencji Parafian
+                                    </td>
+                                </tr>
+                                <tr style="border-bottom: 2px solid black;">
+                                    <td class="center">12.30</td>
+                                    <td>
+                        + Anielę, Romualda Kapisów, Jadwigę i&nbsp;Ryszarda Kieców
+                                    </td>
+                                </tr>
+                                <tr style="border-bottom: 2px solid black;">
+                                    <td class="center">18.00</td>
+                                    <td>
+                        1. + Mariana Biało, zmarłych z&nbsp;rodzin Biało i&nbsp;Kosmalów<br>
+                        2. + Mateusza Frańczaka
+                                    </td>
+                                </tr>
+                            </tbody>
+                        </table>
+                            </div>
+                        </div>
+                        <br>
+
+                        <div class="card">
+                            <div class="card-header">
+                                <h3>7.&nbsp;grudzień 2025&nbsp;r.</h3>
+                                <h3>II Niedziela Adwentu</h3>
+                            </div>
+                            <div class="col">
+                                <p>1. Trwamy w&nbsp;adwentowym oczekiwaniu na&nbsp;powtórne przyjście
+                                Pana i&nbsp;przygotowaniu do&nbsp;świąt Bożego Narodzenia.</p>
+                                <p>2. Roraty w&nbsp;dni powszednie o&nbsp;godz.&nbsp;6.20.</p>
+                                <p>3. Jutro, w&nbsp;poniedziałek 8&nbsp;grudnia, obchodzimy
+                                uroczystość Niepokalanego Poczęcia Najświętszej Maryi Panny. Msze
+                                święte o&nbsp;godz.&nbsp;6.20 i&nbsp;18.00.</p>
+                                <p>4. Spotkanie dla dzieci pierwszokomunijnych w&nbsp;najbliższą
+                                sobotę, 13&nbsp;grudnia, o&nbsp;godz.&nbsp;9.00 w&nbsp;kościele.
+                                Spotkanie potrwa około 1,5&nbsp;godziny. W&nbsp;niedzielę
+                                14&nbsp;grudnia, na&nbsp;Mszy Świętej o&nbsp;godz.&nbsp;12.30
+                                poświęcimy i&nbsp;wręczymy dzieciom komunijnym medaliki. Katecheza
+                                dla rodziców dzieci pierwszokomunijnych w&nbsp;piątek 12&nbsp;grudnia
+                                o&nbsp;godz.&nbsp;18.30.</p>
+                                <p>5. Zapraszamy na&nbsp;obowiązkowe spotkanie kandydatów
+                                do&nbsp;bierzmowania z&nbsp;klasy&nbsp;8, w&nbsp;najbliższy czwartek,
+                                11&nbsp;grudnia o&nbsp;godz.&nbsp;18.30.</p>
+                                <p>6. Dziś dzień pomocy Kościołowi na&nbsp;wschodzie, w&nbsp;krajach
+                                byłego Związku Sowieckiego. Można wesprzeć tamtejszy Kościół ofiarą
+                                do&nbsp;puszek.</p>
+                                <p>7. Gościmy dziś wolontariuszy z&nbsp;domu dziecka w&nbsp;Tarnopolu.
+                                Na&nbsp;Mszach świętych modliła się z&nbsp;nami pani Katarzyna
+                                z&nbsp;zespołu Światło. Po&nbsp;Mszy Świętej będzie można złożyć
+                                ofiarę na&nbsp;rzecz dzieci osieroconych przez wojnę. Można też nabyć
+                                bombki choinkowe, korale, płyty zespołu Światło oraz karpackie
+                                rękodzieło. Dochód ze&nbsp;sprzedaży będzie przeznaczony także
+                                na&nbsp;pomoc dzieciom domu dziecka.</p>
+                                <p>8. W&nbsp;przyszłą niedzielę na&nbsp;Mszę Świętą
+                                o&nbsp;godz.&nbsp;9.30 przybędą harcerze z&nbsp;betlejemskim światłem
+                                pokoju.</p>
+                                <p>9. Są&nbsp;do&nbsp;nabycia świece Caritas, których dochód
+                                przeznaczony jest na&nbsp;Wigilijne Dzieło Pomocy Dzieciom.</p>
+                                <p>10. W&nbsp;zakrystii są&nbsp;także do odebrania opłatki.</p>
+                                <p>11. W&nbsp;ostatnim tygodniu swoją ziemską pielgrzymkę zakończyli
+                                nasi parafianie: Marek Stec i&nbsp;Marek Zięba. Polećmy ich Bożemu
+                                miłosierdziu.</p>
+                                <p>12. Dziękujemy za&nbsp;wszelkie duchowe i&nbsp;materialne wsparcie
+                                naszej parafii. Wszystkim obchodzącym w&nbsp;tym tygodniu imieniny,
+                                rocznice i&nbsp;jubileusze składamy serdeczne życzenia. Naszym
+                                Parafianom i&nbsp;Gościom życzymy błogosławionej niedzieli.</p>
+                                <p>
+                                    <span style="float: left;">Sandomierz, 7.&nbsp;grudzień 2025&nbsp;r.</span>
+                                    <span style="float: right; text-align: right;">ks. proboszcz Rafał Kobiałka</span>
+                                </p>
+                            </div>
+                        </div>
+                        <br>
 
                         <div class="card">
                             <div class="card-header">
