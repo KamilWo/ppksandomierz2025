@@ -1,60 +1,140 @@
-<h2 class="first-content-header"><i class="fa fa-person-walking"></i> Wizyta duszpasterska</h2>
+<h2 class="first-content-header">
+    <i class="fa fa-person-walking"></i> WIZYTA DUSZPASTERSKA 2025/2026
+</h2>
 
 <div class="card">
-    <div>
-        <p>Bardzo serdecznie dziękujemy wszystkim parafianom, którzy
-        w&nbsp;minionym tygodniu przyjęli nas w&nbsp;swoich
-        domach. Dziękujemy za&nbsp;wszelkie wyrazy życzliwości
-        i&nbsp;serdeczności z&nbsp;jakimi spotkaliśmy się
-        z&nbsp;Waszej strony. Niech dobry Bóg Wam wszystkim
-        błogosławi.</p>
-    </div>
     <div class="card-header">
-        <h3>Prządek Wizyty Duszpasterskiej 2024/2025 w&nbsp;tym tygodniu</h3>
+        <h4><i class="fa fa-triangle-exclamation"></i> <strong>Uwaga:</strong> PLAN WIZYTY DUSZPASTERSKIEJ MOŻE ULEC ZMIANIE.<br>
+        Program wizyty duszpasterskiej dostępny jest na&nbsp;stronie internetowej parafii.</h4>
     </div>
 
     <div class="col">
-        <p style="font-weight: bold; text-decoration: underline;">7&nbsp;STYCZNIA (WTOREK)</p>
-        <p><strong>Od&nbsp;godz.&nbsp;15.00:</strong></p>
-        <p>I&nbsp;Ksiądz – ul.&nbsp;Rolnicza ul.&nbsp;Ożarowska
-        od&nbsp;nr&nbsp;123 w&nbsp;kierunku Sandomierza</p>
-        <p>II&nbsp;Ksiądz – ul.&nbsp;Ożarowska od&nbsp;nr.&nbsp;5
-        do&nbsp;zejścia</p>
-        <p>III&nbsp;Ksiądz – Batalionów Chłopskich, Wiosenna
-        i&nbsp;od&nbsp;16.00 Wiśniowa</p><br>
-
-        <p style="font-weight: bold; text-decoration: underline;">8&nbsp;STYCZNIA (ŚRODA)</p>
-        <p><strong>Od&nbsp;godz.&nbsp;15.00:</strong></p>
-        <p>I&nbsp;Ksiądz –  ul.&nbsp;Kochanowskiego od&nbsp;nr&nbsp;2</p>
-        <p>II&nbsp;Ksiądz – ul.&nbsp;Kochanowskiego od&nbsp;nr&nbsp;72
-        do&nbsp;zejścia</p>
-        <p>III&nbsp;Ksiądz – ul.&nbsp;Sucharzowska i&nbsp;Klonowa</p><br>
-
-        <p style="font-weight: bold; text-decoration: underline;">9&nbsp;STYCZNIA (CZWARTEK)</p>
-        <p><strong>Od&nbsp;godz.&nbsp;15.00:</strong></p>
-        <p><storng>Ul.&nbsp;Dąbrowskiego</storng></p>
-        <p>I&nbsp;Ksiądz – ul.&nbsp;Szczęśliwa i&nbsp;następnie
-        ul.&nbsp;Dąbrowskiego od&nbsp;nr.&nbsp;3</p>
-        <p>II&nbsp;Ksiądz – od&nbsp;nr.&nbsp;64 do&nbsp;zejścia
-        i&nbsp;ul.&nbsp;Młodożeńca</p>
-        <p>III&nbsp;Ksiądz – Gałczyńskiego, Frankowskiego i&nbsp;Wiejska</p><br>
-
-        <p style="font-weight: bold; text-decoration: underline;">10&nbsp;STYCZNIA (PIĄTEK)</p>
-        <p><strong>Od&nbsp;godz.&nbsp;15.00 Kobierniki:</strong></p>
-        <p>I&nbsp;Ksiądz – od&nbsp;nr&nbsp;119 i&nbsp;kolejne przy drodze
-        w&nbsp;kierunku Milczan</p>
-        <p>II&nbsp;Ksiądz – od&nbsp;nr&nbsp;197 następnie 195, 194
-        do&nbsp;zejścia</p>
-        <p>III&nbsp;Ksiądz numery domów: 219, 218, 216, 212, 210,
-        a&nbsp;potem 230 i&nbsp;dalej po&nbsp;drodze do&nbsp;Sandomierza</p><br>
-
-        <p style="font-weight: bold; text-decoration: underline;">11&nbsp;STYCZNIA (SOBOTA)</p>
-        <p><strong>Od&nbsp;godz.&nbsp;9.00 Kobierniki:</strong></p>
-        <p>I&nbsp;Ksiądz – od&nbsp;ul.&nbsp;Polnej</p>
-        <p>II&nbsp;Ksiądz – od&nbsp;ul.&nbsp;Mickiewicza nr&nbsp;115, 116,
-        107, 106 kolejne do&nbsp;zejścia</p>
-        <p>III&nbsp;Ksiądz – ul.&nbsp;Obrońców Westerplatte i&nbsp;ul.&nbsp;Przytulna</p><br>
-
+        <div class="card-body p-0 mb-2">
+            <div class="table-responsive">
+                <table class="table table-hover mb-0">
+                    <thead class="table-light">
+                        <tr>
+                            <th scope="col" class="ps-4">DZIEŃ</th>
+                            <th scope="col">GODZINA</th>
+                            <th scope="col">MIEJSCE</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td class="ps-4 fw-bold">27&nbsp;grudnia <br><small class="text-muted">Sobota</small></td>
+                            <td>09:00</td>
+                            <td>
+                                <strong>1&nbsp;Ksiądz:</strong> ul.&nbsp;Mickiewicza (domy prywatne),
+                                ul.&nbsp;Kubeszewskiego, ul.&nbsp;Polskiej Organizacji Wojskowej<br>
+                                <strong>2&nbsp;Księży:</strong> Milczany i&nbsp;Kobierniki
+                                po&nbsp;szosie od&nbsp;Żurawicy w&nbsp;kierunku Sandomierza
+                            </td>
+                        </tr>
+                        <tr>
+                            <td class="ps-4 fw-bold">29&nbsp;grudnia <br><small class="text-muted">Poniedziałek</small></td>
+                            <td>15:00</td>
+                            <td>
+                                <strong>Milczany:</strong><br>
+                                <strong>1&nbsp;Ksiądz:</strong> Milczany od&nbsp;końca<br>
+                                <strong>2&nbsp;Księży:</strong> Milczany Wieś
+                            </td>
+                        </tr>
+                        <tr>
+                            <td class="ps-4 fw-bold">30&nbsp;grudnia <br><small class="text-muted">Wtorek</small></td>
+                            <td>15:00</td>
+                            <td>
+                                <strong>2 Księży:</strong> ul.&nbsp;Kwiatkowskiego (prawa i&nbsp;lewa strona),
+                                Chwałki (domy przy ul.&nbsp;Kwiatkowskiego 1B, 1A, 5, 5A, 6, 7),
+                                ul.&nbsp;Orzechowa<br>
+                                <strong>3 Ksiądz:</strong> ul.&nbsp;Skłodowskiej i&nbsp;ul.&nbsp;Młodożeńca
+                            </td>
+                        </tr>
+                        <tr>
+                            <td class="ps-4 fw-bold">2&nbsp;stycznia <br><small class="text-muted">Piątek</small></td>
+                            <td>15:00</td>
+                            <td>
+                                <strong>1&nbsp;Ksiądz:</strong> ul.&nbsp;Dąbrowskiego<br>
+                                <strong>2&nbsp;Księży:</strong> ul.&nbsp;Obrońców Westerplatte
+                            </td>
+                        </tr>
+                        <tr>
+                            <td class="ps-4 fw-bold" rowspan="2">3 stycznia <br><small class="text-muted">Sobota</small></td>
+                            <td>09:00</td>
+                            <td>
+                                <strong>Kobierniki:</strong><br>
+                                <strong>1&nbsp;Ksiądz</strong>: Kobierniki Górne od&nbsp;ul.&nbsp;Mickiewicza<br>
+                                <strong>2&nbsp;Ksiądz</strong>: Kobierniki Górne od&nbsp;ul.&nbsp;Polnej<br>
+                                <strong>3&nbsp;Ksiądz</strong>: Kobierniki Wieś
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>16:00</td>
+                            <td><strong>3&nbsp;Księży:</strong> ul.&nbsp;Przytulna, ul.&nbsp;Batalionów Chłopskich,
+                            ul.&nbsp;Frankowskiego</td>
+                        </tr>
+                        <tr>
+                            <td class="ps-4 fw-bold">5&nbsp;stycznia <br><small class="text-muted">Poniedziałek</small></td>
+                            <td>15:00</td>
+                            <td>
+                                <strong>1&nbsp;Ksiądz:</strong> ul.&nbsp;Kochanowskiego<br>
+                                <strong>2&nbsp;Ksiądz:</strong> ul.&nbsp;Asnyka, ul.&nbsp;Reymonta,
+                                ul.&nbsp;Gałczyńskiego<br>
+                                <strong>3&nbsp;Ksiądz:</strong> ul.&nbsp;Wiejska, ul.&nbsp;Orzeszkowej,
+                                ul.&nbsp;Modrzewskiego
+                            </td>
+                        </tr>
+                        <tr>
+                            <td class="ps-4 fw-bold" rowspan="2">7&nbsp;stycznia <br><small class="text-muted">Środa</small></td>
+                            <td>15:00</td>
+                            <td>
+                                <strong>1&nbsp;Ksiądz:</strong> Grodzisko, ul.&nbsp;Różana, ul.&nbsp;Szczęśliwa<br>
+                                <strong>2&nbsp;Ksiądz:</strong> ul.&nbsp;Harcerska
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>16:00</td>
+                            <td><strong>3 Ksiądz:</strong> ul.&nbsp;15-sierpnia, ul.&nbsp;Wiosenna</td>
+                        </tr>
+                        <tr>
+                            <td class="ps-4 fw-bold">8&nbsp;stycznia <br><small class="text-muted">Czwartek</small></td>
+                            <td>15:00</td>
+                            <td>
+                                <strong>2&nbsp;Księży:</strong> ul.&nbsp;Ożarowska, ul.&nbsp;Rolnicza<br>
+                                <strong>3&nbsp;Ksiądz:</strong> ul.&nbsp;Wiśniowa i&nbsp;ul.&nbsp;Morelowa
+                            </td>
+                        </tr>
+                        <tr>
+                            <td class="ps-4 fw-bold" rowspan="2">9&nbsp;stycznia <br><small class="text-muted">Piątek</small></td>
+                            <td>15:00</td>
+                            <td>
+                                <strong>1&nbsp;Ksiądz:</strong> ul.&nbsp;Warzywna, ul.&nbsp;Jabłoniowa,
+                                Stara Prochownia<br>
+                                <strong>2&nbsp;Ksiądz:</strong> ul.&nbsp;Polna
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>16:00</td>
+                            <td><strong>3&nbsp;Ksiądz:</strong> ul.&nbsp;Sadownicza, ul.&nbsp;Brzoskwiniowa</td>
+                        </tr>
+                        <tr>
+                            <td class="ps-4 fw-bold">10&nbsp;stycznia <br><small class="text-muted">Sobota</small></td>
+                            <td>09:00</td>
+                            <td>
+                                <strong>Chwałki cz.&nbsp;I:</strong><br>
+                                Plan zostanie podany w&nbsp;Boże Narodzenie.
+                            </td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+        </div>
+        <div class="text-center">
+            <h5 class="card-title">Kontakt</h5>
+            <p class="card-text">W&nbsp;razie jakichwilwiek pytań dotyczących
+            Wizyty duszpasterskiej prosimy o&nbsp;kontakt:</p>
+            <p class="fw-bold mb-0">ks.&nbsp;Krystian</p>
+            <a href="tel:+48662500621" class="btn btn-outline-primary mt-2">+48 662 500 621</a>
+        </div>
     </div>
 </div>
 <br>

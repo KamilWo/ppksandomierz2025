@@ -22,7 +22,7 @@ include 'head.php';
                         <h2 class="first-content-header"><i class="fa fa-archive"></i> Archiwum wiadomości</h2>
 
                         <div class="row">
-                            <!-- <div class="col-md-6 col-lg-4">
+                            <div class="col-md-6 col-lg-4">
                                 <div class="card">
                                     <div class="card-header">
                                       1.&nbsp;stycznia - 1.&nbsp;stycznia 2026&nbsp;r.
@@ -32,7 +32,7 @@ include 'head.php';
                                     </div>
                                 </div>
                                 <br>
-                            </div> -->
+                            </div>
                             <div class="col-md-6 col-lg-4">
                                 <div class="card">
                                     <div class="card-header">
